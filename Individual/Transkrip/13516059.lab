@@ -1,0 +1,80 @@
+13516059_001 selamat siang semuanya terimakasih sebelumnya karena teman-teman disini telah bersedia meluangkan waktu untuk hadir pada rapat perdana hari ini
+13516059_002 perkenalkan saya disini sebagai product owner dan sesuai agenda pada hari ini
+13516059_003 rapat kali ini akan membahas mengenai proyek aplikasi tryout daring yang juga nanti akan dikerjakan oleh teman-teman semua yang ada disini
+13516059_004 sebelum memulai rapat perdana hari ini mungkin saya akan buka terlebih dahulu dengan doa pembuka
+13516059_005 berdoa dimulai menurut kepercayaan masing-masing
+13516059_006 berdoa dicukupkan
+13516059_007 kalau dilihat kelihatannya banyak anggota baru ya yang ikut mengerjakan proyek kali ini
+13516059_008 maka dari itu sebelumnya mungkin agar bisa lebih saling kenal
+13516059_009 dimohon untuk memperkenalkan diri kalian masing-masing
+13516059_010 mungkin bisa dimulai dari divisi teknis kemudian dilanjutkan divisi pengembangan bisnis lalu divisi penulis konten terakhir divisi sponsorship
+13516059_011 oke baik sudah semuanya ya memperkenalkan diri masing-masing kalau begitu gantian saya yang menjelaskan tujuan dan maksud proyek ini
+13516059_012 proyek ini diinisiasikan dengan tujuan untuk membantu siswa-siswi adik-adik kita yang sekarang berada pada jenjang sma atau sederajat agar mereka dapat belajar tryout secara daring darimanapun dan kapanpun
+13516059_013 terutama ditargetkan untuk siswa-siswi sma yang sedang menjalani persiapan ujian nasional maupun sbmptn 
+13516059_014 perihal tenggat waktu proyek ini direncanakan sudah harus selesai dan rampung sebelum bulan januari nanti mungkin dapat dicatat untuk rekan-rekan semua disini khususnya untuk divisi teknis
+13516059_015 jadi harapannya agar adik-adik sma sudah mulai bisa mengerjakan tes secara daring menggunakan aplikasi kita 
+13516059_016 mengingat ujian nasional maupun sbmptn yang akan dilaksanakan sekitar bulan maret atau april 
+13516059_017 kemudian untuk masalah tempat kerja
+13516059_018 kita juga sudah menyediakan tempat untuk teman-teman semua
+13516059_019 sebenarnya bebas teman-teman semua disini ingin bekerjanya dari tempat lain atau dari kantor 
+13516059_020 kita sudah sediakan tempat jadi kalau misalnya kalian ingin bekerja di kantor silakan kalau tidak ya tidak apa
+13516059_021 tetapi diharapkan selalu datang tepat waktu setiap rapat mingguan yang nanti akan saya jadwalkan kembali
+13516059_022 jadi kantor kita ada ya dua pertama disini lalu yang kedua ada di dipatiukur
+13516059_023 nah setelah ini saya akan menjelaskan mengenai seperti apa sistem yang diinginkan oleh klien
+13516059_024 lalu untuk teman-teman yang berada divisi teknis khususnya boleh berkomentar bertanya atau interupsi apabila ada hal yang kurang jelas dari penjelasan saya ya
+13516059_025 mungkin bisa dimulai dari yang pertama yaitu aplikasi ini sebenarnya akan dicanangkan dan dibuat dalam bentuk aplikasi web
+13516059_026 jadi semua orang diharapkan bisa mengakses dan mengerjakan tryout secara daring lewat web browser
+13516059_027 lebih lanjut lagi rencana kedepannya mungkin aplikasi ini dapat dikembangkan dan diperluas ke skala yang lebih besar lagi
+13516059_028 contohnya diperluas ke aplikasi jenis mobile sehingga adik-adik sma bisa mengakses ujian jauh lebih fleksibel
+13516059_029 lalu seperti yang sudah saya jelaskan pertama kali dan sesuai dengan namanya
+13516059_030 aplikasi ini menyediakan fitur tryout daring
+13516059_031 jadi ada dua jenis tryout yang kita sediakan di aplikasi ini yaitu pertama tes penuh dan kedua tes persiapan
+13516059_032 untuk jenis tes persiapan semua orang bisa mengakses soal tanpa harus masuk ke aplikasi
+13516059_033 misalnya ketika pengguna memilih menu tes persiapan dengan memilih menu mata pelajaran matematika ipa
+13516059_034 maka nanti semua soal yang berkaitan dengan matematika ipa akan ditampilkan
+13516059_035 oh iyaa betul pertanyaan yang bagus nanti soalnya akan dipaketkan ke dalam satu paket
+13516059_036 setiap paket nanti isinya terdiri dari sekian banyak soal misalnya lima puluh butir soal
+13516059_037 kemudian yang akan diacak itu paket soalnya lalu nanti akan ditampilkan soal-soal dari paket tersebut
+13516059_038 ketika pengguna sudah selesai mengerjakan tes ini maka akan ditampilkan nilai atau hasil pengerjaan mereka
+13516059_039 akan tetapi pada tes persiapan tidak ada yang namanya skema penyimpanan nilai pengguna ke sistem
+13516059_040 lalu jenis tes ini tidak ada perhitungan batas waktu sehingga pengguna dapat bebas mengerjakan tes tanpa dibatasi oleh waktu
+13516059_041 jadi yang ada adalah sistem perhitungan waktu secara menaik
+13516059_042 untuk jenis ujian tes penuh pengguna hanya perlu masuk ke aplikasi sehingga pengerjaan jenis tes penuh tidak dapat dilakukan secara anonim berbeda halnya dengan tes persiapan
+13516059_043 alasannya karena pengguna diharuskan masuk ke aplikasinya terlebih dahulu
+13516059_044 hal ini mengingat adanya sistem pengumpulan nilai pada jenis tes ini
+13516059_045 nilai yang dikumpulkan akan menjadi tolok ukur kemampuan akademis pengguna
+13516059_046 mereka bisa melihat dan mengamati sejauh mana kemampuan akademis mereka
+13516059_047 apakah perlahan naik turun atau stagnan secara historis dengan melihat grafik nilai yang telah disediakan oleh aplikasi ini
+13516059_048 sistem pengumpulan nilai harus bisa melakukan pengurutan nilai rata-rata dari seluruh pengguna
+13516059_049 sehingga si pengguna dapat mengetahui dia sedang berada di peringkat ke berapa berdasarkan nilai yang diperoleh dengan membandingkan dengan nilai pengguna lain
+13516059_050 kemudian juga untuk sistem perhitungan waktunya secara menurun
+13516059_051 artinya ada batas waktu pengerjaan ujian
+13516059_052 jadi nanti ada yang namanya sistem poin untuk mengakses tes penuh ini
+13516059_053 tes penuh hanya bisa dikerjakan dengan membayar melalui mekanisme poin
+13516059_054 nah untuk nominal biaya yang harus dibayarkan untuk satuan poinnya nanti akan dibicarakan lebih lanjut mengenai hal itu di sesi  rapat berikutnya namun bukan pada sesi rapat kali ini
+13516059_055 lalu nanti untuk skema pengisian poin bisa melalui pembayaran secara daring pembayarannya dapat dilakukan melalui perbankan maupun dompet elektronik
+13516059_056 apakah sampai disini sudah cukup jelas penjelasan saya apakah ada pertanyaan dari teman-teman divisi teknis
+13516059_057 baik tidak ada pertanyaan ya kalau begitu saya lanjutkan
+13516059_058 berikutnya saya akan membahas mengenai masalah konten soal
+13516059_059 untuk divisi penulis konten ada tiga orang ya
+13516059_060 kalian bertiga nanti akan ditugaskan untuk mencari soal-soal dan menulis soal untuk dimasukkan ke aplikasi 
+13516059_061 harapannya kalian sudah mencari konten soal ya khususnya yang terkait dengan ujian nasional dan sbmptn
+13516059_062 kemudian saya akan jadwalkan rapat khusus untuk divisi pengembangan bisnis untuk membicarakan perihal potensi bisnis pengeluaran yang harus dilakukan dan hal lainnya
+13516059_063 oh iya kemudian saya juga akan menggabungkan rapat khusus nanti dengan divisi sponsor
+13516059_064 ada lima anggota di divisi sponsor
+13516059_065 masing-masing dari kalian nanti akan ditugaskan untuk mencari rekan sponsor dari pihak eksternal khususnya di tingkat akademisi seperti universitas
+13516059_066 selanjutnya dimohon teman-teman untuk membuat proposal sponsor dan membuat daftar calon rekan sponsor untuk menjadi bahasan pada rapat khusus berikutnya
+13516059_067 rapat khusus nanti hanya akan terdiri dari divisi sponsor dan divisi pengembangan bisnis
+13516059_068 lalu untuk divisi teknis nanti akan dibicarakan kembali mengenai rapat mingguannya
+13516059_069 jadi mungkin rapat mingguan khusus divisi teknis akan diadakan setiap hari kamis nanti akan saya berikan jadwal resminya lewat pesan elektronik
+13516059_070 lalu setelah rapat ini selesai nanti akan saya berikan kebutuhan sistemnya secara tertulis kepada penanggung jawab divisi teknis
+13516059_071 kemudian tolong setiap rapat berikutnya berikan setidaknya laporan kemajuan berupa laporan secara grafis fitur mana yang sudah dikerjakan yang sedang dikerjakan yang belum dikerjakan maupun kendala yang sedang dihadapi
+13516059_072 dimohon juga untuk divisi teknis  saling berunding untuk mencapai tujuan dari proyek ini mengingat waktu pengerjaan proyek ini cukup singkat yaitu hanya sekitar dua bulan dari sekarang
+13516059_073 diingatkan kembali untuk saling bekerjamasama antar anggota divisi maupun lintas divisi
+13516059_074 apabila ada kendala teknis maupun hal lain mungkin bisa dikomunikasikan lewat jaringan komunikasi yang telah disiapkan perusahaan
+13516059_075 apakah sampai disini ada pertanyaan dari  teman-teman semua 
+13516059_076 baik apabila tidak ada pertanyaan dari  teman-teman rapat perdana hari ini saya cukupkan sampai disini saja dengan mengakhirinya dengan sebuah doa penutup
+13516059_077 berdoa dimulai menurut kepercayaan dan agama masing-masing
+13516059_078 berdoa dicukupkan
+13516059_079 baik saya ucapkan terimakasih sekali lagi untuk  teman-teman semua yang telah hadir disini selamat bekerja dan jangan lupa tetap semangat 
+13516059_080 kalau begitu sampai jumpa kembali pada rapat berikutnya

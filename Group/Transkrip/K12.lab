@@ -1,0 +1,250 @@
+13516082_001 ya selamat siang semuanya
+13516082_002 sekarang kita ada di pertemuan untuk proyek alkali untuk membahas perencanaan pengerjaan seminggu ke depan
+13516082_003 ya kita sudah ada dari bagian proses pengerjaan dan dari bagian pengerjaan tampilan
+13516082_004 ok dari bagian proses bisa tolong cerita minggu lalu sudah ngerjain apa aja
+13516082_005 jadi minggu lalu kami sudah mengerjakan untuk bagian pemesanan
+13516082_006 kami juga sudah membuat bagian riwayat pemesanan sehingga nanti para penjual dapat melihat riwayat pesanan apa saja yang sudah mereka terima
+13516082_007 bagian ini juga nantinya akan menunjukan akumulasi dari pendapatan mereka untuk suatu waktu tertentu
+13516082_008 jadi dari dua tanggal yang dipilih oleh seorang penjual penjual akan mendapatkan statistik pendapatan mereka dari sumber sumber apa aja 
+13516082_009 dari bagian pemrosesan juga kita sudah buat fungsi untuk autentikasi pengguna
+13516082_010 ya sepertinya itu aja sih yang udah kami kerjain minggu lalu
+13516082_011 ok terima kasih selanjutnya dari bagian tampilan
+13516082_012 dari bagian tampilan untuk minggu lalu kami udah buat halaman pembuatan penjual baru
+13516082_013 tapi untuk halaman pelaporan statistik tadi yang dari bagian pemrosesan masih harus kita bawa ke minggu ini lagi sayangnya
+13516082_014 selain itu ada beberapa perbaikan juga yang harus kita masih bawa sampai minggu ini
+13516082_015 oh gitu kira-kira kalau diubah jadi poin pengerjaan butuh berapa ya yang dibawa ke minggu ini
+13516082_016 jadi kira-kira masih sekitar ada dua poin pengerjaan yang masih harus dibawa ke minggu ini
+13516082_017 ok mau mengingatkan lagi untuk tiap bagian kalian punya maksimal sepuluh poin pengerjaan tiap minggu
+13516082_018 karena bagian tampilan ada dua poin yang dibawa dari minggu lalu untuk minggu ini kita tambah delapan lagi
+13516082_019 nah target kita untuk minggu ini sebenarnya untuk hari rabu diharapkan kita udah bisa rilis produk ini ke pasaran
+13516082_020 fitur fitur yang diharapkan siap di hari rabu itu yang berhubungan dengan pesanan baru penjual baru pendaftaran dari agen dan juga pemesanan secara daring
+13516082_021 selanjutnya kita masuk ke sesi pembagian tugas untuk minggu ini ada udah ada beberapa kartu yang aku buat untuk bagian pemrosesan dan bagian tampilan
+13516082_022 untuk bagian pemrosesan fokus kita di minggu ini itu pengembangan lebih lanjut fitur pemesanan daring dan juga integrasi dengan bagian bisnis
+13516082_023 fitur pemesanan daring ini kan masih belum bisa menggunakan kupon nah untuk minggu ini fitur utama yang akan kita kembangkan itu berhubungan dengan kupon
+13516082_024 ini di layar ada kartu pertama berhubungan dengan pengembangan kupon yaitu fungsi menampilkan kupon dari bagian pemrosesan kira-kira butuh berapa poin pengerjaan untuk bagian ini
+13516082_025 seharusnya untuk kartu ini cukup satu poin
+13516082_026 yakin ya satu poin berarti satu hari selesai kan ya
+13516082_027 sebenarnya bukan satu hari juga mungkin yang poinnya rendah itu mudah tapi butuh waktu
+13516082_028 tapi untuk yang kartu ini seharusnya ga lebih dari satu hari pengerjaannya
+13516082_029 satu hari itu udah termasuk validasi dan tes kan ya
+13516082_030 iya kita standardnya untuk satu kartu itu wajib divalidasi dan dites
+13516082_031 kartu selanjutnya memasukan kupon ketika melakukan pemesanan ini kira-kira butuh berapa poin ya
+13516082_032 yang ini sepertinya dua poin soalnya harus melakukan pemeriksaan dulu ke basis data kupon
+13516082_033 selanjutnya kirim data pemesanan ke basis data bagian bisnis di tiap pemesanan baru ini kira-kira butuh berapa poin
+13516082_034 tunggu untuk fungsi pengirimannya yang di proyek ini udah ada belum ya
+13516082_035 fungsi pengiriman udah kok udah dibuat dua minggu lalu
+13516082_036 oh kalau udah dibuat ya berarti satu poin aja cukup untuk kartu yang ini
+13516082_037 selanjutnya kirim data perubahan status pemesanan ke basis data bisnis yang ini satu poin juga
+13516082_038 yang ini sepertinya dua soalnya perubahan statusnya banyak dan agak rumit
+13516082_039 untuk bagian pemrosesan sepertinya cukup
+13516082_040 untuk bagian pemrosesan apa ada pertanyaan
+13516082_041 yang alamat untuk pengiriman data foto dan ktp itu jadi gimana ya
+13516082_042 oh yang itu masih diproses menunggu bagian keamanan seharusnya besok udah sih
+13516082_043 ok nanti kalau udah ada alamatnya tolong dikabarin ya
+13516082_044 apa ada pertanyaan lagi untuk bagian pemrosesan
+13516082_045 kalau tidak ada berarti cukup untuk yang bagian pemrosesan sekarang kita lanjut ke bagian tampilan
+13516082_046 yang bagian tampilan fokus kita untuk minggu ini yaitu penyelesaian halaman halaman yang berhubungan dengan fungsi dasar
+13516082_047 berarti penyelesaian halaman masuk halaman buat pesanan dan halaman registrasi
+13516082_048 sejauh ini yang udah selesai kan baru halaman masuk kira-kira untuk minggu ini mungkin apa tidak ya menyelesaikan halaman pesanan dan registrasi
+13516082_049 seharusnya bisa karena kemarin kemarin kita banyak makan waktu di membuat dasar dasar implementasi desain
+13516082_050 sekarang implementasi desain dasarnya udah selesai kita bisa lebih cepat untuk menyelesaikan halamannya
+13516082_051 oh gitu seharusnya yang implementasi desain dasar itu dikabarin juga ke kita agar bisa kita data perkembangannya
+13516082_052 oh ya maaf kalo gitu
+13516082_053 nantinya kalau memang ada tugas atau pekerjaan yang memang relevan ke proyek ini dikabarin aja biar kita juga tahu apa yang lagi dikerjain
+13516082_054 ok untuk bagian tampilan kartu pertama yaitu menyelesaikan tampilan buat pesanan baru ini kira-kira butuh berapa poin
+13516082_055 untuk yang ini butuh sekitar dua poin walaupun implementasi desain dasarnya sudah selesai tetap butuh waktu lebih untuk validasi dan tes nya
+13516082_056 kartu selanjutnya penyelesaian tampilan registrasi penjual baru ini kira-kira butuh berapa poin
+13516082_057 yang ini dua poin juga sepertinya alasannya sama seperti yang kartu sebelumnya
+13516082_058 sebentar di layar itu nunjukin yang kolom ktp sebagai wajib ini ada perubahan
+13516082_059 bukannya minggu lalu kesepakatannya jadi ga wajib ya
+13516082_060 jadi ada pemberitahuan dari bagian bisnis kalau untuk registrasi penjual ktp itu wajib
+13516082_061 oh gitu berarti di bagian pemrosesan butuh tambah satu kartu lagi untuk memeriksa kolom ktp
+13516082_062 ok yang bagian tampilan tadi jadi dua poin ya
+13516082_063 nah ini satu kartu lagi untuk bagian pemrosesan yaitu pengecekan nomor ktp saat registrasi penjual baru
+13516082_064 ok sip berarti yang pemrosesan pas ya udah sepuluh poin
+13516082_065 lanjut ke kartu berikutnya untuk bagian tampilan yaitu penyelesaian tampilan statistik pesanan butuh berapa poin
+13516082_066 yang ini agak besar sih soalnya kita belum punya kode untuk membuat tabelnya
+13516082_067 kira-kira bisa selesai minggu ini apa tidak ya
+13516082_068 aku tidak bisa jamin sih untuk yang ini selesai kita kurang orang soalnya
+13516082_069 dari bagian pemrosesan ada yang bisa bantu
+13516082_070 wah kita juga agak sibuk sepertinya yang ini memang ga bisa selesai minggu ini
+13516082_071 ok kalau gitu kita masukin fitur ini ke bagian yang opsional aja
+13516082_072 udah selesai semuanya apa ada pertanyaan
+13516082_073 perkiraan produk ini mulai aktif di pasaran kapan ya
+13516082_074 jadi rentang waktu produk ini aktif di pasaran diharapkannya mulai dari bulan depan
+13516082_075 nah minggu ini akan ada rapat dengan pemilik perusahaan untuk mendemonstrasikan proyek kita
+13516082_076 kalau demonstrasinya lancar minggu depan produk ini udah bisa mulai dipasarkan dan diharapkan mulai aktif seperti produk lain di bulan depan
+13516082_077 ada pertanyaan lagi
+13516082_078 kalau tidak ada terima kasih semuanya sudah datang semoga lancar pekerjaannya semoga proyek kita ini bisa sukses dan memperoleh keuntungan yang besar
+13516082_079 sebelum bubar ada satu lagi pemberitahuan dari bagian relasi karyawan
+13516082_080 bagi pegawai magang tolong jangan lupa pengumpulan daftar pekerjaan yang dikerjakan di bulan ini
+13516082_081 terus untuk pegawai tetap sesuai rencana akan ada program pelatihan mengenai basis data minggu depan
+13516082_082 untuk pelatihan ini ada yang mau berpartisipasi
+13516082_083 sepertinya untuk yang pelatihan tim kita cukup sibuk
+13516082_084 ya seharusnya ini lebih tepat untuk bagian pemrosesan kan
+13516082_085 dari pemrosesan kalau mengirim pegawai magang bagaimana
+13516082_086 aku belum tau bisa atau tidak nanti aku tanyakan ke bagian relasi karyawan
+13516082_087 kalau yang program jalan jalan apa kabarnya ya
+13516082_088 oh yang itu sedang diproses pelaksanaannya bulan depan
+13516082_089 jadi pada mau pergi ke mana 
+13516082_090 rencananya kita akan ke bali jalan jalan sekitar satu minggu bersama seluruh karyawan yang di sini bagian pemrosesan atau bagian pengembangan tampilan
+13516084_001 selamat siang rekan rekan perusahaan ini saya maulana akmal sebagai ketua tim teknologi dari perusahaan ini
+13516084_002 pada kesempatan kali ini kita akan membahas tentang pembagian divisi dan workflow yang akan diterapkan di perusahaan ini tentunya ini sangat penting untuk keberlangsungan teknologi dari perusahaan
+13516084_003 jadi meeting ini kita mulai sekarang
+13516084_004 pertama kita akan melakukan pembagian divisi
+13516084_005 solusi yang saya tawarkan adalah membagi dua divisi yaitu divisi software engineer dan divisi devops
+13516084_006 kenapa seperti ini
+13516084_007 karena dari segi struktur mereka sudah sangat berbeda
+13516084_008 yang satu adalah untuk mengembangkan fitur dan yang satunya lagi adalah untuk menjaga stabilitas software ketika berjalan dan juga pada saat deployment
+13516084_009 disini apakah ada yang keberatan
+13516084_010 iya
+13516084_011 saya
+13516084_012 baik silahkan rifo
+13516084_013 menurut saya
+13516084_014 sistem seperti ini sangat sederhana
+13516084_015 belum ada spesifikasi lebih lanjut
+13516084_016 tentunya ini sangat kita perlukan agar lebih termanage
+13516084_017 seperti pada software engineer harusnya bisa dipecah lagi menjadi tim seperti mobile backend dan web
+13516084_018 nah seperti itu dari saya
+13516084_019 baik rifo
+13516084_020 sepertinya saran anda cukup masuk akal
+13516084_021 yang lain apa masukan
+13516084_022 baik
+13516084_023 sepertinya tidak ada
+13516084_024 kalau begitu saya setuju dengan saran dari saudara rifo
+13516084_025 kita akan membagi lagi tim software engineer menjadi tim mobile web dan backend
+13516084_026 kemudian untuk pemimpin setiap divisinya yaitu untuk devops akan dipimpin oleh saudara rifo sendiri dan divisi mobile akan dipimpin oleh dion saputra divisi web akan dipimpin oleh ilham wahabi dan divisi backend akan dipimpin oleh saudara ensof
+13516084_027 sampai disini apakah ada yang keberatan
+13516084_028 sepertinya semuanya setuju
+13516084_029 kita akan melanjutkan ke pembahasan selanjutnya yaitu masalah workflow
+13516084_030 bagian pertama yaitu kita akan menggunakan git
+13516084_031 kenapa
+13516084_032 karena git itu a adalah sebuah tool yang sangat sering digunakan dan menjadi standar de facto dari dunia developer
+13516084_033 tunggu saya merasa ini adalah keputusan yang terlalu cepat
+13516084_034 kita harus melakukan research lebih lanjut tentan versioning control tentunya banyak version control selain git disana seperti scm dan mercurial
+13516084_035 disini saya berharap akan ada follow up dari anda
+13516084_036 baik
+13516084_037 memang terasa tanpa alasan bagi saya memilih git
+13516084_038 dan saya akui itu adalah kesalahan saya
+13516084_039 saya akan memikirkannya lagi dan mungkin saya akan menjadwalkan meeting untuk beberapa orang untuk memikirkan solusi bagi masalah ini
+13516084_040 ada masukan yang lain
+13516084_041 sepertinya tidak
+13516084_042 kemudian
+13516084_043 kita akan melakukan hosting dari repositorinya kepada situs github
+13516084_044 github adalah salah satu sistus yang sangat sering digunakan di dunia
+13516084_045 tunggu tunggu
+13516084_046 kenapa harus github
+13516084_047 apakah ada alasan lainnya
+13516084_048 kenapa kita tidak mencoba bitbucket atau gitlab
+13516084_049 baik
+13516084_050 untuk github sendiri dia sudah memiliki fitur yang sangat lengkap dibanding yang lain
+13516084_051 karena dia sudah banyak digunakan tentunya kepopulerannya juga tinggi sehingga banyak komunitas yang mensupport penggunaannya di dalam kehidupan sehari hari para developer
+13516084_052 tapi github itu kan ada kelemahannya
+13516084_053 yaitu hanya tidak mendukung banyaknya user
+13516084_054 maksud saya hanya mendukung limited user yaitu untuk satu repository hanya bisa dimasuki oleh beberapa user
+13516084_055 akan tetapi kelebihannya github itu bisa digunakan untuk banyak repository
+13516084_056 tentu saja ini berlaku untuk versi gratis dari software ini
+13516084_057 saya menyarankan kita meng melakukan research lebih lanjut untuk menentukan repository hosting platform yang akan digunakan
+13516084_058 menurut saya
+13516084_059 ada alternatif seperti bitbucket dia mendukung jumlah user yang sangat banyak untuk satu repositorinya tetapi dia hanya mensupport limited number of repository
+13516084_060 tentu saja masih banyak pilihan lainnya
+13516084_061 nah dengan begitu kita bisa menentukan pilihan mana yang paling tepat sesuai dengan kebutuhan perusahaan kita
+13516084_062 sekian dari saya
+13516084_063 oke terima kasih saudara ensof
+13516084_064 selanjutnya kita akan membahas masalah sprint
+13516084_065 karena perusahaan kita masih sangat kecil
+13516084_066 tentunya fiturnya akan dimulai dengan fitur yang sangat berbobot
+13516084_067 oleh karena itu saya memutuskan sprint akan berjalan selama tiga minggu
+13516084_068 dengan setiap harinya melakukan stand up setiap jumatnya melakukan retrospektif dan di akhir sprint kita akan mereview semuanya
+13516084_069 apakah ada yang tidak setuju
+13516084_070 saya tidak setuju
+13516084_071 karena tiga minggu itu waktu yang sangat lama
+13516084_072 tentunya kita perlu melakukan sync antara seluruh anggota tim untuk mengtrack seluruh keberjalanan yang sudah berjalan
+13516084_073 oleh karena itu saya menyarankan waktu dua minggu
+13516084_074 hal ini bukan tanpa alasan
+13516084_075 karena perusahaan perusahaan besar seperti traveloka seperti yang lain juga menerapkan dua minggu waktu sprint
+13516084_076 baik mungkin dari saran anda kita perlu meresearch lagi bagaimana pengaruh terhadap kondisi perusahaan
+13516084_077 soalnya perusahaan kita itu adalah perusahaan yang masih sangat kecil
+13516084_078 dan fitur yang dikerjakan juga sangat besar
+13516084_079 lain dengan perusahaan yang anda contohkan seperti traveloka
+13516084_080 mereka sudah cenderung besar dan fitur fitur utama yang berbobot dari merekan juga sudah diimplementasikan sejak mereka dimulai
+13516084_081 baik
+13516084_082 saya akan memikirkannya lagi
+13516084_083 saya tidak memikirkan keadaan perusahaan tadi
+13516084_084 sampai disini sebagian besar topik sudah dibahas
+13516084_085 akan tetapi tentunya masih sangat banyak yang belum dibahas untuk sebuah perusahaan
+13516084_086 kita akan menjadwalkan meeting lainnya satu minggu dari sekarang
+13516084_087 jadi untuk sekarang silakan para teman teman semua untuk memikirkan hasil meeting dari hari ini apakah ada yang perlu ditanggapi dan apakah ada yang perlu diubah
+13516084_088 sekian terima kasih
+13516086_001 ya jadi seperti yang sudah kita rencanain minggu lalu <euh> sekarang kita bakal bahas tentang kelanjutan <euh> program kerja kita yaitu <euh> lari mendaki
+13516086_002 
+13516086_003 untuk ngingetin lagi nih lari mendaki itu acara untuk mengenalkan kampus kita yaitu itb kepada sma delapan yaitu sma kita dulu
+13516086_004 nah ada baiknya nih sebelum kita memulai rapat kali ini kita <euh> berdoa terlebih dahulu
+13516086_005 berdoa selesai nah jadi saya selaku ketua program lari mendaki ini ingin menegaskan lagi peran kita jadi peran kita disini adalah sebagai perwakilan alumni sma delapan dan juga perwakilan dari itb jadi kita mengenalkan itb ke adik-adik kelas kita di sma delapan
+13516086_006 nah itu definisi singkat acara lari mendaki
+13516086_007 yang melatar belakangi program ini sebenarnya kan gara-gara adik kelas kita itu kesulitan untuk menentukan pilihan universitas yang ingin dia tuju
+13516086_008 nah makanya kita nih ngasih <euh> wawasan ke mereka apa aja yang bakal dipelajari disini apa aja <euh> lulusan-lulusannya bakal kerja di mana seperti itu
+13516086_009 nah lari mendaki ini kan sebenarnya bisa disebut program tahunan ya
+13516086_010 mungkin dari tahun-tahun sebelumnya ada gak yang mau disampein nih dari darien atau dari eben gitu misalkan ada dirasa kekurangan yang ingin diperbaiki
+13516086_011 
+13516086_012 kalo dari tahun sebelumnya sebenarnya lari mendakinya tuh terlalu mepet sama liburan
+13516086_013 ya jadi <euh> banyak mahasiswa-mahasiswa angkatan yang megang yang memegang lari mendaki tuh tidak bisa datang karena masih liburan
+13516086_014 <euh> jadi waktunya harus disesuaikan aja sih sebenernya keliatannya kaya gitu
+13516086_015 <euh> kalo dari eben sendiri ada tanggapan gak dari lari mendaki yang sebelumnya
+13516086_016 kalau dari acara sebelumnya saran saya untuk yang mengisi lari mendaki lebih baik tingkat tiga atau tingkat empat jangan tingkat yang baru masuk
+13516086_017 karena supaya lebih tergambar soal situasi dan kondisi di jurusan sehingga adik-adik kita dapat mengerti lebih baik soal apa sih yang bakal dipelajari di kampus kita gitu
+13516086_018 jadi berarti kan terkait dari waktu pelaksanaan sama <euh> pematerinya siapa
+13516086_019 nah ini kan karena masih di awal-awal <euh> pembahasan untuk lari mendaki dua ribu sembilan belas ini kan
+13516086_020 jadi <euh> kira-kira kalo dari eben sebagai <euh> divisi humas udah ada belom sih <euh> sdm-sdm yang bakal dipilih sebagai pemateri sama materi apa aja mungkin yang bakal disampein di lari mendaki
+13516086_021 kalo untuk pihak-pihak yang diundang rencananya per program studi dan per fakultas sih kira-kira kan ada empat belas fakultas lalu nanti bakal dicari lagi siapa yang bakal jadi penanggung jawab untuk setiap program studi
+13516086_022 dan untuk materinya berkisar antara kira-kira di program studi itu akan belajar apa aja dan prospek kerja di dunia di setiap dunia yang bakal digelutin di bidang masing-masing
+13516086_023 berarti <euh> untuk pemateri tadi yang seperti udah dibilanginkan tingkat tiga dan tingkat pokoknya sudah masuk jurusan paling engga tingkat tiga kan
+13516086_024 nah untuk adik-adik kelas kita nih yang masih tingkat satu baru masuk itb <euh> itu ntar rencananya bakal bakal gimana tuh peran mereka sebagai apa
+13516086_025 peran mereka mungkin bakal lebih ditegaskan kepada exponya sih yaitu mereka bisa menjadi orang yang jaga stand dan lebih fokus ke cerita gimana caranya masuk itb melewati jalur-jalur yang tersedia sekarang baik snmptn maupun sbmptn seperti itu
+13516086_026 <oh> berarti kalo dari konten apa yang bakal dipelajari di jurusan sendiri itu bakal tetep oleh kakak tingkat kakak tingkatnya ya
+13516086_027 betul
+13516086_028 oke terus juga untuk masalah perizinan kalo dari yeyen gimana kan sebagai penanggung jawab perizinan nih
+13516086_029 jadi kalo dari perizinan tadi sudah ketemu sama bu ika udah ngobrol juga tentang masalah waktu dan tempat rencananya bakal di ruangan besar di lantai tiga itu <eum> jadi kalo ruangannya sudah ambil surat izin juga di tu sudah dalam proses juga tinggal tanda tangan tanda tangan dari pihak-pihak terkait
+13516086_030 <eum> yang belom diurus <eum> kira-kira hanya tinggal perizinan antar kelas aja sih karena kan prosesnya bakal gantian perkelas tiap kelas akan kira-kira akan sepuluh dua puluh menit nanti <eum> perizinan tiap kelas aja yang belum disiapin karena <eum> urutannya belum siap
+13516086_031 begitu
+13516086_032 nah kalo dari sma delapan nya sendiri itu dia tuh udah kita udah menentukan belum sih kira-kira <euh> tanggal berapa kira-kira <euh> tanggal berapa bakal mengadakan lari mendaki ini
+13516086_033 apakah tetap dua ribu sembilan dua ribu sembilan belas di akhir tahun atau malah dua ribu dua puluh gitu di tahun ajaran baru
+13516086_034 kemungkinan besar di tahun ajaran baru sih karena kalo kita kejar kaya di tahun akhir tahun ini keliatannya bakal mepet banget dan keliatannya dari pihak sekolah juga belom siap buat tahun ini jadi kemungkinan besar akan sekitar waktu mereka baru masuk itu sekitar tanggal tujuh belas mungkin tujuh belas januari
+13516086_035 <oh> berarti bukan pada saat liburan ya berarti pas pas sma sudah masuk tetapi perkuliahan di itb masih belum mulai mungkin kira-kira seperti itu ya
+13516086_036 nah untuk sekarang <euh> saya mau nanya nih kira-kira kita harus mengajak universitas lain atau enggak sih untuk <euh> mengadakan lari mendaki ini apakah kita sendiri aja atau <euh> digabungkan dengan universitas-universitas lain
+13516086_037 kira-kira ada usulan ga kalo dari eben
+13516086_038 kalo dari saya usulnya gausah sih
+13516086_039 kenapa supaya waktu yang ada dapat termaksimalkan dengan baik dan kita harus ingat lagi kalo misalnya lari mendaki itu adalah singkatan dari delapan bukit duri menuju kampus itb supaya kita kembali ke tujuan awal kenapa lari mendaki ini ada
+13516086_040 kalo dari yeyen gimana kira-kira
+13516086_041 betul sih kaya udah sudah pernah juga lari mendaki digabungkan sekitar mungkin waktu kita masih sma dua tahun tiga tahun lalu
+13516086_042 sepertinya tidak efektif karena informasi yang tersampaikan jadi simpang siur dan kurang jelas yang sebagai kita peserta kurang dapat infonya dan kurang leluasa buat bertanya jadi sebaiknya dipisah saja dengan univ lain kita berdiri sendiri saja
+13516086_043 <hem> oke kalo gitu
+13516086_044 terus mau mastiin lagi nih tentang pemateri kita tuh pematerinya hanya dari anak-anak yang masih kuliah di itb atau perlu gak sih kita ngundang alumni yang sudah lulus dari itb
+13516086_045 melihat kemungkinan waktu yang tersedia lebih baik menurut saya fokusnya kepada mahasiswa yang masih kuliah saja
+13516086_046 karena tujuannya untuk memperkenalkan di itb tuh bakal ngapain aja sih
+13516086_047 jadi lebih baik kepada mahasiswa saja yang masih tau kondisi pasti dari kampus kita
+13516086_048 <hem> baik terus kalo masalah biaya kira-kira dari eben atau darien udah ada gambaran belum kita kira biaya yang harus dikeluarkan berapa dan apakah kira harus mencari sponsor seperti itu atau pakai dana pribadi aja
+13516086_049 <hem> kelihatannya perlu dana untuk konsumsi dan untuk mungkin menyebar flyer
+13516086_050 supaya masing-masing dari siswa-siswa yang dateng bisa <euh> dapet informasi yang lebih jelas kalo dari flyer tidak cuma kita menjelaskan saja
+13516086_051 <eum> jadi mungkin misalnya ada tiga ratus enam puluh yang <ik> pesertanya siswanya
+13516086_052 mungkin kalo satu flyer lima ribu atau dua ribu lima ratus bisa kira-kira <tuj> tujuh ratus ribu sekitar tujuh ratus ribuan
+13516086_053 
+13516086_054 berarti kan kira-kira bakal sekitar tujuh ratus ribuan ya tapi itu masih mungkin perhitungan kasar aja belum belum belum mendetail kali ya
+13516086_055 nah mungkin pertemuan kita kali ini sampai sini aja masih ada
+13516086_056 saran ga kira-kira tentang apa yang belum dibahas
+13516086_057 
+13516086_058 kelihatannya kalo dari perizinan tidak ada cukup sampai disini saja pembahasannya
+13516086_059 kalo dari eben ada saran atau engga
+13516086_060 
+13516086_061 sepertinya sudah cukup tapi masih ada pr besar bagi tim materi yaitu memastikan siapa-siapa saja yang akan hadir di acara lari mendaki tersebut
+13516086_062 oke berarti seperti itu ya
+13516086_063 <euh> sekarang saya mau <euh> menarik kesimpulan dan sekalian mau review apa aja yang telah kira bicarakan
+13516086_064 jadi <euh> kondisi lari mendaki pada tahun-tahun sebelumnya adalah diisi dengan pemateri oleh mahasiswa tpb
+13516086_065 nah untuk sekarang saran dari eben mahasiswa tpb akan mengisi expo tetapi untuk materinya sendiri akan diisi oleh mahasiswa jurusan minimal tingkat tiga
+13516086_066 terus juga untuk progress dari perizinan telah mengontak dari pihak sma delapan yaitu bu ika dan kira-kira waktu pelaksanaannya pada bulan januari diawal sma delapan masuk
+13516086_067 nah untuk universitas lain mungkin tidak akan kita ajak karena keterbatasan waktu dan juga penyampaian materinya tidak akan maksimal
+13516086_068 untuk pemberi materi mungkin dari mahasiswa itb saja tidak mengundang alumni
+13516086_069 dan biaya yang dibutuhkan mungkin terkait dengan konsumsi dan penyebaran flyer
+13516086_070 
+13516086_071 ya mungkin sampai sini saja meeting kita pada kali ini
+13516086_072 untuk meeting selanjutnya akan kita bahas hal-hal yang berkaitan dengan lari mendaki pada kesempatan yang akan datang

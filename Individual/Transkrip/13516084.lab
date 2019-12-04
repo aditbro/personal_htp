@@ -1,0 +1,88 @@
+13516084_001 selamat siang rekan rekan perusahaan ini saya maulana akmal sebagai ketua tim teknologi dari perusahaan ini
+13516084_002 pada kesempatan kali ini kita akan membahas tentang pembagian divisi dan workflow yang akan diterapkan di perusahaan ini tentunya ini sangat penting untuk keberlangsungan teknologi dari perusahaan
+13516084_003 jadi meeting ini kita mulai sekarang
+13516084_004 pertama kita akan melakukan pembagian divisi
+13516084_005 solusi yang saya tawarkan adalah membagi dua divisi yaitu divisi software engineer dan divisi devops
+13516084_006 kenapa seperti ini
+13516084_007 karena dari segi struktur mereka sudah sangat berbeda
+13516084_008 yang satu adalah untuk mengembangkan fitur dan yang satunya lagi adalah untuk menjaga stabilitas software ketika berjalan dan juga pada saat deployment
+13516084_009 disini apakah ada yang keberatan
+13516084_010 iya
+13516084_011 saya
+13516084_012 baik silahkan rifo
+13516084_013 menurut saya
+13516084_014 sistem seperti ini sangat sederhana
+13516084_015 belum ada spesifikasi lebih lanjut
+13516084_016 tentunya ini sangat kita perlukan agar lebih termanage
+13516084_017 seperti pada software engineer harusnya bisa dipecah lagi menjadi tim seperti mobile backend dan web
+13516084_018 nah seperti itu dari saya
+13516084_019 baik rifo
+13516084_020 sepertinya saran anda cukup masuk akal
+13516084_021 yang lain apa masukan
+13516084_022 baik
+13516084_023 sepertinya tidak ada
+13516084_024 kalau begitu saya setuju dengan saran dari saudara rifo
+13516084_025 kita akan membagi lagi tim software engineer menjadi tim mobile web dan backend
+13516084_026 kemudian untuk pemimpin setiap divisinya yaitu untuk devops akan dipimpin oleh saudara rifo sendiri dan divisi mobile akan dipimpin oleh dion saputra divisi web akan dipimpin oleh ilham wahabi dan divisi backend akan dipimpin oleh saudara ensof
+13516084_027 sampai disini apakah ada yang keberatan
+13516084_028 sepertinya semuanya setuju
+13516084_029 kita akan melanjutkan ke pembahasan selanjutnya yaitu masalah workflow
+13516084_030 bagian pertama yaitu kita akan menggunakan git
+13516084_031 kenapa
+13516084_032 karena git itu a adalah sebuah tool yang sangat sering digunakan dan menjadi standar de facto dari dunia developer
+13516084_033 tunggu saya merasa ini adalah keputusan yang terlalu cepat
+13516084_034 kita harus melakukan research lebih lanjut tentan versioning control tentunya banyak version control selain git disana seperti scm dan mercurial
+13516084_035 disini saya berharap akan ada follow up dari anda
+13516084_036 baik
+13516084_037 memang terasa tanpa alasan bagi saya memilih git
+13516084_038 dan saya akui itu adalah kesalahan saya
+13516084_039 saya akan memikirkannya lagi dan mungkin saya akan menjadwalkan meeting untuk beberapa orang untuk memikirkan solusi bagi masalah ini
+13516084_040 ada masukan yang lain
+13516084_041 sepertinya tidak
+13516084_042 kemudian
+13516084_043 kita akan melakukan hosting dari repositorinya kepada situs github
+13516084_044 github adalah salah satu sistus yang sangat sering digunakan di dunia
+13516084_045 tunggu tunggu
+13516084_046 kenapa harus github
+13516084_047 apakah ada alasan lainnya
+13516084_048 kenapa kita tidak mencoba bitbucket atau gitlab
+13516084_049 baik
+13516084_050 untuk github sendiri dia sudah memiliki fitur yang sangat lengkap dibanding yang lain
+13516084_051 karena dia sudah banyak digunakan tentunya kepopulerannya juga tinggi sehingga banyak komunitas yang mensupport penggunaannya di dalam kehidupan sehari hari para developer
+13516084_052 tapi github itu kan ada kelemahannya
+13516084_053 yaitu hanya tidak mendukung banyaknya user
+13516084_054 maksud saya hanya mendukung limited user yaitu untuk satu repository hanya bisa dimasuki oleh beberapa user
+13516084_055 akan tetapi kelebihannya github itu bisa digunakan untuk banyak repository
+13516084_056 tentu saja ini berlaku untuk versi gratis dari software ini
+13516084_057 saya menyarankan kita meng melakukan research lebih lanjut untuk menentukan repository hosting platform yang akan digunakan
+13516084_058 menurut saya
+13516084_059 ada alternatif seperti bitbucket dia mendukung jumlah user yang sangat banyak untuk satu repositorinya tetapi dia hanya mensupport limited number of repository
+13516084_060 tentu saja masih banyak pilihan lainnya
+13516084_061 nah dengan begitu kita bisa menentukan pilihan mana yang paling tepat sesuai dengan kebutuhan perusahaan kita
+13516084_062 sekian dari saya
+13516084_063 oke terima kasih saudara ensof
+13516084_064 selanjutnya kita akan membahas masalah sprint
+13516084_065 karena perusahaan kita masih sangat kecil
+13516084_066 tentunya fiturnya akan dimulai dengan fitur yang sangat berbobot
+13516084_067 oleh karena itu saya memutuskan sprint akan berjalan selama tiga minggu
+13516084_068 dengan setiap harinya melakukan stand up setiap jumatnya melakukan retrospektif dan di akhir sprint kita akan mereview semuanya
+13516084_069 apakah ada yang tidak setuju
+13516084_070 saya tidak setuju
+13516084_071 karena tiga minggu itu waktu yang sangat lama
+13516084_072 tentunya kita perlu melakukan sync antara seluruh anggota tim untuk mengtrack seluruh keberjalanan yang sudah berjalan
+13516084_073 oleh karena itu saya menyarankan waktu dua minggu
+13516084_074 hal ini bukan tanpa alasan
+13516084_075 karena perusahaan perusahaan besar seperti traveloka seperti yang lain juga menerapkan dua minggu waktu sprint
+13516084_076 baik mungkin dari saran anda kita perlu meresearch lagi bagaimana pengaruh terhadap kondisi perusahaan
+13516084_077 soalnya perusahaan kita itu adalah perusahaan yang masih sangat kecil
+13516084_078 dan fitur yang dikerjakan juga sangat besar
+13516084_079 lain dengan perusahaan yang anda contohkan seperti traveloka
+13516084_080 mereka sudah cenderung besar dan fitur fitur utama yang berbobot dari merekan juga sudah diimplementasikan sejak mereka dimulai
+13516084_081 baik
+13516084_082 saya akan memikirkannya lagi
+13516084_083 saya tidak memikirkan keadaan perusahaan tadi
+13516084_084 sampai disini sebagian besar topik sudah dibahas
+13516084_085 akan tetapi tentunya masih sangat banyak yang belum dibahas untuk sebuah perusahaan
+13516084_086 kita akan menjadwalkan meeting lainnya satu minggu dari sekarang
+13516084_087 jadi untuk sekarang silakan para teman teman semua untuk memikirkan hasil meeting dari hari ini apakah ada yang perlu ditanggapi dan apakah ada yang perlu diubah
+13516084_088 sekian terima kasih

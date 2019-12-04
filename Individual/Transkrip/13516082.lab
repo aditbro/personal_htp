@@ -1,0 +1,90 @@
+13516082_001 ya selamat siang semuanya
+13516082_002 sekarang kita ada di pertemuan untuk proyek alkali untuk membahas perencanaan pengerjaan seminggu ke depan
+13516082_003 ya kita sudah ada dari bagian proses pengerjaan dan dari bagian pengerjaan tampilan
+13516082_004 ok dari bagian proses bisa tolong cerita minggu lalu sudah ngerjain apa aja
+13516082_005 jadi minggu lalu kami sudah mengerjakan untuk bagian pemesanan
+13516082_006 kami juga sudah membuat bagian riwayat pemesanan sehingga nanti para penjual dapat melihat riwayat pesanan apa saja yang sudah mereka terima
+13516082_007 bagian ini juga nantinya akan menunjukan akumulasi dari pendapatan mereka untuk suatu waktu tertentu
+13516082_008 jadi dari dua tanggal yang dipilih oleh seorang penjual penjual akan mendapatkan statistik pendapatan mereka dari sumber sumber apa aja 
+13516082_009 dari bagian pemrosesan juga kita sudah buat fungsi untuk autentikasi pengguna
+13516082_010 ya sepertinya itu aja sih yang udah kami kerjain minggu lalu
+13516082_011 ok terima kasih selanjutnya dari bagian tampilan
+13516082_012 dari bagian tampilan untuk minggu lalu kami udah buat halaman pembuatan penjual baru
+13516082_013 tapi untuk halaman pelaporan statistik tadi yang dari bagian pemrosesan masih harus kita bawa ke minggu ini lagi sayangnya
+13516082_014 selain itu ada beberapa perbaikan juga yang harus kita masih bawa sampai minggu ini
+13516082_015 oh gitu kira-kira kalau diubah jadi poin pengerjaan butuh berapa ya yang dibawa ke minggu ini
+13516082_016 jadi kira-kira masih sekitar ada dua poin pengerjaan yang masih harus dibawa ke minggu ini
+13516082_017 ok mau mengingatkan lagi untuk tiap bagian kalian punya maksimal sepuluh poin pengerjaan tiap minggu
+13516082_018 karena bagian tampilan ada dua poin yang dibawa dari minggu lalu untuk minggu ini kita tambah delapan lagi
+13516082_019 nah target kita untuk minggu ini sebenarnya untuk hari rabu diharapkan kita udah bisa rilis produk ini ke pasaran
+13516082_020 fitur fitur yang diharapkan siap di hari rabu itu yang berhubungan dengan pesanan baru penjual baru pendaftaran dari agen dan juga pemesanan secara daring
+13516082_021 selanjutnya kita masuk ke sesi pembagian tugas untuk minggu ini ada udah ada beberapa kartu yang aku buat untuk bagian pemrosesan dan bagian tampilan
+13516082_022 untuk bagian pemrosesan fokus kita di minggu ini itu pengembangan lebih lanjut fitur pemesanan daring dan juga integrasi dengan bagian bisnis
+13516082_023 fitur pemesanan daring ini kan masih belum bisa menggunakan kupon nah untuk minggu ini fitur utama yang akan kita kembangkan itu berhubungan dengan kupon
+13516082_024 ini di layar ada kartu pertama berhubungan dengan pengembangan kupon yaitu fungsi menampilkan kupon dari bagian pemrosesan kira-kira butuh berapa poin pengerjaan untuk bagian ini
+13516082_025 seharusnya untuk kartu ini cukup satu poin
+13516082_026 yakin ya satu poin berarti satu hari selesai kan ya
+13516082_027 sebenarnya bukan satu hari juga mungkin yang poinnya rendah itu mudah tapi butuh waktu
+13516082_028 tapi untuk yang kartu ini seharusnya ga lebih dari satu hari pengerjaannya
+13516082_029 satu hari itu udah termasuk validasi dan tes kan ya
+13516082_030 iya kita standardnya untuk satu kartu itu wajib divalidasi dan dites
+13516082_031 kartu selanjutnya memasukan kupon ketika melakukan pemesanan ini kira-kira butuh berapa poin ya
+13516082_032 yang ini sepertinya dua poin soalnya harus melakukan pemeriksaan dulu ke basis data kupon
+13516082_033 selanjutnya kirim data pemesanan ke basis data bagian bisnis di tiap pemesanan baru ini kira-kira butuh berapa poin
+13516082_034 tunggu untuk fungsi pengirimannya yang di proyek ini udah ada belum ya
+13516082_035 fungsi pengiriman udah kok udah dibuat dua minggu lalu
+13516082_036 oh kalau udah dibuat ya berarti satu poin aja cukup untuk kartu yang ini
+13516082_037 selanjutnya kirim data perubahan status pemesanan ke basis data bisnis yang ini satu poin juga
+13516082_038 yang ini sepertinya dua soalnya perubahan statusnya banyak dan agak rumit
+13516082_039 untuk bagian pemrosesan sepertinya cukup
+13516082_040 untuk bagian pemrosesan apa ada pertanyaan
+13516082_041 yang alamat untuk pengiriman data foto dan ktp itu jadi gimana ya
+13516082_042 oh yang itu masih diproses menunggu bagian keamanan seharusnya besok udah sih
+13516082_043 ok nanti kalau udah ada alamatnya tolong dikabarin ya
+13516082_044 apa ada pertanyaan lagi untuk bagian pemrosesan
+13516082_045 kalau tidak ada berarti cukup untuk yang bagian pemrosesan sekarang kita lanjut ke bagian tampilan
+13516082_046 yang bagian tampilan fokus kita untuk minggu ini yaitu penyelesaian halaman halaman yang berhubungan dengan fungsi dasar
+13516082_047 berarti penyelesaian halaman masuk halaman buat pesanan dan halaman registrasi
+13516082_048 sejauh ini yang udah selesai kan baru halaman masuk kira-kira untuk minggu ini mungkin apa tidak ya menyelesaikan halaman pesanan dan registrasi
+13516082_049 seharusnya bisa karena kemarin kemarin kita banyak makan waktu di membuat dasar dasar implementasi desain
+13516082_050 sekarang implementasi desain dasarnya udah selesai kita bisa lebih cepat untuk menyelesaikan halamannya
+13516082_051 oh gitu seharusnya yang implementasi desain dasar itu dikabarin juga ke kita agar bisa kita data perkembangannya
+13516082_052 oh ya maaf kalo gitu
+13516082_053 nantinya kalau memang ada tugas atau pekerjaan yang memang relevan ke proyek ini dikabarin aja biar kita juga tahu apa yang lagi dikerjain
+13516082_054 ok untuk bagian tampilan kartu pertama yaitu menyelesaikan tampilan buat pesanan baru ini kira-kira butuh berapa poin
+13516082_055 untuk yang ini butuh sekitar dua poin walaupun implementasi desain dasarnya sudah selesai tetap butuh waktu lebih untuk validasi dan tes nya
+13516082_056 kartu selanjutnya penyelesaian tampilan registrasi penjual baru ini kira-kira butuh berapa poin
+13516082_057 yang ini dua poin juga sepertinya alasannya sama seperti yang kartu sebelumnya
+13516082_058 sebentar di layar itu nunjukin yang kolom ktp sebagai wajib ini ada perubahan?
+13516082_059 bukannya minggu lalu kesepakatannya jadi ga wajib ya
+13516082_060 jadi ada pemberitahuan dari bagian bisnis kalau untuk registrasi penjual ktp itu wajib
+13516082_061 oh gitu berarti di bagian pemrosesan butuh tambah satu kartu lagi untuk memeriksa kolom ktp
+13516082_062 ok yang bagian tampilan tadi jadi dua poin ya
+13516082_063 nah ini satu kartu lagi untuk bagian pemrosesan yaitu pengecekan nomor ktp saat registrasi penjual baru
+13516082_064 ok sip berarti yang pemrosesan pas ya udah sepuluh poin
+13516082_065 lanjut ke kartu berikutnya untuk bagian tampilan yaitu penyelesaian tampilan statistik pesanan butuh berapa poin
+13516082_066 yang ini agak besar sih soalnya kita belum punya kode untuk membuat tabelnya
+13516082_067 kira-kira bisa selesai minggu ini apa tidak ya
+13516082_068 aku tidak bisa jamin sih untuk yang ini selesai kita kurang orang soalnya
+13516082_069 dari bagian pemrosesan ada yang bisa bantu
+13516082_070 wah kita juga agak sibuk sepertinya yang ini memang ga bisa selesai minggu ini
+13516082_071 ok kalau gitu kita masukin fitur ini ke bagian yang opsional aja
+13516082_072 udah selesai semuanya apa ada pertanyaan
+13516082_073 perkiraan produk ini mulai aktif di pasaran kapan ya
+13516082_074 jadi rentang waktu produk ini aktif di pasaran diharapkannya mulai dari bulan depan
+13516082_075 nah minggu ini akan ada rapat dengan pemilik perusahaan untuk mendemonstrasikan proyek kita
+13516082_076 kalau demonstrasinya lancar minggu depan produk ini udah bisa mulai dipasarkan dan diharapkan mulai aktif seperti produk lain di bulan depan
+13516082_077 ada pertanyaan lagi
+13516082_078 kalau tidak ada terima kasih semuanya sudah datang semoga lancar pekerjaannya semoga proyek kita ini bisa sukses dan memperoleh keuntungan yang besar
+13516082_079 sebelum bubar ada satu lagi pemberitahuan dari bagian relasi karyawan
+13516082_080 bagi pegawai magang tolong jangan lupa pengumpulan daftar pekerjaan yang dikerjakan di bulan ini
+13516082_081 terus untuk pegawai tetap sesuai rencana akan ada program pelatihan mengenai basis data minggu depan
+13516082_082 untuk pelatihan ini ada yang mau berpartisipasi
+13516082_083 sepertinya untuk yang pelatihan tim kita cukup sibuk
+13516082_084 ya seharusnya ini lebih tepat untuk bagian pemrosesan kan
+13516082_085 dari pemrosesan kalau mengirim pegawai magang bagaimana
+13516082_086 aku belum tau bisa atau tidak nanti aku tanyakan ke bagian relasi karyawan
+13516082_087 kalau yang program jalan jalan apa kabarnya ya
+13516082_088 oh yang itu sedang diproses pelaksanaannya bulan depan
+13516082_089 jadi pada mau pergi ke mana 
+13516082_090 rencananya kita akan ke bali jalan jalan sekitar satu minggu bersama seluruh karyawan yang di sini bagian pemrosesan atau bagian pengembangan tampilan
