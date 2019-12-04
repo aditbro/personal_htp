@@ -1,7 +1,7 @@
 from os import walk, listdir
 
-mypath = "..\\individual\\Transkrip\\"
-outputpath = "..\\train\\"
+mypath = "../Individual/Transkrip/"
+outputpath = "../train/"
 filenames = listdir(mypath)
 
 for filename in filenames:
