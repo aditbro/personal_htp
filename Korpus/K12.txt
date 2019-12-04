@@ -1,0 +1,250 @@
+ya selamat siang semuanya
+sekarang kita ada di pertemuan untuk proyek alkali untuk membahas perencanaan pengerjaan seminggu ke depan
+ya kita sudah ada dari bagian proses pengerjaan dan dari bagian pengerjaan tampilan
+ok dari bagian proses bisa tolong cerita minggu lalu sudah ngerjain apa aja
+jadi minggu lalu kami sudah mengerjakan untuk bagian pemesanan
+kami juga sudah membuat bagian riwayat pemesanan sehingga nanti para penjual dapat melihat riwayat pesanan apa saja yang sudah mereka terima
+bagian ini juga nantinya akan menunjukan akumulasi dari pendapatan mereka untuk suatu waktu tertentu
+jadi dari dua tanggal yang dipilih oleh seorang penjual penjual akan mendapatkan statistik pendapatan mereka dari sumber sumber apa aja 
+dari bagian pemrosesan juga kita sudah buat fungsi untuk autentikasi pengguna
+ya sepertinya itu aja sih yang udah kami kerjain minggu lalu
+ok terima kasih selanjutnya dari bagian tampilan
+dari bagian tampilan untuk minggu lalu kami udah buat halaman pembuatan penjual baru
+tapi untuk halaman pelaporan statistik tadi yang dari bagian pemrosesan masih harus kita bawa ke minggu ini lagi sayangnya
+selain itu ada beberapa perbaikan juga yang harus kita masih bawa sampai minggu ini
+oh gitu kira-kira kalau diubah jadi poin pengerjaan butuh berapa ya yang dibawa ke minggu ini
+jadi kira-kira masih sekitar ada dua poin pengerjaan yang masih harus dibawa ke minggu ini
+ok mau mengingatkan lagi untuk tiap bagian kalian punya maksimal sepuluh poin pengerjaan tiap minggu
+karena bagian tampilan ada dua poin yang dibawa dari minggu lalu untuk minggu ini kita tambah delapan lagi
+nah target kita untuk minggu ini sebenarnya untuk hari rabu diharapkan kita udah bisa rilis produk ini ke pasaran
+fitur fitur yang diharapkan siap di hari rabu itu yang berhubungan dengan pesanan baru penjual baru pendaftaran dari agen dan juga pemesanan secara daring
+selanjutnya kita masuk ke sesi pembagian tugas untuk minggu ini ada udah ada beberapa kartu yang aku buat untuk bagian pemrosesan dan bagian tampilan
+untuk bagian pemrosesan fokus kita di minggu ini itu pengembangan lebih lanjut fitur pemesanan daring dan juga integrasi dengan bagian bisnis
+fitur pemesanan daring ini kan masih belum bisa menggunakan kupon nah untuk minggu ini fitur utama yang akan kita kembangkan itu berhubungan dengan kupon
+ini di layar ada kartu pertama berhubungan dengan pengembangan kupon yaitu fungsi menampilkan kupon dari bagian pemrosesan kira-kira butuh berapa poin pengerjaan untuk bagian ini
+seharusnya untuk kartu ini cukup satu poin
+yakin ya satu poin berarti satu hari selesai kan ya
+sebenarnya bukan satu hari juga mungkin yang poinnya rendah itu mudah tapi butuh waktu
+tapi untuk yang kartu ini seharusnya ga lebih dari satu hari pengerjaannya
+satu hari itu udah termasuk validasi dan tes kan ya
+iya kita standardnya untuk satu kartu itu wajib divalidasi dan dites
+kartu selanjutnya memasukan kupon ketika melakukan pemesanan ini kira-kira butuh berapa poin ya
+yang ini sepertinya dua poin soalnya harus melakukan pemeriksaan dulu ke basis data kupon
+selanjutnya kirim data pemesanan ke basis data bagian bisnis di tiap pemesanan baru ini kira-kira butuh berapa poin
+tunggu untuk fungsi pengirimannya yang di proyek ini udah ada belum ya
+fungsi pengiriman udah kok udah dibuat dua minggu lalu
+oh kalau udah dibuat ya berarti satu poin aja cukup untuk kartu yang ini
+selanjutnya kirim data perubahan status pemesanan ke basis data bisnis yang ini satu poin juga
+yang ini sepertinya dua soalnya perubahan statusnya banyak dan agak rumit
+untuk bagian pemrosesan sepertinya cukup
+untuk bagian pemrosesan apa ada pertanyaan
+yang alamat untuk pengiriman data foto dan ktp itu jadi gimana ya
+oh yang itu masih diproses menunggu bagian keamanan seharusnya besok udah sih
+ok nanti kalau udah ada alamatnya tolong dikabarin ya
+apa ada pertanyaan lagi untuk bagian pemrosesan
+kalau tidak ada berarti cukup untuk yang bagian pemrosesan sekarang kita lanjut ke bagian tampilan
+yang bagian tampilan fokus kita untuk minggu ini yaitu penyelesaian halaman halaman yang berhubungan dengan fungsi dasar
+berarti penyelesaian halaman masuk halaman buat pesanan dan halaman registrasi
+sejauh ini yang udah selesai kan baru halaman masuk kira-kira untuk minggu ini mungkin apa tidak ya menyelesaikan halaman pesanan dan registrasi
+seharusnya bisa karena kemarin kemarin kita banyak makan waktu di membuat dasar dasar implementasi desain
+sekarang implementasi desain dasarnya udah selesai kita bisa lebih cepat untuk menyelesaikan halamannya
+oh gitu seharusnya yang implementasi desain dasar itu dikabarin juga ke kita agar bisa kita data perkembangannya
+oh ya maaf kalo gitu
+nantinya kalau memang ada tugas atau pekerjaan yang memang relevan ke proyek ini dikabarin aja biar kita juga tahu apa yang lagi dikerjain
+ok untuk bagian tampilan kartu pertama yaitu menyelesaikan tampilan buat pesanan baru ini kira-kira butuh berapa poin
+untuk yang ini butuh sekitar dua poin walaupun implementasi desain dasarnya sudah selesai tetap butuh waktu lebih untuk validasi dan tes nya
+kartu selanjutnya penyelesaian tampilan registrasi penjual baru ini kira-kira butuh berapa poin
+yang ini dua poin juga sepertinya alasannya sama seperti yang kartu sebelumnya
+sebentar di layar itu nunjukin yang kolom ktp sebagai wajib ini ada perubahan
+bukannya minggu lalu kesepakatannya jadi ga wajib ya
+jadi ada pemberitahuan dari bagian bisnis kalau untuk registrasi penjual ktp itu wajib
+oh gitu berarti di bagian pemrosesan butuh tambah satu kartu lagi untuk memeriksa kolom ktp
+ok yang bagian tampilan tadi jadi dua poin ya
+nah ini satu kartu lagi untuk bagian pemrosesan yaitu pengecekan nomor ktp saat registrasi penjual baru
+ok sip berarti yang pemrosesan pas ya udah sepuluh poin
+lanjut ke kartu berikutnya untuk bagian tampilan yaitu penyelesaian tampilan statistik pesanan butuh berapa poin
+yang ini agak besar sih soalnya kita belum punya kode untuk membuat tabelnya
+kira-kira bisa selesai minggu ini apa tidak ya
+aku tidak bisa jamin sih untuk yang ini selesai kita kurang orang soalnya
+dari bagian pemrosesan ada yang bisa bantu
+wah kita juga agak sibuk sepertinya yang ini memang ga bisa selesai minggu ini
+ok kalau gitu kita masukin fitur ini ke bagian yang opsional aja
+udah selesai semuanya apa ada pertanyaan
+perkiraan produk ini mulai aktif di pasaran kapan ya
+jadi rentang waktu produk ini aktif di pasaran diharapkannya mulai dari bulan depan
+nah minggu ini akan ada rapat dengan pemilik perusahaan untuk mendemonstrasikan proyek kita
+kalau demonstrasinya lancar minggu depan produk ini udah bisa mulai dipasarkan dan diharapkan mulai aktif seperti produk lain di bulan depan
+ada pertanyaan lagi
+kalau tidak ada terima kasih semuanya sudah datang semoga lancar pekerjaannya semoga proyek kita ini bisa sukses dan memperoleh keuntungan yang besar
+sebelum bubar ada satu lagi pemberitahuan dari bagian relasi karyawan
+bagi pegawai magang tolong jangan lupa pengumpulan daftar pekerjaan yang dikerjakan di bulan ini
+terus untuk pegawai tetap sesuai rencana akan ada program pelatihan mengenai basis data minggu depan
+untuk pelatihan ini ada yang mau berpartisipasi
+sepertinya untuk yang pelatihan tim kita cukup sibuk
+ya seharusnya ini lebih tepat untuk bagian pemrosesan kan
+dari pemrosesan kalau mengirim pegawai magang bagaimana
+aku belum tau bisa atau tidak nanti aku tanyakan ke bagian relasi karyawan
+kalau yang program jalan jalan apa kabarnya ya
+oh yang itu sedang diproses pelaksanaannya bulan depan
+jadi pada mau pergi ke mana 
+rencananya kita akan ke bali jalan jalan sekitar satu minggu bersama seluruh karyawan yang di sini bagian pemrosesan atau bagian pengembangan tampilan
+selamat siang rekan rekan perusahaan ini saya maulana akmal sebagai ketua tim teknologi dari perusahaan ini
+pada kesempatan kali ini kita akan membahas tentang pembagian divisi dan workflow yang akan diterapkan di perusahaan ini tentunya ini sangat penting untuk keberlangsungan teknologi dari perusahaan
+jadi meeting ini kita mulai sekarang
+pertama kita akan melakukan pembagian divisi
+solusi yang saya tawarkan adalah membagi dua divisi yaitu divisi software engineer dan divisi devops
+kenapa seperti ini
+karena dari segi struktur mereka sudah sangat berbeda
+yang satu adalah untuk mengembangkan fitur dan yang satunya lagi adalah untuk menjaga stabilitas software ketika berjalan dan juga pada saat deployment
+disini apakah ada yang keberatan
+iya
+saya
+baik silahkan rifo
+menurut saya
+sistem seperti ini sangat sederhana
+belum ada spesifikasi lebih lanjut
+tentunya ini sangat kita perlukan agar lebih termanage
+seperti pada software engineer harusnya bisa dipecah lagi menjadi tim seperti mobile backend dan web
+nah seperti itu dari saya
+baik rifo
+sepertinya saran anda cukup masuk akal
+yang lain apa masukan
+baik
+sepertinya tidak ada
+kalau begitu saya setuju dengan saran dari saudara rifo
+kita akan membagi lagi tim software engineer menjadi tim mobile web dan backend
+kemudian untuk pemimpin setiap divisinya yaitu untuk devops akan dipimpin oleh saudara rifo sendiri dan divisi mobile akan dipimpin oleh dion saputra divisi web akan dipimpin oleh ilham wahabi dan divisi backend akan dipimpin oleh saudara ensof
+sampai disini apakah ada yang keberatan
+sepertinya semuanya setuju
+kita akan melanjutkan ke pembahasan selanjutnya yaitu masalah workflow
+bagian pertama yaitu kita akan menggunakan git
+kenapa
+karena git itu a adalah sebuah tool yang sangat sering digunakan dan menjadi standar de facto dari dunia developer
+tunggu saya merasa ini adalah keputusan yang terlalu cepat
+kita harus melakukan research lebih lanjut tentan versioning control tentunya banyak version control selain git disana seperti scm dan mercurial
+disini saya berharap akan ada follow up dari anda
+baik
+memang terasa tanpa alasan bagi saya memilih git
+dan saya akui itu adalah kesalahan saya
+saya akan memikirkannya lagi dan mungkin saya akan menjadwalkan meeting untuk beberapa orang untuk memikirkan solusi bagi masalah ini
+ada masukan yang lain
+sepertinya tidak
+kemudian
+kita akan melakukan hosting dari repositorinya kepada situs github
+github adalah salah satu sistus yang sangat sering digunakan di dunia
+tunggu tunggu
+kenapa harus github
+apakah ada alasan lainnya
+kenapa kita tidak mencoba bitbucket atau gitlab
+baik
+untuk github sendiri dia sudah memiliki fitur yang sangat lengkap dibanding yang lain
+karena dia sudah banyak digunakan tentunya kepopulerannya juga tinggi sehingga banyak komunitas yang mensupport penggunaannya di dalam kehidupan sehari hari para developer
+tapi github itu kan ada kelemahannya
+yaitu hanya tidak mendukung banyaknya user
+maksud saya hanya mendukung limited user yaitu untuk satu repository hanya bisa dimasuki oleh beberapa user
+akan tetapi kelebihannya github itu bisa digunakan untuk banyak repository
+tentu saja ini berlaku untuk versi gratis dari software ini
+saya menyarankan kita meng melakukan research lebih lanjut untuk menentukan repository hosting platform yang akan digunakan
+menurut saya
+ada alternatif seperti bitbucket dia mendukung jumlah user yang sangat banyak untuk satu repositorinya tetapi dia hanya mensupport limited number of repository
+tentu saja masih banyak pilihan lainnya
+nah dengan begitu kita bisa menentukan pilihan mana yang paling tepat sesuai dengan kebutuhan perusahaan kita
+sekian dari saya
+oke terima kasih saudara ensof
+selanjutnya kita akan membahas masalah sprint
+karena perusahaan kita masih sangat kecil
+tentunya fiturnya akan dimulai dengan fitur yang sangat berbobot
+oleh karena itu saya memutuskan sprint akan berjalan selama tiga minggu
+dengan setiap harinya melakukan stand up setiap jumatnya melakukan retrospektif dan di akhir sprint kita akan mereview semuanya
+apakah ada yang tidak setuju
+saya tidak setuju
+karena tiga minggu itu waktu yang sangat lama
+tentunya kita perlu melakukan sync antara seluruh anggota tim untuk mengtrack seluruh keberjalanan yang sudah berjalan
+oleh karena itu saya menyarankan waktu dua minggu
+hal ini bukan tanpa alasan
+karena perusahaan perusahaan besar seperti traveloka seperti yang lain juga menerapkan dua minggu waktu sprint
+baik mungkin dari saran anda kita perlu meresearch lagi bagaimana pengaruh terhadap kondisi perusahaan
+soalnya perusahaan kita itu adalah perusahaan yang masih sangat kecil
+dan fitur yang dikerjakan juga sangat besar
+lain dengan perusahaan yang anda contohkan seperti traveloka
+mereka sudah cenderung besar dan fitur fitur utama yang berbobot dari merekan juga sudah diimplementasikan sejak mereka dimulai
+baik
+saya akan memikirkannya lagi
+saya tidak memikirkan keadaan perusahaan tadi
+sampai disini sebagian besar topik sudah dibahas
+akan tetapi tentunya masih sangat banyak yang belum dibahas untuk sebuah perusahaan
+kita akan menjadwalkan meeting lainnya satu minggu dari sekarang
+jadi untuk sekarang silakan para teman teman semua untuk memikirkan hasil meeting dari hari ini apakah ada yang perlu ditanggapi dan apakah ada yang perlu diubah
+sekian terima kasih
+ya jadi seperti yang sudah kita rencanain minggu lalu <euh> sekarang kita bakal bahas tentang kelanjutan <euh> program kerja kita yaitu <euh> lari mendaki
+
+untuk ngingetin lagi nih lari mendaki itu acara untuk mengenalkan kampus kita yaitu itb kepada sma delapan yaitu sma kita dulu
+nah ada baiknya nih sebelum kita memulai rapat kali ini kita <euh> berdoa terlebih dahulu
+berdoa selesai nah jadi saya selaku ketua program lari mendaki ini ingin menegaskan lagi peran kita jadi peran kita disini adalah sebagai perwakilan alumni sma delapan dan juga perwakilan dari itb jadi kita mengenalkan itb ke adik-adik kelas kita di sma delapan
+nah itu definisi singkat acara lari mendaki
+yang melatar belakangi program ini sebenarnya kan gara-gara adik kelas kita itu kesulitan untuk menentukan pilihan universitas yang ingin dia tuju
+nah makanya kita nih ngasih <euh> wawasan ke mereka apa aja yang bakal dipelajari disini apa aja <euh> lulusan-lulusannya bakal kerja di mana seperti itu
+nah lari mendaki ini kan sebenarnya bisa disebut program tahunan ya
+mungkin dari tahun-tahun sebelumnya ada gak yang mau disampein nih dari darien atau dari eben gitu misalkan ada dirasa kekurangan yang ingin diperbaiki
+
+kalo dari tahun sebelumnya sebenarnya lari mendakinya tuh terlalu mepet sama liburan
+ya jadi <euh> banyak mahasiswa-mahasiswa angkatan yang megang yang memegang lari mendaki tuh tidak bisa datang karena masih liburan
+<euh> jadi waktunya harus disesuaikan aja sih sebenernya keliatannya kaya gitu
+<euh> kalo dari eben sendiri ada tanggapan gak dari lari mendaki yang sebelumnya
+kalau dari acara sebelumnya saran saya untuk yang mengisi lari mendaki lebih baik tingkat tiga atau tingkat empat jangan tingkat yang baru masuk
+karena supaya lebih tergambar soal situasi dan kondisi di jurusan sehingga adik-adik kita dapat mengerti lebih baik soal apa sih yang bakal dipelajari di kampus kita gitu
+jadi berarti kan terkait dari waktu pelaksanaan sama <euh> pematerinya siapa
+nah ini kan karena masih di awal-awal <euh> pembahasan untuk lari mendaki dua ribu sembilan belas ini kan
+jadi <euh> kira-kira kalo dari eben sebagai <euh> divisi humas udah ada belom sih <euh> sdm-sdm yang bakal dipilih sebagai pemateri sama materi apa aja mungkin yang bakal disampein di lari mendaki
+kalo untuk pihak-pihak yang diundang rencananya per program studi dan per fakultas sih kira-kira kan ada empat belas fakultas lalu nanti bakal dicari lagi siapa yang bakal jadi penanggung jawab untuk setiap program studi
+dan untuk materinya berkisar antara kira-kira di program studi itu akan belajar apa aja dan prospek kerja di dunia di setiap dunia yang bakal digelutin di bidang masing-masing
+berarti <euh> untuk pemateri tadi yang seperti udah dibilanginkan tingkat tiga dan tingkat pokoknya sudah masuk jurusan paling engga tingkat tiga kan
+nah untuk adik-adik kelas kita nih yang masih tingkat satu baru masuk itb <euh> itu ntar rencananya bakal bakal gimana tuh peran mereka sebagai apa
+peran mereka mungkin bakal lebih ditegaskan kepada exponya sih yaitu mereka bisa menjadi orang yang jaga stand dan lebih fokus ke cerita gimana caranya masuk itb melewati jalur-jalur yang tersedia sekarang baik snmptn maupun sbmptn seperti itu
+<oh> berarti kalo dari konten apa yang bakal dipelajari di jurusan sendiri itu bakal tetep oleh kakak tingkat kakak tingkatnya ya
+betul
+oke terus juga untuk masalah perizinan kalo dari yeyen gimana kan sebagai penanggung jawab perizinan nih
+jadi kalo dari perizinan tadi sudah ketemu sama bu ika udah ngobrol juga tentang masalah waktu dan tempat rencananya bakal di ruangan besar di lantai tiga itu <eum> jadi kalo ruangannya sudah ambil surat izin juga di tu sudah dalam proses juga tinggal tanda tangan tanda tangan dari pihak-pihak terkait
+<eum> yang belom diurus <eum> kira-kira hanya tinggal perizinan antar kelas aja sih karena kan prosesnya bakal gantian perkelas tiap kelas akan kira-kira akan sepuluh dua puluh menit nanti <eum> perizinan tiap kelas aja yang belum disiapin karena <eum> urutannya belum siap
+begitu
+nah kalo dari sma delapan nya sendiri itu dia tuh udah kita udah menentukan belum sih kira-kira <euh> tanggal berapa kira-kira <euh> tanggal berapa bakal mengadakan lari mendaki ini
+apakah tetap dua ribu sembilan dua ribu sembilan belas di akhir tahun atau malah dua ribu dua puluh gitu di tahun ajaran baru
+kemungkinan besar di tahun ajaran baru sih karena kalo kita kejar kaya di tahun akhir tahun ini keliatannya bakal mepet banget dan keliatannya dari pihak sekolah juga belom siap buat tahun ini jadi kemungkinan besar akan sekitar waktu mereka baru masuk itu sekitar tanggal tujuh belas mungkin tujuh belas januari
+<oh> berarti bukan pada saat liburan ya berarti pas pas sma sudah masuk tetapi perkuliahan di itb masih belum mulai mungkin kira-kira seperti itu ya
+nah untuk sekarang <euh> saya mau nanya nih kira-kira kita harus mengajak universitas lain atau enggak sih untuk <euh> mengadakan lari mendaki ini apakah kita sendiri aja atau <euh> digabungkan dengan universitas-universitas lain
+kira-kira ada usulan ga kalo dari eben
+kalo dari saya usulnya gausah sih
+kenapa supaya waktu yang ada dapat termaksimalkan dengan baik dan kita harus ingat lagi kalo misalnya lari mendaki itu adalah singkatan dari delapan bukit duri menuju kampus itb supaya kita kembali ke tujuan awal kenapa lari mendaki ini ada
+kalo dari yeyen gimana kira-kira
+betul sih kaya udah sudah pernah juga lari mendaki digabungkan sekitar mungkin waktu kita masih sma dua tahun tiga tahun lalu
+sepertinya tidak efektif karena informasi yang tersampaikan jadi simpang siur dan kurang jelas yang sebagai kita peserta kurang dapat infonya dan kurang leluasa buat bertanya jadi sebaiknya dipisah saja dengan univ lain kita berdiri sendiri saja
+<hem> oke kalo gitu
+terus mau mastiin lagi nih tentang pemateri kita tuh pematerinya hanya dari anak-anak yang masih kuliah di itb atau perlu gak sih kita ngundang alumni yang sudah lulus dari itb
+melihat kemungkinan waktu yang tersedia lebih baik menurut saya fokusnya kepada mahasiswa yang masih kuliah saja
+karena tujuannya untuk memperkenalkan di itb tuh bakal ngapain aja sih
+jadi lebih baik kepada mahasiswa saja yang masih tau kondisi pasti dari kampus kita
+<hem> baik terus kalo masalah biaya kira-kira dari eben atau darien udah ada gambaran belum kita kira biaya yang harus dikeluarkan berapa dan apakah kira harus mencari sponsor seperti itu atau pakai dana pribadi aja
+<hem> kelihatannya perlu dana untuk konsumsi dan untuk mungkin menyebar flyer
+supaya masing-masing dari siswa-siswa yang dateng bisa <euh> dapet informasi yang lebih jelas kalo dari flyer tidak cuma kita menjelaskan saja
+<eum> jadi mungkin misalnya ada tiga ratus enam puluh yang <ik> pesertanya siswanya
+mungkin kalo satu flyer lima ribu atau dua ribu lima ratus bisa kira-kira <tuj> tujuh ratus ribu sekitar tujuh ratus ribuan
+
+berarti kan kira-kira bakal sekitar tujuh ratus ribuan ya tapi itu masih mungkin perhitungan kasar aja belum belum belum mendetail kali ya
+nah mungkin pertemuan kita kali ini sampai sini aja masih ada
+saran ga kira-kira tentang apa yang belum dibahas
+
+kelihatannya kalo dari perizinan tidak ada cukup sampai disini saja pembahasannya
+kalo dari eben ada saran atau engga
+
+sepertinya sudah cukup tapi masih ada pr besar bagi tim materi yaitu memastikan siapa-siapa saja yang akan hadir di acara lari mendaki tersebut
+oke berarti seperti itu ya
+<euh> sekarang saya mau <euh> menarik kesimpulan dan sekalian mau review apa aja yang telah kira bicarakan
+jadi <euh> kondisi lari mendaki pada tahun-tahun sebelumnya adalah diisi dengan pemateri oleh mahasiswa tpb
+nah untuk sekarang saran dari eben mahasiswa tpb akan mengisi expo tetapi untuk materinya sendiri akan diisi oleh mahasiswa jurusan minimal tingkat tiga
+terus juga untuk progress dari perizinan telah mengontak dari pihak sma delapan yaitu bu ika dan kira-kira waktu pelaksanaannya pada bulan januari diawal sma delapan masuk
+nah untuk universitas lain mungkin tidak akan kita ajak karena keterbatasan waktu dan juga penyampaian materinya tidak akan maksimal
+untuk pemberi materi mungkin dari mahasiswa itb saja tidak mengundang alumni
+dan biaya yang dibutuhkan mungkin terkait dengan konsumsi dan penyebaran flyer
+
+ya mungkin sampai sini saja meeting kita pada kali ini
+untuk meeting selanjutnya akan kita bahas hal-hal yang berkaitan dengan lari mendaki pada kesempatan yang akan datang
