@@ -1,0 +1,6025 @@
+BIGRAM: method Katz, cutoff 1
+  coef[7]: 0.000000 0.476263 0.716223 0.573678 0.902069 0.968469 0.684130
+
+TRIGRAM: method Katz, cutoff 1
+  coef[7]: 0.000000 0.395697 0.639533 0.676874 0.741251 0.806491 0.419678
+
+\data\
+ngram 1=2251
+ngram 2=2256
+ngram 3=1500
+
+\1-grams:
+-4.2313	4
+-1.0865	</s>	-0.2809
+-4.2313	<ah>
+-4.2313	<cuk>
+-4.2313	<da>
+-4.2313	<eh>
+-4.2313	<eu>
+-2.7400	<euh>	-0.0401
+-3.4532	<eum>	-0.0732
+-3.7542	<hem>
+-4.2313	<hmm>
+-4.2313	<ik>
+-4.2313	<mek>
+-4.2313	<mengen>
+-3.3862	<oh>	-0.1364
+-99.9900	<s>	-0.4443
+-4.2313	<tuj>
+-4.2313	<ulusan>
+-4.2313	<yan>
+-3.5324	a	-0.0824
+-2.2869	acara	-0.2469
+-4.2313	acaranya
+-1.8475	ada	-0.3108
+-3.7542	adakah
+-3.9303	adala
+-2.5879	adalah	-0.0708
+-3.6293	adanya
+-4.2313	adaptasi
+-4.2313	adik
+-3.4532	adik-adik	-0.2735
+-3.5324	agak
+-3.6293	agama	-0.3696
+-3.0553	agar	-0.0958
+-4.2313	agen
+-3.5324	agenda	-0.1996
+-3.6293	agustus
+-4.2313	air
+-2.7689	aja	-0.2181
+-4.2313	ajak
+-3.9303	ajaran	-0.2795
+-3.6293	aji
+-3.9303	akademis
+-4.2313	akademisi
+-4.2313	akal
+-1.8404	akan	-0.2677
+-3.1522	akhir	-0.3572
+-3.9303	akhiri
+-4.2313	akibatnya
+-4.2313	akmal
+-4.2313	akses
+-3.6293	aktif	-0.1144
+-3.9303	aktivitas
+-2.6403	aku	-0.1747
+-4.2313	akui
+-4.2313	akumulasi
+-4.2313	akun
+-4.2313	alamat
+-4.2313	alamatnya
+-3.6293	alasan
+-3.7542	alasannya
+-3.2771	alat	-0.1809
+-3.6293	alat-alat	-0.3212
+-4.2313	alatnya
+-4.2313	alias
+-4.2313	alkali
+-3.9303	alternatif
+-3.7542	alumni
+-3.7542	alur	-0.5448
+-4.2313	aman
+-4.2313	ambil
+-4.2313	amerika
+-3.1899	anak	-0.1014
+-3.1522	anak-anak
+-3.7542	analisis	-0.1657
+-4.2313	ancol
+-3.2771	anda
+-3.6293	anggaran	-0.0810
+-4.2313	anggarannya
+-3.0852	anggota	-0.0803
+-3.9303	anggotanya
+-4.2313	angka
+-3.9303	angkatan
+-4.2313	anjuran
+-4.2313	anonim
+-3.9303	antar
+-3.3283	antara	-0.1456
+-2.5501	apa	-0.3910
+-4.2313	apa-apa
+-3.1899	apabila	-0.1372
+-2.3505	apakah	-0.4930
+-2.9091	aplikasi	-0.1743
+-4.2313	aplikasinya
+-4.2313	apresiasi
+-4.2313	apresiasinya
+-4.2313	april
+-3.7542	aqua	-0.1288
+-4.2313	arahannya
+-4.2313	area
+-4.2313	arif
+-4.2313	artinya
+-3.9303	asesmen
+-4.2313	asia
+-4.2313	aspirasi
+-4.2313	assalamualaikum
+-4.2313	asumsi
+-2.7128	atas	-0.2944
+-2.5501	atau	-0.0397
+-3.6293	ataupun
+-4.2313	atribut
+-4.2313	atributnya
+-3.7542	aturan	-0.1568
+-4.2313	aturan-aturan
+-4.2313	aula
+-4.2313	australia
+-4.2313	autentikasi
+-3.3862	awal
+-4.2313	awal-awal
+-4.2313	awalnya
+-4.2313	ayam
+-4.2313	b
+-4.2313	baca
+-4.2313	bacakan
+-3.7542	backend
+-4.2313	badan
+-3.0553	bagaimana	-0.0681
+-2.7542	bagi	-0.1091
+-2.5501	bagian	-0.4190
+-3.3283	bagus	-0.1657
+-3.3862	bahan	-0.7697
+-4.2313	bahannya
+-3.2771	bahas
+-4.2313	bahasan
+-3.9303	bahkan
+-3.2771	bahwa
+-2.2771	baik	-0.2162
+-3.1522	baiklah	-0.1825
+-3.4532	baiknya
+-4.2313	bajunya
+-2.9091	bakal	-0.0468
+-4.2313	bakar
+-3.6293	bakat	-0.3327
+-3.3862	baku	-0.2025
+-3.9303	bali
+-3.7542	balik
+-4.2313	banding
+-4.2313	bandung
+-4.2313	banget
+-3.5324	bantu	-0.0785
+-4.2313	bantuan
+-3.7542	banu
+-2.7542	banyak	-0.0690
+-3.9303	banyak-banyaknya
+-3.9303	banyaknya
+-2.8334	bapak	-0.1436
+-3.9303	bapak-bapak	-0.2748
+-4.2313	bapak-ibu
+-2.8334	barang	-0.1648
+-3.9303	barang-barang
+-4.2313	barangnya
+-4.2313	barat
+-4.2313	bareng
+-2.4832	baru	-0.1607
+-4.2313	barunya
+-4.2313	barusan
+-3.5324	basis	-1.0087
+-3.9303	batas	-0.2798
+-3.9303	bawa
+-4.2313	bayam
+-4.2313	bbm
+-4.2313	beban
+-3.7542	bebas
+-2.6403	beberapa	-0.1221
+-3.0852	begitu	-0.2269
+-3.9303	bekas	-0.2438
+-2.9091	bekerja	-0.2243
+-4.2313	bekerjamasama
+-4.2313	bekerjanya
+-3.5324	belajar	-0.0916
+-3.9303	belakang
+-4.2313	belakangi
+-3.0009	belas	-0.1139
+-3.2313	belasan	-0.1096
+-3.7542	beliau
+-3.7542	belom
+-2.6516	belum	-0.0843
+-4.2313	belut
+-4.2313	benar
+-3.9303	benarnya	-0.2438
+-4.2313	bendahara
+-4.2313	bener-bener
+-4.2313	bentar
+-3.6293	bentuk	-0.1169
+-3.6293	berada	-0.1151
+-4.2313	beradaptasi
+-4.2313	beragam
+-4.2313	berakhir
+-4.2313	beralih
+-4.2313	beranjak
+-3.0553	berapa	-0.2120
+-3.0272	berarti	-0.0531
+-3.2771	berbagai
+-4.2313	berbahan
+-3.9303	berbahaya
+-3.9303	berbeda
+-4.2313	berbeda-beda
+-4.2313	berbentuk
+-4.2313	berbincang
+-3.9303	berbobot
+-4.2313	berbuah
+-3.9303	berdampak
+-3.2313	berdasarkan	-0.0430
+-4.2313	berdekatan
+-4.2313	berdiri
+-2.7542	berdoa	-0.6090
+-3.7542	berdua
+-4.2313	berefek
+-3.7542	berencana	-0.1596
+-3.9303	berfungsi
+-3.6293	bergabung
+-3.6293	bergantung	-0.3316
+-4.2313	berguna
+-3.3862	berharap
+-3.3283	berhasil	-0.0545
+-4.2313	berhubung
+-3.2771	berhubungan	-0.2765
+-3.6293	berikan
+-3.6293	berikut	-0.3331
+-2.8511	berikutnya	-0.4541
+-3.7542	berisi	-0.1658
+-4.2313	berisiko
+-3.9303	berita
+-3.4532	berjaga	-0.2056
+-3.0852	berjalan	-0.1873
+-3.9303	berjualan
+-3.9303	berkaitan	-0.2765
+-4.2313	berkat
+-4.2313	berkata-kata
+-3.4532	berkembang
+-4.2313	berkemungkinan
+-4.2313	berkisar
+-4.2313	berkomentar
+-4.2313	berkontribusi
+-4.2313	berkumpul
+-3.9303	berlaku	-0.2715
+-3.7542	berlangsung
+-3.7542	berlanjut	-0.5443
+-4.2313	berlebih
+-4.2313	berlomba
+-4.2313	bermanfaat
+-4.2313	bernama
+-4.2313	berpartisipasi
+-3.7542	berpengaruh
+-4.2313	berperan
+-4.2313	berperilaku
+-3.9303	berpikir
+-4.2313	berpindah
+-4.2313	berpola
+-3.2771	bersama	-0.1024
+-4.2313	bersangkutan
+-3.3862	bersedia	-0.1282
+-4.2313	bersemangat
+-4.2313	bersiap-siap
+-4.2313	bersih
+-3.7542	bersih-bersih	-0.5469
+-4.2313	bertambah
+-3.9303	bertanggung	-0.2806
+-3.1174	bertanya	-0.4748
+-4.2313	bertentangan
+-4.2313	berterima
+-4.2313	bertiga
+-4.2313	bertindak
+-4.2313	bertugas
+-3.9303	berubah
+-4.2313	berunding
+-3.7542	berupa
+-3.9303	berwarna
+-2.7842	besar	-0.1375
+-4.2313	beserta
+-4.2313	besok
+-3.9303	besoknya
+-3.7542	betul
+-3.4532	biar
+-3.9303	biasa
+-3.7542	biasanya
+-3.0009	biaya	-0.2031
+-3.9303	bicarakan
+-3.1174	bidang	-0.1179
+-4.2313	bidangnya
+-4.2313	bikin
+-3.7542	bila	-0.5440
+-4.2313	bilang
+-3.9303	bincang-bincang
+-2.3925	bisa	-0.0899
+-3.5324	biskuit	-0.2438
+-3.1899	bisnis	-0.0433
+-3.9303	bitbucket
+-4.2313	board
+-3.5324	boleh
+-4.2313	bonus
+-4.2313	brokoli
+-4.2313	browser
+-3.7542	brt
+-2.9761	bu	-1.2347
+-4.2313	buah
+-2.7128	buat	-0.0615
+-4.2313	bubar
+-3.7542	budi
+-3.6293	bujet	-0.1048
+-3.5324	buka	-0.2037
+-3.6293	bukan	-0.1151
+-4.2313	bukankah
+-3.9303	bukannya	-0.2797
+-4.2313	bukit
+-2.3862	bulan	-0.4623
+-4.2313	bulan-bulan
+-4.2313	bulanannya
+-4.2313	buruk
+-4.2313	butir
+-3.0009	butuh	-0.2570
+-4.2313	cabang
+-4.2313	cadangan
+-4.2313	calon
+-4.2313	candi
+-3.6293	cara
+-4.2313	caranya
+-4.2313	cari
+-3.7542	catat
+-3.9303	catatan
+-4.2313	catet
+-3.9303	cek
+-4.2313	cenderung
+-4.2313	ceo
+-3.9303	cepat
+-3.9303	cerita
+-4.2313	ciri
+-3.7542	coba
+-3.6293	cocok	-0.1088
+-4.2313	cokelat
+-3.9303	contoh
+-4.2313	contohkan
+-4.2313	contohnya
+-3.9303	control
+-4.2313	cuaca
+-2.6750	cukup	-0.2384
+-3.7542	cukupkan
+-3.5324	cuma	-0.0916
+-3.9303	cumi	-0.2808
+-3.6293	daerah
+-4.2313	daerah-daerah
+-3.2771	daftar	-0.0482
+-3.1522	dahulu	-0.2408
+-2.5411	dalam	-0.2018
+-4.2313	dampak
+-1.8529	dan	-0.0735
+-2.8511	dana	-0.1753
+-4.2313	dananya
+-2.2582	dapat	-0.1227
+-4.2313	dapatkan
+-3.7542	dapet
+-1.7630	dari	-0.3301
+-3.9303	darien
+-4.2313	darimana
+-4.2313	darimanapun
+-3.2313	daring	-0.0063
+-3.9303	daripada
+-3.0009	dasar	-0.0482
+-3.9303	dasarnya
+-3.0272	data
+-3.1174	datang	-0.1210
+-3.9303	dateng
+-3.3862	daya	-0.5003
+-4.2313	de
+-4.2313	definisi
+-3.7542	deh
+-4.2313	dekorasi
+-2.9303	delapan	-0.0967
+-3.9303	demikian
+-4.2313	demonstrasinya
+-4.2313	denda
+-1.9983	dengan	-0.1454
+-3.9303	dengarkan
+-2.6186	depan	-0.4013
+-3.9303	depannya
+-2.4832	departemen	-0.3256
+-4.2313	departemennya
+-4.2313	deployment
+-3.5324	desain	-0.0917
+-3.5324	desember	-0.0547
+-3.5324	detil	-0.2364
+-3.9303	developer	-0.2438
+-3.9303	devops
+-2.0670	di	-0.2569
+-3.3862	dia	-0.0604
+-4.2313	diacak
+-3.1522	diadakan
+-4.2313	diadakannya
+-4.2313	diagram
+-4.2313	diajak
+-4.2313	diajarkan
+-3.3862	dialokasikan	-0.1221
+-4.2313	dianggap
+-3.9303	diantaranya
+-4.2313	diapresiasi
+-4.2313	diarahkan
+-4.2313	diasesmen
+-4.2313	diawal
+-4.2313	dibagi
+-3.1174	dibahas	-0.0793
+-3.6293	dibanding	-0.1048
+-3.5324	dibandingkan	-0.0874
+-3.9303	dibantu
+-4.2313	dibatasi
+-3.6293	dibawa	-0.3319
+-4.2313	dibayar
+-4.2313	dibayarkan
+-3.5324	diberi
+-3.0553	diberikan	-0.3609
+-4.2313	diberitahukan
+-3.9303	diberlakukan
+-4.2313	diberlikan
+-4.2313	dibersihkan
+-3.6293	dibicarakan
+-4.2313	dibilang
+-4.2313	dibilanginkan
+-3.4532	dibuat
+-3.7542	dibuka	-0.5426
+-3.7542	dibutuhkan
+-4.2313	dibutuhkannya
+-4.2313	dicanangkan
+-4.2313	dicapai
+-3.7542	dicari
+-4.2313	dicatat
+-3.3862	dicukupkan	-0.7327
+-4.2313	didampingi
+-4.2313	didapat
+-3.7542	didapatkan
+-4.2313	didata
+-4.2313	didatangi
+-3.6293	didiskusikan
+-4.2313	dievaluasi
+-4.2313	difokuskan
+-3.7542	digabungkan
+-4.2313	diganti
+-4.2313	digelutin
+-4.2313	digemari
+-2.9761	digunakan	-0.2856
+-3.7542	dihadapi
+-3.2771	diharapkan
+-4.2313	diharapkannya
+-3.9303	diharuskan
+-3.9303	dihentikan	-0.2808
+-4.2313	dihilangkan
+-4.2313	dihitung
+-4.2313	diikuti
+-4.2313	diimplementasikan
+-4.2313	diinfokan
+-4.2313	diingat
+-4.2313	diingatkan
+-3.9303	diinginkan
+-4.2313	diinisiasikan
+-3.5324	diisi	-0.0856
+-4.2313	dijabarkan
+-4.2313	dijadikan
+-4.2313	dijelaskan
+-4.2313	dijual
+-3.7542	dikabarin
+-4.2313	dikabulkan
+-3.6293	dikarenakan
+-3.9303	dikasih	-0.2808
+-3.4532	dikatakan	-0.1627
+-3.9303	dikeluarkan
+-3.9303	dikembangkan
+-3.9303	dikenal
+-3.7542	dikenalkan	-0.1632
+-4.2313	dikerjain
+-3.3283	dikerjakan	-0.0417
+-3.7542	diklat
+-3.9303	dikomunikasikan
+-3.9303	dikontak
+-4.2313	dikumpulkan
+-4.2313	dikunjungi
+-4.2313	dikurangi
+-3.3283	dilaksanakan	-0.1168
+-2.8696	dilakukan	-0.0625
+-3.7542	dilanjut	-0.1632
+-3.3283	dilanjutkan	-0.1315
+-4.2313	dilansir
+-3.9303	dilaporkan	-0.2438
+-3.2771	dilihat	-0.1269
+-3.9303	diluangkan
+-4.2313	diluncurkan
+-3.9303	dimana
+-4.2313	dimasuki
+-4.2313	dimasukin
+-3.7542	dimasukkan	-0.1632
+-3.9303	dimiliki	-0.2789
+-3.9303	diminati
+-3.4532	diminta
+-3.7542	dimohon
+-2.9303	dimulai	-0.5116
+-4.2313	dinaikkan
+-3.6293	dini	-0.0810
+-3.9303	dinilai
+-4.2313	dinyatakan
+-4.2313	dion
+-4.2313	dipakai
+-4.2313	dipaketkan
+-4.2313	dipasarkan
+-4.2313	dipastikan
+-4.2313	dipatiukur
+-4.2313	dipecah
+-3.7542	dipelajari	-0.1622
+-4.2313	diperbaharui
+-4.2313	diperbaiki
+-4.2313	dipercepat
+-3.7542	diperhatikan
+-3.9303	diperjelas
+-3.7542	diperkirakan	-0.1596
+-3.9303	diperluas	-0.2782
+-3.7542	diperlukan
+-4.2313	diperoleh
+-3.7542	dipersiapkan
+-4.2313	dipersilahkan
+-3.2771	dipersilakan	-0.2624
+-3.5324	dipertimbangkan
+-4.2313	dipesan
+-3.9303	dipikirkan
+-3.7542	dipilih
+-3.6293	dipimpin	-0.3689
+-4.2313	dipinjamkannya
+-4.2313	dipisah
+-3.9303	diproses
+-4.2313	dipublikasikan
+-3.9303	dirancang
+-4.2313	dirasa
+-4.2313	direkrut
+-3.5324	direncanakan
+-3.6293	diri	-0.1174
+-3.9303	dirinci
+-3.7542	disajikan
+-3.6293	disampaikan	-0.0810
+-3.9303	disampein
+-4.2313	disamping
+-4.2313	disana
+-4.2313	disebabkan
+-4.2313	disebut
+-3.6293	disebutkan
+-3.4532	disediakan	-0.1616
+-3.9303	diselesaikan
+-4.2313	diseragamkan
+-3.6293	disesuaikan	-0.0810
+-4.2313	disetujui
+-4.2313	disewa
+-4.2313	disiapin
+-3.7542	disiapkan
+-4.2313	disimpan
+-3.0009	disini	-0.0483
+-3.7542	diskon
+-4.2313	diskusi
+-4.2313	diskusikan
+-4.2313	disponsori
+-3.7542	distribusi
+-3.9303	distributor
+-4.2313	disukai
+-4.2313	disusun
+-3.9303	ditakutkan
+-4.2313	ditambah
+-3.9303	ditambahkan
+-3.7542	ditampilkan
+-4.2313	ditanggapi
+-4.2313	ditanggulangi
+-3.6293	ditanyakan	-0.1163
+-4.2313	ditargetkan
+-4.2313	ditegaskan
+-3.6293	ditempatkan	-0.3316
+-4.2313	ditempel
+-4.2313	ditemukan
+-3.9303	ditentukan
+-3.6293	diterapkan	-0.1169
+-4.2313	diterima
+-4.2313	dites
+-4.2313	ditetapkan
+-4.2313	ditopang
+-3.9303	ditugaskan	-0.2715
+-3.9303	ditujukan
+-3.9303	ditulis
+-4.2313	ditunda
+-4.2313	ditunggu
+-4.2313	ditunjukkan
+-4.2313	ditutup
+-3.7542	diubah
+-4.2313	diundang
+-4.2313	diunduh
+-4.2313	diunggah
+-3.9303	diurus
+-4.2313	diusahakan
+-4.2313	diusulkan
+-4.2313	divalidasi
+-2.0438	divisi	-0.4836
+-3.7542	divisi-divisi	-0.1526
+-3.9303	divisinya
+-4.2313	diwakili
+-4.2313	dlapan
+-2.8511	doa	-0.2916
+-4.2313	doang
+-3.3283	dokumentasi	-0.1097
+-4.2313	dokumentasinya
+-4.2313	dompet
+-3.6293	dong
+-4.2313	dp
+-4.2313	drastis
+-3.6293	drive
+-2.5411	dua	-0.2850
+-3.0009	dulu	-0.1244
+-3.5324	dunia	-0.0547
+-4.2313	durasi
+-4.2313	duri
+-3.3862	eben
+-3.9303	eceng	-0.2808
+-4.2313	edukatif
+-3.4532	efektif	-0.0734
+-3.7542	efektivitas
+-3.9303	eksplorasi
+-3.6293	eksternal
+-4.2313	ekstrem
+-3.9303	elektronik	-0.2438
+-3.7542	elisa	-0.1649
+-4.2313	email
+-3.7542	emas	-0.1568
+-4.2313	embernya
+-3.0272	empat	-0.1908
+-3.6293	enam
+-3.9303	engga
+-3.3862	enggak	-0.1354
+-3.7542	engineer
+-3.9303	ensof	-0.2438
+-3.7542	estavet
+-3.9303	estimasi
+-4.2313	etis
+-4.2313	evaluasi
+-4.2313	expo
+-4.2313	exponya
+-4.2313	facto
+-3.9303	fair
+-3.9303	fakultas
+-3.3283	fatma	-0.1086
+-4.2313	februari
+-4.2313	felis
+-3.0852	finlandia	-0.0683
+-3.0852	fitur	-0.1853
+-4.2313	fiturnya
+-3.9303	fix	-0.2438
+-4.2313	fleksibel
+-3.6293	flyer	-0.0810
+-3.1899	fokus	-0.2802
+-4.2313	fokusnya
+-4.2313	follow
+-4.2313	ford
+-3.5324	foto	-0.2665
+-4.2313	foto-foto
+-3.5324	fungsi
+-3.3283	futsal	-0.0987
+-3.3283	ga
+-3.7542	gagal
+-3.9303	gaji
+-4.2313	gajinya
+-3.1899	gak	-0.0763
+-3.9303	gambar
+-3.9303	gambaran
+-3.9303	ganti
+-3.9303	gantian
+-4.2313	gara-gara
+-4.2313	garis
+-4.2313	gausah
+-4.2313	gedung
+-4.2313	gembira
+-4.2313	gencar
+-4.2313	giliran
+-3.2313	gimana	-0.0761
+-3.9303	gio
+-3.6293	git	-0.0810
+-3.4532	github	-0.1256
+-4.2313	gitlab
+-3.2313	gitu	-0.0761
+-3.9303	gondok
+-3.6293	goreng	-0.1181
+-3.7542	grafik	-0.1526
+-4.2313	grafis
+-3.9303	gratis
+-3.9303	grup
+-2.9091	gudang	-0.1413
+-3.9303	gunakan	-0.2715
+-4.2313	habis
+-4.2313	hadapi
+-3.7542	hadiah
+-3.0852	hadir	-0.2798
+-2.6403	hal	-0.7033
+-3.6293	hal-hal	-0.1048
+-3.2313	halaman	-0.0428
+-4.2313	halamannya
+-4.2313	halnya
+-3.9303	halo
+-3.9303	halu
+-3.7542	haluluntur	-0.1288
+-4.2313	hambatan
+-3.7542	hampir
+-3.9303	handy
+-2.9761	hanya	-0.0858
+-3.7542	harap	-0.5469
+-3.7542	harapan	-0.1647
+-3.9303	harapannya
+-3.1899	harga	-0.0686
+-4.2313	harga-harga
+-2.3740	hari	-0.5149
+-4.2313	hari-hari
+-3.9303	harian
+-3.7542	harinya	-0.1288
+-2.8164	harus	-0.0735
+-4.2313	harusnya
+-2.9526	hasil	-0.1038
+-3.7542	hati	-0.5469
+-4.2313	henry
+-3.4532	hijau	-0.0379
+-3.7542	hilang
+-3.4532	hingga	-0.0747
+-4.2313	historis
+-3.9303	hosting
+-3.6293	hubungan	-0.3343
+-3.7542	humas
+-4.2313	ialah
+-3.1174	ibu	-0.3068
+-3.9303	ibu-ibu	-0.2807
+-3.9303	ide
+-4.2313	identitas
+-4.2313	idenya
+-4.2313	iga
+-3.9303	ika
+-4.2313	ikan
+-4.2313	iklan
+-3.5324	ikut	-0.0917
+-4.2313	ilham
+-4.2313	ilmu-ilmu
+-3.6293	implementasi	-0.3701
+-4.2313	indimi
+-3.6293	indonesia	-0.3331
+-4.2313	infonya
+-3.6293	informasi	-0.1048
+-4.2313	ingat
+-2.7542	ingin	-0.1510
+-1.6848	ini	-0.3465
+-3.9303	inovasi
+-4.2313	insentif
+-4.2313	instagram
+-4.2313	integrasi
+-3.3283	internal	-0.0531
+-3.7542	internasional	-0.1526
+-4.2313	interupsi
+-4.2313	inventaris
+-3.6293	inventarisasi	-0.0810
+-4.2313	investasi
+-4.2313	investigasi
+-4.2313	investor
+-3.9303	ipa
+-4.2313	isi
+-3.9303	isinya
+-3.9303	isoma
+-3.1522	it	-0.1541
+-3.1899	itb
+-4.2313	item
+-2.1706	itu	-0.1071
+-3.9303	itulah
+-3.1522	iya	-0.0352
+-4.2313	iyaa
+-4.2313	izin
+-4.2313	izinkan
+-2.3680	jadi	-0.0435
+-3.3283	jadwal
+-3.7542	jadwalkan
+-4.2313	jaga
+-4.2313	jagung
+-3.7542	jakarta	-0.1288
+-3.6293	jalan	-0.1180
+-3.5324	jalan-jalan
+-4.2313	jalan-jalannya
+-4.2313	jalankan
+-3.9303	jalu
+-4.2313	jalur
+-4.2313	jalur-jalur
+-3.2313	jam	-0.2826
+-4.2313	jaman
+-4.2313	jamin
+-4.2313	jaminan
+-3.3862	jangan	-0.4488
+-3.9303	jangka
+-4.2313	jangkauan
+-3.7542	januari
+-4.2313	jaringan
+-3.7542	jauh
+-4.2313	jawa
+-3.1899	jawab	-0.0727
+-4.2313	jawaban
+-4.2313	jawabannya
+-3.9303	jaya
+-4.2313	jeje
+-3.4532	jelas	-0.0379
+-4.2313	jelasin
+-4.2313	jelaskan
+-3.2771	jenis	-0.1274
+-4.2313	jenis-jenis
+-4.2313	jenjang
+-3.9303	jepang
+-2.8889	jika	-0.2495
+-3.9303	jual
+-3.4532	jualan	-0.2056
+-2.2676	juga	-0.1148
+-3.9303	jumat	-0.2438
+-4.2313	jumatnya
+-4.2313	jumla
+-3.1899	jumlah
+-3.9303	jumlahnya
+-3.9303	jumpa
+-3.6293	jurusan
+-4.2313	jus
+-4.2313	justru
+-3.2313	juta	-0.1611
+-3.6293	kabar
+-4.2313	kabarnya
+-3.6293	kaderisasi	-0.2974
+-4.2313	kadivnya
+-3.9303	kak	-0.2808
+-3.9303	kakak
+-4.2313	kala
+-2.4679	kalau	-0.3680
+-2.7542	kali	-0.7463
+-3.2313	kalian
+-2.8889	kalo	-0.4289
+-3.9303	kame
+-3.1899	kamera	-0.0811
+-2.5501	kami	-0.1035
+-4.2313	kamis
+-3.6293	kampus	-0.3277
+-3.9303	kamu
+-2.8889	kan	-0.1381
+-4.2313	kanban
+-4.2313	kanker
+-3.4532	kantor
+-3.9303	kaos
+-3.3862	kapan	-0.0614
+-4.2313	kapanpun
+-4.2313	kapasitas
+-2.4252	karena	-0.0640
+-4.2313	karisma
+-3.1174	kartu	-0.1717
+-4.2313	karung
+-2.7542	karyawan	-0.1771
+-3.9303	karyawan-karyawan
+-3.9303	kas	-0.2438
+-4.2313	kasar
+-2.2227	kasih	-0.5167
+-4.2313	kasus
+-3.9303	katakan
+-3.6293	katanya	-0.1162
+-3.7542	kaya
+-3.7542	kayak
+-3.4532	kayaknya
+-2.2102	ke	-0.1938
+-3.9303	keadaan
+-3.9303	keamanan
+-4.2313	keanggotaan
+-4.2313	kebebasan
+-3.9303	keberatan	-0.2438
+-3.7542	keberhasilan	-0.1647
+-3.7542	keberjalanan
+-3.9303	keberjalanannya
+-4.2313	keberlangsungan
+-3.6293	kebijakan
+-4.2313	kebudayaan
+-3.2771	kebutuhan	-0.0485
+-4.2313	kebutuhannya
+-4.2313	kecelakaan
+-3.9303	kecil	-0.2438
+-4.2313	kedatangan
+-3.9303	kedepannya
+-3.2313	kedua	-0.0423
+-4.2313	kegagalan
+-3.0272	kegiatan	-0.0709
+-4.2313	kegiatan-kegiatan
+-4.2313	kegiatannya
+-4.2313	kehabisan
+-4.2313	kehadiran
+-4.2313	kehadirannya
+-3.7542	kehidupan
+-3.4532	kehijauan	-0.1189
+-4.2313	keisi
+-4.2313	keistimewaan
+-4.2313	kejadian
+-4.2313	kejar
+-3.9303	kekeluargaan
+-3.6293	kekurangan
+-4.2313	kekurangannya
+-4.2313	kelancaran
+-4.2313	kelanjutan
+-3.4532	kelas	-0.3083
+-4.2313	kelebihan
+-4.2313	kelebihannya
+-3.9303	kelemahannya	-0.2438
+-4.2313	kelengkapan
+-3.6293	kelereng	-0.1180
+-3.7542	keliatannya
+-3.7542	kelihatannya
+-4.2313	kelima
+-4.2313	kelompok
+-3.6293	keluar	-0.1120
+-3.5324	kemajuan
+-4.2313	kemajuannya
+-3.6293	kemampuan	-0.1181
+-4.2313	kemanusiaan
+-4.2313	kemaren
+-3.0009	kemarin	-0.0474
+-3.9303	kemasan
+-3.1522	kembali	-0.1086
+-3.9303	kembalikan	-0.2782
+-3.9303	kembangkan
+-3.9303	kemeja
+-3.9303	kemerdekaan
+-4.2313	kemudahan
+-2.9761	kemudian	-0.1097
+-3.6293	kemungkinan	-0.3339
+-3.0553	kenaikan	-0.2417
+-4.2313	kenal
+-3.4532	kenapa
+-3.3862	kendala	-0.1459
+-4.2313	kendalanya
+-4.2313	kendaraan
+-2.9526	kepada	-0.2087
+-3.7542	kepala	-0.1645
+-3.7542	kepengurusan	-0.5464
+-3.5324	kepercayaan	-0.4137
+-3.7542	keperluan	-0.1568
+-4.2313	kepopulerannya
+-3.3862	keputusan	-0.0502
+-4.2313	keras
+-4.2313	kerasnya
+-3.5324	keripik	-0.2438
+-2.9526	kerja	-0.0893
+-4.2313	kerjain
+-3.9303	kerjanya
+-3.7542	kerugian
+-3.6293	kerupuk	-0.3335
+-4.2313	kesaktian
+-3.9303	kesalahan
+-4.2313	kesatuan
+-4.2313	kesediaan
+-3.7542	kesejahteraan
+-3.7542	kesempatan
+-4.2313	kesepakatan
+-4.2313	kesepakatannya
+-4.2313	kesetiaan
+-3.7542	kesiapan	-0.1583
+-4.2313	kesiapannya
+-3.9303	kesimpulan
+-4.2313	kesukaan
+-4.2313	kesulitan
+-3.9303	ketahui
+-4.2313	ketemu
+-4.2313	keterampilan
+-4.2313	keterbatasan
+-3.5324	keterlambatan
+-4.2313	ketersediaannya
+-4.2313	ketertarikan
+-4.2313	ketidakpuasan
+-3.6293	ketiga
+-3.2771	ketika	-0.0483
+-4.2313	ketinggalan
+-3.0272	ketua	-0.4363
+-4.2313	ketujuh
+-2.8334	keuangan	-0.3132
+-4.2313	keunikan
+-3.1899	keuntungan	-0.1285
+-3.7542	keyakinan	-0.5463
+-3.3862	khusus	-0.0624
+-3.2771	khususnya	-0.1398
+-3.2313	kinerja	-0.0420
+-4.2313	kinerja-kinerja
+-4.2313	kinerjanya
+-3.7542	kira
+-2.7128	kira-kira	-0.1061
+-3.5324	kirim	-0.0914
+-1.8032	kita	-0.2586
+-4.2313	klarifikasi
+-4.2313	klien
+-4.2313	kode
+-4.2313	kok
+-3.9303	kolom	-0.2808
+-4.2313	kompetitif
+-3.7542	komulatif	-0.1630
+-4.2313	komunikasi
+-4.2313	komunikasikan
+-4.2313	komunitas
+-3.1174	kondisi	-0.1790
+-3.5324	konfirmasi	-0.0891
+-4.2313	konflik
+-3.9303	konsep
+-3.7542	konstruksi	-0.1657
+-3.7542	konsumen	-0.1288
+-3.0009	konsumsi	-0.0597
+-4.2313	konsumsinya
+-3.2771	konten	-0.0483
+-4.2313	kontinu
+-3.7542	kontrak	-0.1615
+-3.7542	kontraktor
+-3.6293	koordinasi
+-4.2313	koordinasikan
+-3.7542	korea	-0.1598
+-4.2313	korupsi
+-4.2313	kosong
+-3.7542	kostum	-0.1583
+-3.6293	kotak	-0.3345
+-4.2313	kotaknya
+-4.2313	kriteria
+-4.2313	kriteria-kriteria
+-4.2313	kritik
+-3.5324	ktp	-0.0888
+-3.7542	kualitas
+-3.9303	kuantitas
+-3.9303	kuliah
+-3.4532	kunjungan	-0.2066
+-3.4532	kupon	-0.0379
+-2.9303	kurang	-0.1296
+-3.9303	kurangnya
+-3.9303	kurikulum
+-3.9303	kursi
+-3.3862	kusni	-0.1664
+-2.3740	lagi	-0.2166
+-4.2313	lah
+-2.5592	lain	-0.2865
+-4.2313	lain-lain
+-3.0272	lainnya	-0.2639
+-4.2313	lajur
+-3.5324	lakukan	-0.0547
+-2.5979	lalu	-0.4238
+-3.5324	lama
+-3.2313	lancar	-0.3407
+-4.2313	landasan
+-3.9303	langkah	-0.2800
+-3.9303	langkah-langkah
+-3.3862	langsung	-0.0622
+-2.7542	lanjut	-0.2649
+-3.2313	lanjutkan	-0.1212
+-4.2313	lanjutnya
+-3.7542	lantai	-0.5462
+-4.2313	lapak
+-3.2313	lapangan	-0.3717
+-3.0852	laporan	-0.0702
+-4.2313	laporannnya
+-3.6293	laporannya	-0.3331
+-4.2313	larangan
+-2.9526	lari	-1.2783
+-4.2313	latar
+-3.9303	latian	-0.2808
+-4.2313	latihan
+-4.2313	laut
+-3.9303	layak
+-3.9303	layar
+-3.5324	lebi
+-2.3925	lebih	-0.3416
+-4.2313	leluasa
+-4.2313	lemari
+-3.7542	lengkap
+-4.2313	letak
+-3.6293	level	-0.1173
+-3.5324	lewat	-0.0917
+-4.2313	lho
+-4.2313	liat-liat
+-3.9303	libur	-0.2808
+-3.7542	liburan	-0.1288
+-4.2313	lif
+-3.9303	lihat
+-3.0272	lima	-0.1999
+-3.9303	limited
+-4.2313	line
+-3.7542	lingkungan
+-4.2313	lintas
+-4.2313	literasi
+-3.9303	lk
+-2.6750	logistik	-0.2341
+-3.9303	logo	-0.2808
+-4.2313	logonya
+-3.4532	lokasi	-0.6036
+-2.5979	lomba	-0.2896
+-3.5324	lomba-lomba
+-3.6293	lombanya	-0.0810
+-4.2313	lompat
+-4.2313	lonjakan
+-4.2313	lpj
+-4.2313	luar
+-4.2313	luas
+-3.7542	lulus
+-4.2313	lulusan-lulusannya
+-3.4532	lupa	-0.0742
+-3.6293	maaf
+-4.2313	macam
+-3.9303	magang
+-3.9303	mahal
+-3.4532	mahasiswa	-0.0750
+-4.2313	mahasiswa-mahasiswa
+-4.2313	maju
+-3.1174	maka	-0.1063
+-3.1174	makan	-0.1685
+-3.6293	makanan
+-4.2313	makanya
+-4.2313	makasih
+-4.2313	makin
+-4.2313	maksakan
+-3.5324	maksimal	-0.2068
+-3.5324	maksud	-0.0874
+-4.2313	maksudnya
+-3.9303	malah
+-3.5324	malam
+-4.2313	malamnya
+-3.2771	mana	-0.0516
+-3.5324	manajemen
+-4.2313	mangkok
+-3.3862	manusia	-0.1354
+-3.9303	maret
+-2.9091	mari	-1.3153
+-3.6293	marilah	-0.3634
+-3.1174	mas	-0.7333
+-3.9303	masa
+-2.4910	masalah	-0.2338
+-4.2313	masalahnya
+-2.5153	masih	-0.1551
+-2.8000	masing-masing	-0.3839
+-3.2771	massa	-0.1145
+-4.2313	mastiin
+-2.8164	masuk	-0.2227
+-3.5324	masukan
+-3.9303	masukannya	-0.2438
+-3.6293	masukin	-0.1174
+-3.1899	masyarakat	-0.2609
+-3.6293	mata	-0.3701
+-3.7542	matematika	-0.1659
+-3.7542	materi
+-3.7542	materinya
+-2.6403	mau	-0.1079
+-4.2313	maulana
+-3.2771	maupun	-0.1184
+-3.9303	media	-0.2808
+-3.3283	medis	-0.1097
+-3.3862	meeting
+-4.2313	megang
+-4.2313	mekanisme
+-4.2313	melainkan
+-3.7542	melaksanakan
+-2.6516	melakukan	-0.0745
+-3.3862	melalui	-0.0634
+-4.2313	melampaui
+-3.6293	melanjutkan	-0.3319
+-3.2313	melaporkan	-0.1443
+-4.2313	melatar
+-3.9303	melebihi	-0.2803
+-4.2313	melegakan
+-4.2313	melekat
+-4.2313	melewati
+-3.4532	melihat
+-4.2313	melonjak
+-3.9303	meluangkan
+-4.2313	memacu
+-4.2313	memadai
+-4.2313	memakai
+-4.2313	memakan
+-3.0553	memang	-0.0283
+-4.2313	memantau
+-3.7542	memaparkan
+-3.9303	memastikan
+-4.2313	memasukan
+-3.6293	memasukkan	-0.3702
+-3.5324	membaca	-0.2661
+-3.7542	membagi
+-4.2313	membagikan
+-2.7128	membahas	-0.2975
+-4.2313	membalas
+-4.2313	membandingkan
+-4.2313	membangun
+-3.6293	membantu
+-3.7542	membayar
+-3.9303	membebani	-0.2802
+-4.2313	membenarkan
+-4.2313	membentuk
+-4.2313	memberatkan
+-3.3283	memberi
+-3.1899	memberikan	-0.0390
+-4.2313	membicarakan
+-4.2313	membuahkan
+-3.1522	membuat
+-3.9303	membuka
+-4.2313	memburuk
+-3.3862	membutuhkan	-0.0629
+-4.2313	memegang
+-4.2313	memenuhi
+-4.2313	memeriahkan
+-4.2313	memeriksa
+-3.9303	memerlukan
+-3.5324	memikirkan
+-3.9303	memikirkannya	-0.2790
+-3.3862	memilih	-0.0635
+-3.1174	memiliki	-0.1603
+-4.2313	meminjamkan
+-3.6293	meminta	-0.1177
+-4.2313	memotivasi
+-4.2313	mempengaruhi
+-3.9303	memperbaiki
+-4.2313	memperingati
+-4.2313	memperjelas
+-3.4532	memperkenalkan	-0.0750
+-4.2313	mempermuda
+-4.2313	mempermudah
+-3.9303	memperoleh
+-4.2313	mempersiapkan
+-4.2313	mempertimbangkan
+-4.2313	mempresentasikan
+-4.2313	mempromosikan
+-3.9303	mempunyai
+-3.3283	memulai	-0.1341
+-4.2313	memungkinkan
+-4.2313	memutuskan
+-4.2313	menaik
+-4.2313	menaikkan
+-3.9303	menambah	-0.2808
+-3.9303	menambahkan
+-4.2313	menampilkan
+-4.2313	menampung
+-3.9303	menangani
+-3.4532	menarik
+-3.9303	menawarkan
+-4.2313	mencakup
+-3.4532	mencapai	-0.0747
+-3.5324	mencari
+-4.2313	mencatat
+-4.2313	mencegah
+-4.2313	menceritakan
+-3.7542	mencoba
+-4.2313	mendadak
+-4.2313	mendaftarkan
+-2.9761	mendaki	-0.2268
+-4.2313	mendakinya
+-4.2313	mendanai
+-3.4532	mendapat
+-3.9303	mendapatkan
+-4.2313	mendata
+-3.9303	mendatang
+-4.2313	mendatangi
+-4.2313	mendemonstrasikan
+-4.2313	mendengarkan
+-4.2313	mendesak
+-4.2313	mendetail
+-4.2313	mendiskusikan
+-3.4532	mendukung
+-4.2313	menegaskan
+-4.2313	menekan
+-4.2313	menekankan
+-4.2313	menempati
+-4.2313	menenga
+-4.2313	menengah
+-3.3283	menentukan	-0.1178
+-4.2313	menerapkan
+-4.2313	menetapkan
+-4.2313	meng
+-3.3862	mengadakan	-0.1364
+-4.2313	mengadopsi
+-4.2313	mengajak
+-4.2313	mengajarkan
+-3.9303	mengajukan
+-4.2313	mengakhirinya
+-3.6293	mengakses
+-3.2771	mengalami	-0.0485
+-4.2313	mengamati
+-4.2313	mengambil
+-4.2313	mengandalkan
+-4.2313	menganjurkan
+-3.9303	mengapa
+-4.2313	mengatur
+-4.2313	mengejar
+-3.9303	mengembangkan
+-2.6403	mengenai	-0.0845
+-3.9303	mengenal
+-3.7542	mengenalkan
+-3.2313	mengerjakan	-0.1046
+-3.9303	mengerti
+-3.9303	mengetahui
+-4.2313	mengevaluasi
+-4.2313	menggabungkan
+-4.2313	menggalang
+-3.7542	mengganggu
+-4.2313	mengganti
+-3.9303	menggantikan
+-3.3862	menggunakan
+-3.9303	menghadiri
+-4.2313	menghilang
+-4.2313	menghimpun
+-3.9303	menghubungi
+-3.6293	mengikuti
+-3.6293	mengingat
+-4.2313	mengingatkan
+-4.2313	menginginkan
+-4.2313	mengirim
+-4.2313	mengirimkan
+-3.9303	mengisi
+-3.9303	mengontak
+-4.2313	mengtrack
+-3.9303	menguasai	-0.2806
+-4.2313	menguba
+-4.2313	mengubah
+-4.2313	mengucapkan
+-4.2313	mengumpulkan
+-4.2313	mengundang
+-4.2313	mengungguli
+-4.2313	mengunjungi
+-3.9303	mengurus
+-4.2313	mengurusi
+-3.9303	mengusulkan
+-3.9303	menimbulkan
+-3.6293	meningkat
+-3.3283	meningkatkan	-0.2124
+-4.2313	menit
+-3.9303	menjabarkan
+-2.8511	menjadi	-0.0723
+-3.9303	menjadwalkan	-0.2807
+-4.2313	menjaga
+-4.2313	menjalani
+-4.2313	menjawab
+-3.3862	menjelaskan	-0.1591
+-4.2313	menjual
+-4.2313	menolong
+-3.9303	mensupport
+-3.7542	mental
+-3.9303	menu
+-3.9303	menuju
+-4.2313	menulis
+-3.9303	menunggu
+-4.2313	menunjukan
+-3.9303	menunjukkan
+-3.7542	menurun
+-2.8164	menurut	-0.4339
+-3.3862	menurutku
+-3.7542	menutup
+-4.2313	menutupi
+-4.2313	menyalurkan
+-3.6293	menyampaikan
+-4.2313	menyangkut
+-3.9303	menyarankan
+-3.5324	menyebabkan	-0.0917
+-3.9303	menyebar
+-4.2313	menyebarkan
+-3.5324	menyediakan	-0.0917
+-3.4532	menyelesaikan
+-4.2313	menyelinap
+-4.2313	menyiapkan
+-4.2313	menyukai
+-4.2313	menyukseskan
+-4.2313	menyusun
+-3.9303	mepet
+-3.7542	mera
+-4.2313	merahasiakan
+-3.9303	meramaikan
+-4.2313	merangkum
+-4.2313	merapikannya
+-4.2313	merasa
+-3.9303	merasakan
+-4.2313	mercurial
+-2.3621	mereka	-0.2103
+-4.2313	merekan
+-3.7542	merekrut
+-4.2313	meresearch
+-4.2313	mereview
+-4.2313	merevisi
+-3.3862	merupakan
+-4.2313	mesjid
+-3.9303	meskipun
+-3.7542	mewakili
+-4.2313	mi
+-3.7542	minat	-0.1598
+-4.2313	mindahin
+-2.5781	minggu	-0.5497
+-3.6293	mingguan
+-4.2313	mingguannya
+-4.2313	minim
+-4.2313	minimal
+-3.2771	minta
+-4.2313	mintanya
+-4.2313	minuman
+-4.2313	mirip
+-4.2313	misal
+-3.9303	misalkan
+-3.3862	misalnya
+-3.6293	mobile
+-3.4532	modal
+-4.2313	modalnya
+-4.2313	model
+-3.2313	moderator	-0.2459
+-4.2313	modern
+-4.2313	mohon
+-4.2313	moral-moral
+-4.2313	motong
+-3.9303	mudah
+-2.6081	mulai	-0.2742
+-2.4532	mungkin	-0.1022
+-4.2313	murah
+-4.2313	musim
+-4.2313	nadia
+-2.8164	nah	-0.1528
+-3.5324	naik
+-3.6293	nama
+-3.7542	namanya
+-3.0852	namun	-0.0627
+-2.5781	nanti	-0.1344
+-3.7542	nantinya
+-4.2313	nanya
+-3.5324	nasi	-0.2438
+-3.5324	nasional	-0.0916
+-4.2313	nda
+-3.3862	negara	-0.1890
+-4.2313	negeri
+-4.2313	negosiasi
+-4.2313	negri
+-4.2313	ngapain
+-4.2313	ngasih
+-4.2313	ngerjain
+-4.2313	nggak
+-4.2313	ngingetin
+-4.2313	ngobrol
+-4.2313	ngumpulin
+-4.2313	ngundang
+-3.2771	nih	-0.0114
+-3.1522	nilai	-0.1162
+-3.1899	nomer	-0.2903
+-4.2313	nominal
+-4.2313	nomor
+-4.2313	nonton
+-4.2313	normal
+-4.2313	normalnya
+-4.2313	notul
+-4.2313	notulen
+-4.2313	notulensi
+-4.2313	notulis
+-3.7542	november
+-4.2313	ntar
+-4.2313	number
+-4.2313	nunjukin
+-3.9303	nya
+-4.2313	nyampaikan
+-4.2313	nyatanya
+-4.2313	of
+-3.0852	oh	-0.1346
+-3.3283	ok
+-2.5879	oke	-0.2153
+-3.7542	oktober	-0.1655
+-3.9303	olahraga
+-4.2313	ole
+-2.5153	oleh	-0.2808
+-4.2313	operasi
+-4.2313	opsi
+-4.2313	opsional
+-2.8889	orang	-0.1511
+-3.6293	orang-orang	-0.3569
+-3.7542	organisasi
+-4.2313	owner
+-3.9303	pabrik
+-2.1632	pada	-0.2544
+-3.9303	padahal
+-3.9303	pagar
+-3.2771	pagi	-0.0907
+-4.2313	paham
+-3.1174	pak	-0.2201
+-3.6293	pakai
+-3.2771	paket	-0.1834
+-3.5324	paling
+-4.2313	pancasila
+-4.2313	pandang
+-4.2313	panduan
+-3.2771	panitia	-0.0114
+-4.2313	panjang
+-4.2313	pantas
+-3.2771	para
+-3.7542	parameter	-0.5469
+-4.2313	partisipasi
+-3.5324	pas
+-4.2313	pasang
+-3.2313	pasar	-0.2417
+-3.7542	pasaran
+-3.9303	pasifik	-0.2438
+-3.7542	pasti
+-3.9303	pastinya
+-4.2313	patut
+-4.2313	pdfnya
+-4.2313	pecahkan
+-3.5324	pegawai	-0.0917
+-3.7542	pejantan
+-3.6293	pekerja	-0.1048
+-3.1522	pekerjaan	-0.1273
+-3.7542	pekerjaannya
+-3.5324	pelajaran	-0.0785
+-3.3283	pelaksanaan	-0.3942
+-3.9303	pelaksanaannya
+-4.2313	pelantikan
+-3.9303	pelaporan
+-3.2771	pelatihan	-0.1550
+-4.2313	pemandu
+-4.2313	pemaparan
+-3.5324	pemasaran	-0.2296
+-3.9303	pemasukan
+-3.6293	pemateri
+-3.9303	pematerinya
+-4.2313	pembacaan
+-3.6293	pembagian	-0.2767
+-4.2313	pembaharuan
+-2.9526	pembahasan	-0.2461
+-4.2313	pembahasannya
+-3.9303	pembangunan
+-4.2313	pembatas
+-4.2313	pembawa
+-4.2313	pembayaran
+-4.2313	pembayarannya
+-4.2313	pembeli
+-3.4532	pembelian	-0.1722
+-3.4532	pembentukan	-1.5007
+-4.2313	pemberi
+-3.9303	pemberitahuan	-0.2733
+-3.0553	pembicara	-0.1594
+-3.6293	pembuatan	-0.3345
+-4.2313	pembuka
+-4.2313	pemenangnya
+-4.2313	pemeriksaan
+-4.2313	pemerintah
+-3.2771	pemesanan	-0.1004
+-4.2313	pemetaan
+-3.7542	pemikiran	-0.5457
+-3.9303	pemilik
+-4.2313	pemimpin
+-4.2313	pemindahan
+-3.9303	peminjaman
+-3.0272	pemrosesan
+-4.2313	pemutus
+-4.2313	penanda
+-3.5324	penanggung	-1.0088
+-4.2313	penanya
+-4.2313	pencapaian
+-3.9303	pencarian
+-4.2313	pendaftaran
+-3.3862	pendanaan	-0.1354
+-4.2313	pendanaannya
+-3.0009	pendapat	-0.4366
+-3.7542	pendapatan	-0.1640
+-3.9303	pendapatnya
+-4.2313	pendek
+-2.7128	pendidikan	-0.2200
+-3.9303	penempatan
+-2.8511	pengadaan	-0.2308
+-4.2313	pengajuan
+-4.2313	pengalaman
+-4.2313	pengaruh
+-4.2313	pengecekan
+-4.2313	pengeditan
+-3.7542	pengelolaan	-0.5467
+-3.5324	pengeluaran
+-3.3283	pengembangan	-0.1356
+-3.1174	pengerjaan
+-4.2313	pengerjaannya
+-4.2313	pengetahuan
+-3.9303	penggalangan	-0.2803
+-3.1899	pengguna	-0.1041
+-3.3862	penggunaan	-0.4484
+-4.2313	penggunaannya
+-4.2313	penghargaan
+-3.7542	pengiriman
+-4.2313	pengirimannya
+-4.2313	pengisian
+-3.7542	pengmas	-0.1288
+-3.7542	pengumpulan	-0.1656
+-4.2313	pengunjung
+-3.9303	pengurus	-0.2676
+-4.2313	pengurutan
+-3.9303	penilaian
+-4.2313	peninggalan
+-3.0553	peningkatan	-0.2885
+-3.9303	penjabaran
+-4.2313	penjadwalan
+-3.5324	penjelasan	-0.0874
+-3.9303	penjelasannya
+-3.3283	penjual	-0.1454
+-2.9761	penjualan	-0.1902
+-3.7542	penting
+-3.5324	penuh
+-3.9303	penulis	-0.2807
+-3.7542	penurunan
+-4.2313	penutup
+-4.2313	penutupan
+-4.2313	penyampaian
+-4.2313	penyebab
+-4.2313	penyebaran
+-3.4532	penyedia	-0.2091
+-3.6293	penyelesaian	-0.2802
+-3.9303	penyesuaian
+-3.9303	penyimpanan
+-4.2313	penyumbang
+-3.5324	per
+-3.9303	perak
+-4.2313	peralatan
+-3.6293	peran	-0.2721
+-3.4532	peraturan	-0.2079
+-4.2313	perawatan
+-3.7542	perbaikan
+-4.2313	perbandingan
+-4.2313	perbankan
+-3.9303	percaya
+-3.9303	percobaan
+-3.7542	perdana	-0.5452
+-4.2313	perekrutan
+-3.9303	perencanaan
+-3.6293	performa
+-4.2313	performanya
+-3.9303	pergi	-0.2782
+-3.9303	perhatian	-0.2802
+-3.9303	perhatikan
+-3.3862	perhitungan	-0.0545
+-3.7542	perihal
+-4.2313	peringkat
+-3.1899	periode	-0.2813
+-3.3862	perizinan
+-4.2313	perkelas
+-3.2313	perkembangan	-0.1646
+-3.6293	perkembangannya
+-3.6293	perkenalkan	-0.3302
+-3.9303	perkiraan
+-4.2313	perkuliahan
+-4.2313	perlahan
+-3.9303	perlengkapan
+-2.6873	perlu	-0.1357
+-3.9303	perluasan
+-3.9303	perlukan
+-3.7542	permainan
+-3.1174	permasalahan	-0.0972
+-3.2313	permintaan	-0.0448
+-4.2313	permintaannya
+-4.2313	permohonan
+-3.7542	pernah	-0.1651
+-3.1899	persen	-0.5131
+-4.2313	persetujuan
+-3.3862	persiapan	-0.0264
+-3.7542	persilahkan	-0.1654
+-2.7128	pertama	-0.1199
+-3.7542	pertama-tama
+-3.9303	pertamanya
+-4.2313	pertandingan
+-2.6873	pertanyaan	-0.4779
+-3.3862	pertanyaannya	-0.7327
+-2.6293	pertemuan	-0.5552
+-4.2313	pertengahan
+-3.9303	pertimbangan
+-4.2313	pertimbangkan
+-3.7542	pertolongan	-0.1659
+-3.9303	pertumbuhan
+-3.3862	perubahan	-0.0624
+-4.2313	perubahan?
+-2.3449	perusahaan	-0.4110
+-4.2313	perusahaan-perusahaan
+-4.2313	perusahaannya
+-3.7542	perwakilan	-0.1583
+-4.2313	perwakilannya
+-4.2313	pesaing
+-4.2313	pesaingnya
+-3.6293	pesan
+-3.4532	pesanan	-0.1583
+-4.2313	pesat
+-3.3862	peserta	-0.0624
+-4.2313	pesertanya
+-4.2313	peta
+-3.3862	pihak	-0.0633
+-3.9303	pihak-pihak
+-3.9303	pikir
+-4.2313	pikirkan
+-4.2313	pilar
+-3.1522	pilihan	-0.1164
+-3.7542	pimpinan
+-3.6293	pindah	-0.3676
+-4.2313	pinggir
+-3.6293	pinjam
+-3.9303	pinjaman
+-4.2313	pinjamannya
+-4.2313	pintu
+-4.2313	pintu-pintu
+-4.2313	pisa
+-3.9303	pj
+-4.2313	platform
+-2.7542	poin	-0.1662
+-3.9303	poinnya
+-4.2313	pokoknya
+-4.2313	polban
+-4.2313	poling
+-4.2313	pondok-pondok
+-4.2313	populer
+-4.2313	porsi
+-4.2313	posisi
+-3.5324	positif
+-4.2313	postingan
+-3.7542	potensi
+-4.2313	potong
+-4.2313	pr
+-4.2313	pra
+-4.2313	prasarana
+-4.2313	presentasi
+-3.7542	presentasinya	-0.1288
+-3.5324	pribadi
+-4.2313	pribadiku
+-4.2313	prinsip
+-3.9303	printer	-0.2676
+-4.2313	product
+-2.7262	produk	-0.3824
+-3.5324	produk-produk	-0.2431
+-3.3862	produksi	-0.1221
+-3.9303	produksinya
+-3.3862	produktivitas	-0.1000
+-3.1522	program	-0.1834
+-3.7542	programmer	-0.1526
+-4.2313	progres
+-4.2313	progress
+-4.2313	project-project
+-3.5324	proker
+-3.9303	promosi
+-3.7542	proposal	-0.1288
+-4.2313	proposalnya
+-3.2771	proses	-0.1027
+-4.2313	prosesnya
+-4.2313	prospek
+-2.9526	proyek	-0.2474
+-3.9303	proyektor	-0.2438
+-3.3862	pubdok
+-4.2313	publik
+-3.2313	publikasi	-0.1267
+-4.2313	publikasinya
+-3.5324	pukul
+-4.2313	pula
+-3.0272	puluh	-0.1806
+-3.3283	puma	-0.1756
+-3.9303	pun
+-3.2771	punya	-0.1274
+-3.7542	rabu
+-4.2313	rakor
+-4.2313	rampung
+-4.2313	rangkaian
+-2.3925	rapat	-0.4630
+-4.2313	rapi
+-4.2313	rapikan
+-3.1174	rasa	-0.2361
+-3.9303	rasanya
+-3.9303	rata-rata
+-3.3862	ratus	-0.1376
+-3.5324	registrasi	-0.3831
+-3.6293	rekan	-0.1176
+-4.2313	rekan-rekan
+-3.9303	relasi	-0.2801
+-4.2313	relatif
+-3.5324	relawan	-0.0785
+-4.2313	relevan
+-3.1522	rencana	-0.1054
+-4.2313	rencanain
+-3.2313	rencananya	-0.0429
+-4.2313	rendah
+-4.2313	rentang
+-3.9303	repositorinya
+-3.6293	repository	-0.0810
+-3.9303	research	-0.2791
+-4.2313	resminya
+-4.2313	retrospektif
+-4.2313	revenue
+-4.2313	review
+-4.2313	revisi
+-3.7542	revolusi	-0.5469
+-3.1899	ribu	-0.1013
+-3.9303	ribuan
+-3.6293	rifo	-0.2974
+-4.2313	rilis
+-3.6293	rincian	-0.1177
+-4.2313	rinciannya
+-4.2313	rincinya
+-4.2313	ringan
+-3.7542	riset	-0.5462
+-3.9303	risiko
+-3.9303	riwayat
+-3.6293	ruang	-0.1164
+-3.6293	ruangan
+-4.2313	ruangannya
+-3.9303	ruma
+-3.2313	rumah	-0.1130
+-4.2313	rumit
+-3.7542	rupiah	-0.5099
+-4.2313	rusak
+-3.6293	rutin
+-2.8164	saat	-0.4517
+-3.6293	saatnya
+-3.9303	saham	-0.2740
+-4.2313	saingan
+-3.6293	sains
+-2.5153	saja	-0.1745
+-3.3283	salah	-0.3951
+-3.6293	salam	-0.3702
+-3.7542	saling
+-3.9303	sam
+-2.8889	sama	-0.0221
+-4.2313	sama-sama
+-4.2313	samanya
+-4.2313	sambutan
+-2.9091	sampai	-0.2647
+-3.9303	sampaikan
+-3.9303	samsek
+-3.9303	sana
+-2.8334	sangat	-0.0518
+-4.2313	sapi
+-4.2313	saputra
+-3.0852	saran	-0.1161
+-3.7542	sarana	-0.1659
+-4.2313	sarannya
+-2.5071	satu	-0.1565
+-4.2313	satuan
+-4.2313	satunya
+-3.3862	saudara	-0.1378
+-1.9958	saya	-0.2466
+-4.2313	sayangnya
+-4.2313	sayur
+-4.2313	sayuran
+-3.6293	sbmptn	-0.0810
+-3.9303	science	-0.2808
+-4.2313	scm
+-4.2313	scrum
+-4.2313	sd
+-4.2313	sdm-sdm
+-4.2313	se-asia
+-4.2313	seadil-adilnya
+-2.6516	sebagai	-0.1511
+-4.2313	sebagaimana
+-3.6293	sebagian	-0.3339
+-4.2313	sebaiknya
+-4.2313	sebaliknya
+-3.7542	sebanyak	-0.1647
+-4.2313	sebarkan
+-4.2313	sebelas
+-2.9303	sebelum	-0.2491
+-2.8164	sebelumnya	-0.2017
+-3.2313	sebenarnya
+-4.2313	sebenernya
+-4.2313	sebentar
+-3.9303	seberapa
+-3.5324	sebesar	-0.0910
+-3.9303	sebisa	-0.2794
+-3.4532	sebuah
+-2.8889	secara	-0.1884
+-4.2313	secepat
+-4.2313	secepatnya
+-3.1174	sedang
+-3.5324	sedangkan	-0.2346
+-4.2313	sederajat
+-4.2313	sederhana
+-4.2313	sedia
+-4.2313	sediain
+-3.9303	sediakan
+-3.7542	sedikit
+-4.2313	seduh
+-4.2313	segalanya
+-4.2313	segan
+-3.6293	segera	-0.1159
+-3.6293	segi	-0.1172
+-3.5324	segmen	-0.2577
+-4.2313	sehabis
+-4.2313	sehari
+-3.3862	seharusnya
+-2.7128	sehingga	-0.1300
+-4.2313	seihlasnya
+-4.2313	seimbang
+-4.2313	seingetku
+-3.6293	sejahtera	-0.0810
+-3.7542	sejak
+-3.5324	sejauh	-0.2577
+-4.2313	sejenis
+-3.2313	sekali	-0.2161
+-3.3283	sekalian	-0.0541
+-4.2313	sekaligus
+-2.7542	sekarang	-0.2267
+-4.2313	sekedar
+-2.6999	sekian	-0.4554
+-4.2313	sekilas
+-2.9761	sekitar	-0.0803
+-3.2313	sekolah	-0.1571
+-3.6293	sekre
+-2.4832	seksi	-0.7303
+-4.2313	seksinya
+-4.2313	sektor
+-3.0272	selain	-0.9001
+-3.6293	selaku	-0.1180
+-3.9303	selalu
+-3.0009	selama	-0.1448
+-2.7400	selamat	-0.7669
+-2.6750	selanjutnya	-0.1226
+-4.2313	selebihnya
+-4.2313	selenggarakan
+-3.9303	selera	-0.2808
+-2.7400	selesai	-0.3159
+-2.9526	seluruh	-0.1299
+-4.2313	seluruhnya
+-4.2313	semacam
+-3.5324	semangat	-0.0547
+-3.1174	sembilan	-0.2310
+-3.4532	sementara	-0.0682
+-3.3283	seminggu	-0.0548
+-3.4532	semoga
+-4.2313	sempurna
+-2.7400	semua	-0.1042
+-2.8164	semuanya	-0.1906
+-4.2313	senang
+-3.0272	sendiri	-0.0742
+-4.2313	sendok
+-3.9303	seni
+-4.2313	senin
+-3.9303	seorang
+-4.2313	sepakati
+-4.2313	sepanjang
+-4.2313	sepenuhnya
+-2.5071	seperti	-0.2940
+-3.0009	sepertinya	-0.1138
+-3.3862	sepuluh	-0.0628
+-3.6293	seputar
+-4.2313	serahkan
+-4.2313	seratus
+-4.2313	serbaguna
+-4.2313	serikat
+-3.7542	sering	-0.1654
+-3.3283	serta
+-4.2313	sesama
+-3.2313	sesi	-0.2059
+-2.9526	sesuai	-0.5754
+-3.4532	sesuatu	-0.0379
+-4.2313	setauku
+-2.9526	setelah	-0.2617
+-3.9303	setempat	-0.2438
+-4.2313	setengah
+-3.9303	seti
+-2.8334	setiap	-0.1021
+-3.7542	setidaknya
+-2.7262	setuju	-0.4661
+-4.2313	sewa
+-4.2313	sewajibnya
+-4.2313	sewaktu-waktu
+-3.3283	si	-0.3232
+-2.8164	siang	-0.2858
+-3.6293	siap	-0.0810
+-3.9303	siapa
+-4.2313	siapa-siapa
+-4.2313	siapkan
+-3.9303	sibuk
+-3.7542	signifikan
+-2.8696	sih	-0.0898
+-3.4532	silahkan	-0.0379
+-2.8511	silakan	-0.1352
+-4.2313	simpang
+-4.2313	simpulkan
+-3.6293	singkat
+-4.2313	singkatan
+-3.5324	sini
+-3.9303	sip
+-4.2313	sirup
+-3.9303	sisanya
+-3.9303	sisi
+-3.0272	sistem	-0.2678
+-4.2313	sistemnya
+-4.2313	sistus
+-3.3283	siswa
+-4.2313	siswa-siswa
+-3.9303	siswa-siswi
+-4.2313	siswanya
+-3.3283	siti	-0.2892
+-3.7542	situasi
+-4.2313	situs
+-4.2313	siur
+-4.2313	skala
+-3.9303	skema
+-4.2313	skor
+-4.2313	slain
+-3.0852	sma	-0.2829
+-4.2313	smp
+-4.2313	snmptn
+-3.1174	soal	+0.0041
+-3.9303	soal-soal
+-3.1522	soalnya
+-3.2771	software	-0.2447
+-3.5324	solusi	-0.2306
+-4.2313	sop
+-3.6293	sore	-0.1175
+-3.6293	sosial	-0.0810
+-4.2313	spesifikasi
+-2.8889	sponsor	-0.1126
+-4.2313	sponsorship
+-3.6293	sprint	-0.0810
+-3.7542	stabil
+-4.2313	stabilitas
+-4.2313	stagnan
+-3.9303	stand
+-3.4532	standar	-0.0617
+-4.2313	standardnya
+-3.7542	statistik
+-4.2313	status
+-4.2313	statusnya
+-4.2313	stiker
+-3.7542	strategi
+-4.2313	strategis
+-4.2313	struktur
+-4.2313	struktural
+-4.2313	strukturnya
+-3.6293	studi
+-4.2313	suasana
+-3.4532	suatu	-0.0747
+-4.2313	subsidi
+-2.1379	sudah	-0.1294
+-3.9303	sudahi
+-4.2313	sudut
+-4.2313	suka
+-3.9303	sukses
+-3.9303	sukwis
+-4.2313	sul
+-3.9303	sulit
+-3.6293	sumbangan
+-3.0852	sumber	-0.2284
+-4.2313	sungguh
+-3.5324	supaya
+-4.2313	suplai
+-4.2313	surat
+-4.2313	surplus
+-3.3862	survei	-0.0618
+-3.6293	susan	-0.2427
+-4.2313	swasta
+-4.2313	syarat
+-4.2313	sync
+-4.2313	tabelnya
+-3.1522	tadi	-0.1318
+-3.9303	tahap
+-3.9303	tahu
+-2.5979	tahun	-0.4211
+-3.6293	tahun-tahun	-0.3339
+-4.2313	tahunan
+-3.9303	tambah
+-3.2771	tambahan	-0.0806
+-3.0009	tampilan	-0.0258
+-4.2313	tampung
+-3.4532	tamu	-0.0379
+-3.9303	tanda	-0.2808
+-3.9303	tangan
+-4.2313	tanganan
+-4.2313	tangga
+-3.1174	tanggal	-0.1244
+-3.3862	tanggapan	-0.1221
+-3.9303	tanggung	-0.2806
+-3.3862	tanpa	-0.0634
+-3.4532	tanya	-0.1655
+-4.2313	tanyakan
+-2.8511	tapi	-0.0630
+-3.9303	target
+-4.2313	tata
+-3.7542	tau
+-4.2313	tawarkan
+-3.5324	teh	-1.0089
+-3.2313	teknis	-0.0679
+-4.2313	teknisnya
+-3.2313	teknologi	-0.1762
+-4.2313	teks
+-2.5592	telah	-0.1585
+-3.7542	telekomunikasi
+-4.2313	televisi
+-3.7542	teman
+-3.0009	teman-teman	-0.3067
+-4.2313	temen-temen
+-2.9526	tempat	-0.1423
+-4.2313	tempat-tempat
+-4.2313	tenaga
+-3.7542	tenang
+-3.9303	tenda	-0.2748
+-4.2313	tenggat
+-4.2313	tentan
+-3.3283	tentang
+-3.3862	tentu	-0.6507
+-3.0852	tentunya	-0.0215
+-3.6293	tepat	-0.1170
+-4.2313	tepatnya
+-3.9303	tepung
+-2.9091	terakhir	-0.1101
+-4.2313	terasa
+-3.4532	terbaik	-0.0738
+-3.9303	terbayang
+-4.2313	terbengkalai
+-4.2313	terbesar
+-4.2313	terbesarnya
+-3.9303	terbuka
+-4.2313	terburu-buru
+-4.2313	terburuk
+-3.7542	tercapai
+-4.2313	tercatat
+-2.9091	terdapat	-0.2361
+-4.2313	terdesak
+-3.9303	terdiri	-0.2733
+-4.2313	tergambar
+-3.3283	terhadap
+-4.2313	terhalang
+-3.7542	terhambat	-0.1288
+-2.2313	terima	-1.6964
+-3.9303	terimakasih
+-4.2313	terisi
+-3.0553	terjadi	-0.1676
+-4.2313	terjangkau
+-4.2313	terjatuh
+-4.2313	terkahir
+-3.2313	terkait	-0.3013
+-3.1174	terlalu	-0.1175
+-3.2313	terlebih	-0.2806
+-4.2313	terlewatkan
+-4.2313	termaksimalkan
+-4.2313	termanage
+-4.2313	termasuk
+-4.2313	termotivasi
+-3.9303	ternyata
+-3.9303	terpenting
+-4.2313	tersampaikan
+-4.2313	tersebar
+-2.7262	tersebut	-0.2349
+-3.5324	tersedia	-0.0913
+-4.2313	terserah
+-3.5324	tertentu	-0.2068
+-3.9303	tertulis
+-4.2313	terulang
+-4.2313	terurus
+-3.0553	terus	-0.0561
+-4.2313	terutama
+-2.9761	tes	-0.4114
+-3.3283	tetap
+-3.0009	tetapi	-0.0417
+-4.2313	tetep
+-3.4532	tiap	-0.0749
+-2.1595	tidak	-0.3326
+-2.7262	tiga	-0.2188
+-3.0272	tim	-0.1958
+-4.2313	timbul
+-4.2313	timur
+-3.4532	tinggal
+-3.6293	tinggi
+-3.1174	tingkat	-0.1236
+-4.2313	tingkatnya
+-3.7542	tipe	-0.1653
+-3.9303	tips
+-4.2313	titipkan
+-4.2313	tolok
+-3.1522	tolong
+-4.2313	tool
+-3.3862	topik	-0.1370
+-4.2313	topik-topik
+-3.4532	total	-0.0675
+-3.9303	tpb
+-3.9303	training
+-3.9303	traveloka
+-4.2313	trisemester
+-3.5324	tryout	-0.2075
+-4.2313	tu
+-3.7542	tua
+-3.3283	tugas
+-4.2313	tugasnya
+-3.3862	tuh
+-4.2313	tuju
+-3.5324	tujuan
+-4.2313	tujuannya
+-2.9091	tujuh	-0.6838
+-3.9303	tuk
+-3.7542	tumpeng
+-4.2313	tunggal
+-3.5324	tunggu
+-3.7542	turun	-0.1288
+-4.2313	turut
+-3.3862	tutup	-0.2514
+-3.6293	uang
+-4.2313	uas
+-3.9303	ucapkan
+-2.7689	udah	-0.1628
+-3.3862	ujian	-0.1591
+-4.2313	ukm
+-4.2313	ukur
+-3.9303	ukuran
+-3.9303	ulang
+-4.2313	ulangan
+-3.7542	umpan	-0.5469
+-3.5324	umum	-0.0878
+-3.7542	unggah	-0.1632
+-3.9303	unit
+-4.2313	univ
+-3.5324	universitas	-0.0906
+-4.2313	universitas-universitas
+-3.9303	unpad
+-1.6714	untuk	-0.1737
+-3.9303	untung
+-3.9303	up
+-3.6293	upah	-0.1174
+-4.2313	upahnya
+-4.2313	urutan
+-4.2313	urutannya
+-3.9303	usah
+-4.2313	usahakan
+-3.6293	user	-0.0810
+-3.3862	usia	-0.1724
+-2.9761	usulan	-0.1668
+-4.2313	usulannya
+-4.2313	usulnya
+-3.7542	utama	-0.1526
+-3.9303	validasi	-0.2748
+-4.2313	valuasi
+-3.6293	vendor	-0.3212
+-4.2313	versi
+-4.2313	version
+-4.2313	versioning
+-3.9303	video
+-4.2313	wafer
+-4.2313	wah
+-4.2313	wahabi
+-3.5324	wajib
+-3.6293	wakil	-0.3270
+-2.5979	waktu	-0.0884
+-3.3283	waktunya	-0.0987
+-3.9303	walaupun
+-4.2313	warga
+-4.2313	warganya
+-4.2313	warung
+-4.2313	wawasan
+-3.5324	web	-0.0547
+-4.2313	wisuda
+-4.2313	wodadi
+-3.9303	workflow
+-4.2313	workshop
+-4.2313	workshop-nya
+-2.3019	ya	-0.2946
+-2.6403	yaitu	-0.0337
+-3.9303	yakin
+-3.9303	yakni
+-1.5195	yang	-0.3616
+-3.2771	yanto	-0.3618
+-4.2313	yaudah
+-4.2313	yayasan
+-3.7542	yel-yel	-0.1288
+-3.9303	yeyen	-0.2806
+-4.2313	zaman
+
+\2-grams:
+-0.3222	</s> <s>	+0.0452
+-1.5125	<euh> kira-kira
+-1.5125	<euh> sekarang
+-1.5125	<euh> tanggal	-0.1344
+-0.7993	<eum> jadi
+-0.8662	<oh> berarti
+-0.8662	<oh> oke	-0.1718
+-2.8130	<s> <euh>
+-3.1663	<s> <eum>
+-2.8130	<s> <hem>
+-2.4650	<s> <oh>	+0.0266
+-1.7473	<s> ada	-0.3307
+-2.7845	<s> agenda	-0.0104
+-2.4650	<s> akan	-0.3170
+-2.0313	<s> aku	-0.0460
+-3.1663	<s> alasannya
+-2.7845	<s> apa	+0.0057
+-2.4910	<s> apabila
+-1.5654	<s> apakah	-0.0305
+-3.1663	<s> atau
+-2.7845	<s> bagaimana
+-2.8130	<s> bagi
+-3.1663	<s> bagian
+-1.4292	<s> baik	-0.0566
+-2.0660	<s> baiklah	-0.0051
+-2.4650	<s> bapak	-0.1522
+-3.1663	<s> barang
+-3.1663	<s> beberapa
+-2.7845	<s> belum	-0.0409
+-2.7845	<s> berarti
+-2.8130	<s> berdasarkan
+-1.7473	<s> berdoa	+0.0600
+-3.1663	<s> betul
+-2.8130	<s> biar
+-2.8130	<s> bila	+0.1039
+-3.1663	<s> biskuit	+0.0252
+-2.7845	<s> boleh
+-2.4910	<s> bu	+0.6151
+-2.3810	<s> buat
+-3.1663	<s> bukannya	+0.0621
+-3.1663	<s> bulan
+-3.1663	<s> coba
+-2.3810	<s> cukup	-0.3412
+-2.0660	<s> dan	-0.0984
+-3.1663	<s> dapat
+-1.7473	<s> dari	-0.0581
+-2.2421	<s> dengan	-0.0909
+-2.3810	<s> departemen	-0.0444
+-2.8130	<s> di
+-3.1663	<s> dimohon
+-3.1663	<s> dipersilakan
+-3.1663	<s> disini
+-3.1663	<s> divisi
+-2.4650	<s> doa	-0.0964
+-2.8130	<s> dua	-0.3657
+-3.1663	<s> finlandia
+-3.1663	<s> fitur
+-2.0313	<s> hal	-0.6021
+-3.1663	<s> halo
+-3.1663	<s> hanya
+-3.1663	<s> harapan	-0.0528
+-2.7845	<s> hari	-0.0647
+-3.1663	<s> hasil
+-2.7845	<s> ibu	-0.0371
+-2.4650	<s> itu	-0.1811
+-2.1910	<s> iya	-0.0089
+-1.4920	<s> jadi	-0.0108
+-3.1663	<s> jangan	+0.2302
+-2.1452	<s> jika	-0.0048
+-3.1663	<s> jumlah
+-1.6267	<s> kalau	-0.1101
+-2.4910	<s> kalo	+0.0495
+-2.3810	<s> kami	-0.0402
+-1.8664	<s> karena	-0.0247
+-3.1663	<s> kartu	-0.1857
+-3.1663	<s> karyawan
+-3.1663	<s> katanya
+-2.1038	<s> kemudian	-0.0088
+-2.4910	<s> kenapa
+-3.1663	<s> keputusan
+-3.1663	<s> ketika
+-3.1663	<s> khususnya
+-2.4910	<s> kira-kira	-0.0621
+-1.9691	<s> kita	-0.1394
+-1.9147	<s> lalu	-0.2677
+-3.1663	<s> lebih
+-2.7845	<s> lomba
+-3.1663	<s> lomba-lomba
+-2.4650	<s> maka	-0.0607
+-3.1663	<s> makan
+-2.8130	<s> maksud
+-2.1910	<s> mari	+1.1035
+-2.1910	<s> masalah	-0.0215
+-2.7845	<s> masih
+-2.8130	<s> mau	-0.4168
+-3.1663	<s> memang
+-1.9691	<s> menurut	-0.0621
+-2.7845	<s> menurutku
+-2.4650	<s> mereka	-0.0465
+-3.1663	<s> meskipun
+-2.8130	<s> misalnya
+-1.9991	<s> mungkin	-0.0187
+-1.7650	<s> nah	+0.0493
+-2.0660	<s> namun	+0.0010
+-2.7845	<s> nanti	-0.0745
+-1.9991	<s> oh	+0.0235
+-2.2421	<s> ok
+-1.5541	<s> oke	+0.0403
+-2.4650	<s> oleh	-0.1944
+-2.1910	<s> pada	-0.0723
+-3.1663	<s> paket
+-2.8130	<s> panitia
+-2.8130	<s> pendapat
+-3.1663	<s> pendidikan
+-2.8130	<s> peningkatan
+-3.1663	<s> peraturan	-0.0094
+-2.0660	<s> pertama	-0.0484
+-3.1663	<s> perusahaan
+-2.8130	<s> produk-produk	+0.1109
+-3.1663	<s> program	-0.1331
+-2.4910	<s> rapat
+-2.7845	<s> rencananya
+-2.8130	<s> saat	+0.0176
+-3.1663	<s> saatnya
+-3.1663	<s> salam	+0.1515
+-2.4910	<s> sama	-0.0556
+-3.1663	<s> sampai	-0.0781
+-2.8130	<s> saran
+-1.6400	<s> saya	-0.0733
+-2.8130	<s> sebagai
+-2.1910	<s> sebelum	-0.0086
+-3.1663	<s> sebelumnya
+-3.1663	<s> sebenarnya
+-3.1663	<s> secara	-0.1709
+-2.7845	<s> sedangkan	-0.0398
+-3.1663	<s> seharusnya
+-2.1038	<s> sehingga	-0.0465
+-3.1663	<s> sejauh	+0.0480
+-2.1038	<s> sekarang	-0.0553
+-1.9691	<s> sekian	-0.3343
+-3.1663	<s> seksi
+-1.9991	<s> selain	+0.6843
+-1.9691	<s> selamat	+0.0375
+-2.0313	<s> selanjutnya	-0.1090
+-3.1663	<s> selesai	+0.0173
+-2.8130	<s> semoga
+-2.3810	<s> seperti	-0.0435
+-2.1910	<s> sepertinya	-0.0454
+-2.1910	<s> setelah	-0.1765
+-3.1663	<s> silahkan
+-2.2421	<s> silakan	-0.0277
+-2.8130	<s> sistem
+-3.1663	<s> soalnya
+-2.7845	<s> sudah
+-3.1663	<s> supaya
+-3.1663	<s> tanggal
+-1.9691	<s> tapi	-0.0125
+-2.8130	<s> tentu	+0.3160
+-2.8130	<s> tentunya
+-2.8130	<s> terdapat
+-1.4048	<s> terima	+1.4802
+-2.1910	<s> terus
+-2.7845	<s> tetapi
+-2.1910	<s> tidak	-0.7457
+-3.1663	<s> tolong
+-3.1663	<s> topik
+-2.7845	<s> tunggu
+-3.1663	<s> udah
+-1.5219	<s> untuk	-0.0421
+-3.1663	<s> usulan
+-1.7302	<s> ya	-0.1247
+-3.1663	<s> yaitu
+-2.0660	<s> yang	-0.1025
+-0.7201	a untuk	-0.2133
+-0.5643	acara </s>	+0.0621
+-1.9656	acara akan
+-1.6123	acara dan
+-1.9656	acara dari
+-1.6123	acara ini
+-1.9656	acara lari	+1.0600
+-1.5838	acara nanti	-0.0730
+-1.9656	acara revolusi	+0.3283
+-1.9656	acara ruangan
+-1.6123	acara sudah
+-1.0414	acara tujuh	-0.0174
+-1.9656	acara untuk
+-1.5838	acara yang
+-1.3424	ada </s>	+0.0621
+-1.7296	ada baiknya
+-2.4049	ada bapak
+-1.7296	ada beberapa
+-2.4049	ada benarnya	+0.0621
+-1.2377	ada di	-0.0464
+-2.0516	ada dua	-0.0782
+-2.0516	ada hal	-0.0191
+-2.4049	ada ibu
+-2.0516	ada kendala
+-2.0516	ada kita
+-1.4807	ada lagi	-0.0870
+-2.0516	ada lima	-0.1063
+-1.4807	ada masalah	-0.1067
+-2.0516	ada masukan
+-2.4049	ada pada
+-2.0516	ada pendapat	+0.1432
+-2.0516	ada permasalahan
+-0.8925	ada pertanyaan	-0.0922
+-2.4049	ada rincian
+-2.4049	ada saat	+0.2420
+-2.0231	ada saran
+-2.4049	ada satu
+-2.0231	ada sekian
+-2.0516	ada sesi	-0.0895
+-1.7036	ada tanggapan	+0.0201
+-2.4049	ada terima	+1.4802
+-2.4049	ada tiga
+-2.0516	ada usulan
+-0.9859	ada yang	-0.2834
+-1.6646	adalah dari
+-1.2827	adalah divisi
+-1.3113	adalah mengenai
+-1.6646	adalah sebuah
+-1.3113	adalah untuk
+-0.7993	adik-adik kelas	-0.0262
+-0.7993	adik-adik kita
+-0.7993	adik-adik sma
+-0.2413	agama masing-masing	-0.1007
+-0.8439	agar bisa
+-1.1972	agar tidak
+-0.7201	agenda kita	-0.2152
+-0.7201	agenda rapat	-0.2041
+-0.5082	aja </s>	+0.0621
+-1.1017	aja sih
+-1.1302	aja yang
+-0.3222	ajaran baru
+-1.6267	akan ada
+-2.4121	akan bergabung
+-2.0588	akan berjaga	+0.0763
+-2.4121	akan berlangsung
+-2.4121	akan berlanjut	+0.3283
+-2.0588	akan datang	-0.0545
+-1.6267	akan diadakan
+-2.0302	akan dibahas
+-2.4121	akan dibicarakan
+-2.0588	akan digunakan	+0.1223
+-2.4121	akan dikenalkan
+-1.7367	akan dilaksanakan	-0.0198
+-1.7367	akan dilakukan
+-2.4121	akan dimulai
+-2.0588	akan dipertimbangkan
+-2.0302	akan dipimpin	-0.1204
+-2.0588	akan ditampilkan
+-2.0588	akan ditempatkan	+0.2016
+-2.4121	akan ditugaskan	+0.0621
+-2.4121	akan ke
+-1.3909	akan kita	-0.0794
+-2.4121	akan kurang
+-2.0588	akan melakukan
+-2.4121	akan melanjutkan	+0.1158
+-1.6267	akan melaporkan	-0.0412
+-1.0899	akan membahas	-0.0478
+-2.4121	akan membebani	+0.0621
+-2.4121	akan membuat
+-2.4121	akan membutuhkan
+-2.4121	akan memikirkannya	+0.0621
+-2.4121	akan memperkenalkan
+-2.4121	akan memulai
+-2.4121	akan menambah	+0.0621
+-2.4121	akan mendapat
+-2.4121	akan menggunakan
+-2.4121	akan meningkatkan
+-1.7367	akan menjadi
+-2.4121	akan menjadwalkan	+0.0621
+-2.0302	akan menjelaskan	-0.1245
+-2.4121	akan mewakili
+-2.0302	akan mulai	-0.0858
+-1.4367	akan saya	-0.0376
+-2.4121	akan selesai
+-2.4121	akan terus	-0.1903
+-1.6267	akan tetapi
+-0.3149	akhir bulan	+0.0278
+-1.1003	akhir tahun
+-0.6232	aktif di	-0.2159
+-1.6122	aku bagi
+-1.6122	aku belum
+-1.2589	aku catat
+-1.6122	aku enggak	-0.0462
+-1.6122	aku lihat
+-1.2589	aku mau
+-1.2589	aku mulai	-0.0683
+-1.2589	aku sudah
+-1.6122	aku unggah	-0.0528
+-0.5935	alat bantu	-0.0040
+-0.9754	alat yang
+-0.2699	alat-alat yang
+-0.1450	alur acara
+-0.6807	anak usia	-0.3181
+-0.4982	analisis survei
+-0.6232	anggaran </s>	+0.0621
+-1.1673	anggota baru
+-1.1673	anggota divisi
+-1.1673	anggota yang
+-0.5424	antara lain
+-1.3491	apa </s>	-0.1622
+-1.3205	apa ada	-0.2242
+-1.0010	apa aja	+0.0994
+-0.6812	apa saja	-0.8751
+-1.7024	apa tidak	-0.2108
+-0.6398	apa yang	-0.0599
+-1.0625	apabila ada
+-0.7092	apabila memang
+-0.1732	apakah ada	-0.2376
+-1.9019	apakah sampai	-0.0781
+-0.9615	aplikasi </s>	-0.2097
+-0.6680	aplikasi ini
+-1.3433	aplikasi sehingga
+-1.3433	aplikasi untuk	-0.2160
+-0.4982	aqua </s>	+0.0621
+-1.5396	atas kerja
+-1.5396	atas laporan
+-1.5396	atas laporannya	+0.1515
+-1.1578	atas pembahasan	-0.3729
+-1.5396	atas penjabaran
+-0.7543	atas pertanyaannya	+0.0565
+-1.1863	atas waktu	-0.3919
+-1.1578	atas waktunya	+0.0401
+-1.7024	atau dapat
+-1.7024	atau dari
+-1.7024	atau enggak
+-1.7024	atau mungkin
+-1.7024	atau pendapat	-0.1937
+-1.7024	atau tidak
+-0.4982	aturan ini
+-0.8154	bagaimana </s>	-0.2097
+-1.1972	bagaimana menurut
+-1.4982	bagi </s>	+0.0621
+-1.4982	bagi anak-anak
+-1.1164	bagi perusahaan	+0.0199
+-1.1450	bagi seluruh
+-1.4982	bagi tim
+-1.1450	bagi yang	-0.1236
+-1.3491	bagian bisnis
+-1.3491	bagian ini
+-0.5351	bagian pemrosesan
+-1.7024	bagian produksi
+-1.7024	bagian proses
+-1.7024	bagian relasi	+0.0621
+-0.7270	bagian tampilan	-0.0411
+-0.9242	bagus </s>	+0.0621
+-0.5709	bagus untuk	-0.1233
+-0.0809	bahan baku	-0.0081
+-0.6755	baik </s>	+0.0621
+-1.9754	baik aku
+-1.9754	baik apakah	+0.2641
+-1.9754	baik baik	-0.2141
+-1.9754	baik dan
+-1.9754	baik daripada
+-1.9754	baik karena
+-1.9754	baik lagi	-0.0938
+-1.6221	baik pak
+-1.9754	baik saya
+-1.9754	baik sekian	-0.1904
+-1.6221	baik selamat	-0.0657
+-0.9542	baik terima	+1.4802
+-1.9754	baik usulan
+-0.7185	baiklah kalau	-0.2015
+-1.1003	baiklah mari	+1.1035
+-1.1003	baiklah terima	+1.4802
+-0.9900	bakal dipelajari	+0.0329
+-0.2699	bakat mereka	-0.0700
+-0.5129	baku </s>	-0.1622
+-0.8662	baku yang
+-0.7201	bantu yang
+-1.4982	banyak berkembang
+-1.4982	banyak dan
+-1.4982	banyak tugas
+-1.4982	banyak untuk
+-1.1164	banyak yang
+-1.0372	bapak aji
+-1.0658	bapak budi
+-1.4191	bapak dan	-0.2170
+-1.4191	bapak handy
+-1.4191	bapak sam
+-0.3222	bapak-bapak dan	-0.2170
+-1.4191	barang </s>	+0.0621
+-1.4191	barang juga
+-0.4949	barang yang	-0.0433
+-0.7939	baru </s>	+0.0621
+-1.7693	baru akan
+-1.7693	baru bulan	-0.0457
+-1.0940	baru ini	-0.2074
+-1.4160	baru masuk
+-1.7693	baru tersebut
+-1.0680	baru yang	-0.1122
+-0.0448	basis data
+-0.3222	batas waktu
+-1.2589	beberapa bulan
+-1.6122	beberapa divisi
+-1.2589	beberapa hal	-0.0191
+-1.6122	beberapa karyawan
+-1.6122	beberapa masalah
+-1.2589	beberapa orang	-0.0264
+-1.6122	beberapa produk
+-0.8140	begitu </s>	-0.1622
+-0.7854	begitu kita	-0.0942
+-0.8140	begitu saya
+-0.3222	bekas </s>	+0.0621
+-0.6680	bekerja </s>	-0.3062
+-1.3433	bekerja dan
+-0.9900	bekerja dengan	-0.1275
+-0.9615	bekerja di	-0.0889
+-0.7201	belajar melalui	-0.1552
+-1.2516	belas </s>	+0.0621
+-0.8983	belas agustus
+-1.2516	belas november
+-1.2516	belas persen
+-0.6678	belasan </s>	-0.1622
+-1.0211	belasan yang
+-0.9256	belum ada
+-1.6009	belum belum
+-1.6009	belum bisa
+-1.6009	belum dibahas
+-0.3222	benarnya </s>	+0.0621
+-0.6232	bentuk apa
+-0.6232	berada pada
+-0.4119	berapa poin	-0.1851
+-1.2252	berarti kan
+-1.2252	berarti satu
+-1.0211	berdasarkan hasil
+-0.8229	berdoa dicukupkan	+0.1827
+-0.7969	berdoa dimulai	-0.1478
+-0.7129	berdoa mulai	-0.6486
+-0.8229	berdoa selesai	-0.1026
+-1.1450	berdoa sesuai	+0.4468
+-1.4982	berdoa tidak	-0.2152
+-0.4982	berencana akan
+-0.2699	bergantung pada
+-0.9242	berhasil dilakukan	-0.1762
+-0.3222	berhubungan dengan
+-0.2413	berikut </s>	-0.2097
+-0.3388	berikutnya </s>	+0.0621
+-0.7260	berikutnya akan
+-1.4013	berikutnya saya	-0.1535
+-0.4982	berisi nasi
+-0.4174	berjaga di	-0.0681
+-1.1673	berjalan </s>	+0.0621
+-0.4659	berjalan dengan	-0.3151
+-0.3222	berkaitan dengan
+-0.3222	berlaku untuk
+-0.1450	berlanjut ke
+-0.9754	bersama pembicara	-0.0634
+-0.9754	bersama setelah	-0.1964
+-0.8662	bersedia hadir	+0.0141
+-0.8662	bersedia untuk	-0.2133
+-0.1450	bersih-bersih sekre
+-0.3222	bertanggung jawab
+-0.1597	bertanya </s>	+0.0621
+-0.7929	besar </s>	-0.3062
+-1.1150	besar dan
+-1.1150	besar di
+-1.4683	besar sih
+-1.2516	biaya lombanya	-0.1006
+-1.2516	biaya pendidikan
+-0.5502	biaya yang	-0.1053
+-1.1351	bidang internal
+-0.7818	bidang teknologi	-0.0279
+-0.1450	bila tidak	-0.2346
+-1.5067	bisa digunakan	-0.1879
+-1.8600	bisa dikomunikasikan
+-1.8600	bisa dilihat
+-1.8600	bisa dimulai	-0.1078
+-1.4781	bisa kita
+-1.8600	bisa lebih
+-1.8600	bisa melakukan
+-1.5067	bisa mengakses
+-1.8600	bisa selesai	-0.2052
+-1.5067	bisa tolong
+-0.3668	biskuit kehijauan
+-1.0625	bisnis </s>	+0.0621
+-1.0625	bisnis perusahaan
+-0.3522	bu fatma	+0.0224
+-1.2764	bu ika
+-0.3522	bu siti	+0.0509
+-1.1863	buat massa	-0.3153
+-1.5396	buat pesanan
+-1.1863	buat yang
+-0.6232	bujet yang	-0.2138
+-0.7201	buka dengan
+-0.7201	buka terlebih	+0.0621
+-0.6232	bukan pada
+-0.3222	bukannya minggu
+-1.8662	bulan </s>	+0.0621
+-1.8662	bulan dari	-0.2156
+-0.4834	bulan depan	+0.0478
+-1.4844	bulan desember	-0.0040
+-0.8037	bulan ini	-0.3906
+-1.8662	bulan januari
+-1.8662	bulan lagi
+-1.5129	bulan lalu	-0.0436
+-1.8662	bulan maret
+-1.0809	bulan terakhir	-0.2104
+-0.5502	butuh berapa	-0.2976
+-1.2516	butuh delapan
+-1.2516	butuh sekitar
+-1.2516	butuh waktu
+-0.6232	cocok untuk
+-0.9021	cukup </s>	-0.3062
+-1.2241	cukup banyak
+-1.5774	cukup besar
+-1.5774	cukup jelas
+-1.5774	cukup mahal
+-0.7921	cukup sekian	+0.1089
+-1.2241	cukup untuk
+-0.7201	cuma minta
+-0.3222	cumi goreng	-0.1006
+-0.9754	daftar anggota
+-0.3989	dahulu </s>	+0.0446
+-1.1003	dahulu dengan	-0.1926
+-1.3580	dalam bentuk	-0.0149
+-1.3580	dalam bidang	-0.0545
+-1.7113	dalam divisi
+-1.7113	dalam jangka
+-1.7113	dalam kehidupan
+-1.7113	dalam menentukan
+-1.7113	dalam pembahasan
+-1.0360	dalam pendidikan	+0.0093
+-1.3580	dalam pertemuan
+-1.3580	dalam proses
+-1.7113	dalam satu
+-2.0462	dan agama	-0.0729
+-2.0462	dan akan
+-2.3995	dan apakah
+-2.3995	dan bagi
+-2.3995	dan bakat	+0.1158
+-2.0462	dan bu	+0.1223
+-2.3995	dan dapat
+-2.0462	dan di	-0.1302
+-2.0177	dan divisi
+-2.0462	dan dokumentasi	-0.2963
+-2.3995	dan fitur
+-2.3995	dan gudang
+-2.3995	dan ibu
+-2.3995	dan ibu-ibu	+0.0621
+-2.3995	dan jadwal
+-1.1231	dan juga	-0.0983
+-2.3995	dan kita
+-2.3995	dan kurang
+-2.3995	dan kursi
+-1.7242	dan medis	-0.0634
+-2.3995	dan mera
+-2.3995	dan nomer
+-2.3995	dan pendapat
+-2.3995	dan salam	+0.1515
+-2.0462	dan saya
+-2.3995	dan sesi	-0.1753
+-2.3995	dan sesuai
+-2.0462	dan tempat
+-2.3995	dan terima	+1.4802
+-2.3995	dan tes
+-2.0462	dan tidak	+0.0756
+-2.0462	dan untuk
+-1.6982	dan yang	-0.5036
+-1.4013	dana dan	-0.2170
+-1.4013	dana itu
+-1.4013	dana komulatif
+-1.4013	dana lebih	-0.2050
+-1.0480	dana tambahan	-0.0844
+-1.4013	dana untuk
+-1.0195	dana yang	-0.2818
+-1.9943	dapat bekerja	-0.1719
+-1.9943	dapat berfungsi
+-1.6410	dapat berjalan	+0.0488
+-1.9943	dapat diberi
+-1.6124	dapat digunakan	+0.1595
+-1.6124	dapat dikatakan	-0.0207
+-1.9943	dapat dikontak
+-1.6410	dapat dilakukan
+-1.3189	dapat dilihat	-0.2108
+-1.9943	dapat disesuaikan	-0.1006
+-1.6410	dapat juga
+-1.6124	dapat kita
+-1.9943	dapat melakukan
+-1.9943	dapat pindah	+0.1515
+-1.9943	dapat satu	-0.2008
+-1.7041	dari acara	-0.0290
+-1.8141	dari aku	-0.0641
+-2.1362	dari anak-anak
+-1.4270	dari bagian	+0.0855
+-2.4895	dari beberapa
+-2.1362	dari bidang	-0.1000
+-2.4895	dari dana
+-1.1896	dari departemen	-0.4348
+-0.7782	dari divisi	-0.0048
+-1.7881	dari eben
+-2.1362	dari hari
+-2.4895	dari itb
+-2.4895	dari itu
+-2.4895	dari kami
+-2.4895	dari mana
+-2.4895	dari masing-masing
+-2.4895	dari panitia
+-2.1362	dari pembahasan	-0.3910
+-2.4895	dari penjelasan
+-2.1362	dari perizinan
+-2.1362	dari pertemuan	-0.2390
+-1.8141	dari perusahaan	+0.0408
+-2.1076	dari pihak
+-2.4895	dari proyek
+-2.4895	dari puma
+-2.4895	dari rapat	-0.2127
+-1.5141	dari saya	-0.0919
+-2.1076	dari segi	+0.0224
+-2.1362	dari sekarang	-0.4086
+-1.3544	dari seksi	-0.0779
+-2.1076	dari seluruh	-0.0436
+-2.4895	dari semua
+-2.4895	dari sini
+-2.4895	dari sisi
+-2.4895	dari sponsor	-0.1121
+-2.1076	dari tahun	-0.2599
+-1.8141	dari teman-teman	+0.1068
+-2.4895	dari tempat
+-2.1076	dari tim	+0.1002
+-2.4895	dari total
+-2.4895	dari waktu
+-2.1362	dari yang
+-2.4895	dari yeyen	+0.0621
+-1.0211	daring </s>	+0.0621
+-0.8697	dasar </s>	-0.2097
+-1.2516	dasar dan
+-0.7818	datang </s>	-0.1622
+-1.1351	datang pada
+-1.1351	datang selamat
+-0.1649	daya manusia	-0.0399
+-1.3222	delapan persen
+-0.9689	delapan puluh	+0.0108
+-1.3222	delapan yaitu
+-2.2541	dengan adanya
+-1.2330	dengan baik	-0.1506
+-2.2541	dengan demikian
+-1.3299	dengan divisi
+-1.2330	dengan doa	+0.0507
+-2.2541	dengan harga	-0.1794
+-2.2541	dengan hasil	-0.1666
+-1.9008	dengan ini
+-2.2541	dengan jumlah
+-2.2541	dengan kepercayaan
+-1.9008	dengan keyakinan	+0.1039
+-1.9008	dengan kinerja
+-1.5528	dengan lancar	-0.1326
+-1.9008	dengan lebih	-0.0576
+-2.2541	dengan lomba
+-1.8723	dengan membaca	-0.2239
+-2.2541	dengan memberi
+-2.2541	dengan pemikiran	+0.3283
+-2.2541	dengan pendapat
+-1.9008	dengan perusahaan
+-2.2541	dengan pilihan	-0.1331
+-2.2541	dengan selera	+0.0621
+-2.2541	dengan usulan
+-2.2541	dengan yang
+-0.2326	depan </s>	+0.0621
+-1.2521	depan akan
+-1.7693	departemen </s>	+0.0621
+-1.7693	departemen internal
+-1.7693	departemen kaderisasi	+0.1158
+-0.7482	departemen keuangan	-0.0225
+-0.7482	departemen logistik	-0.0072
+-1.3875	departemen manajemen
+-1.4160	departemen software	-0.0145
+-1.4160	departemen telekomunikasi
+-1.7693	departemen tersebut
+-1.3875	departemen yang	-0.4778
+-0.7201	desain dasarnya
+-0.7201	desember </s>	+0.0621
+-0.3668	detil dari	-0.4399
+-0.3222	developer </s>	+0.0621
+-1.2101	di acara	+0.0815
+-1.4841	di akhir	+0.1484
+-1.8036	di bagian	-0.0870
+-2.1855	di bulan
+-2.1855	di daerah
+-1.8036	di dalam
+-1.5101	di divisi	-0.1657
+-2.1855	di drive
+-1.8322	di dunia	-0.0412
+-1.5101	di finlandia
+-2.1855	di gudang
+-1.8322	di itb
+-2.1855	di jakarta	-0.0528
+-2.1855	di jepang
+-2.1855	di jurusan
+-2.1855	di kantor
+-1.8322	di korea	+0.0329
+-2.1855	di lantai	+0.3283
+-2.1855	di layar
+-2.1855	di lingkungan
+-2.1855	di mana
+-2.1855	di minggu
+-1.8322	di pasar	-0.3381
+-2.1855	di pasaran
+-1.5101	di pertemuan
+-1.2613	di perusahaan	-0.0107
+-2.1855	di proyek
+-2.1855	di sana
+-1.8322	di sekitar
+-2.1855	di semua
+-1.8322	di tahun	-0.1233
+-0.8662	dia sudah
+-0.5129	dialokasikan </s>	-0.1622
+-0.7818	dibahas </s>	-0.1622
+-1.1351	dibahas lebih	-0.0701
+-0.6232	dibanding yang	-0.2059
+-0.7201	dibandingkan dengan
+-0.2699	dibawa ke	-0.1240
+-0.5219	diberikan </s>	-0.3062
+-0.5219	diberikan oleh	-0.0832
+-0.1450	dibuka dengan	-0.1068
+-0.0809	dicukupkan </s>	-0.4324
+-1.2764	digunakan di
+-0.3522	digunakan untuk
+-0.3222	dihentikan produksinya
+-0.7201	diisi dan
+-0.3222	dikasih logo	+0.0621
+-0.7993	dikatakan bahwa
+-0.7993	dikatakan tidak
+-0.4982	dikenalkan ke
+-0.9242	dikerjakan yang
+-0.9242	dilaksanakan sekitar
+-0.9242	dilaksanakan tiga
+-1.0296	dilakukan </s>	-0.1622
+-1.3829	dilakukan dan
+-1.3829	dilakukan melalui
+-1.3829	dilakukan sejak
+-0.4982	dilanjut ke	-0.2098
+-0.5709	dilanjutkan dengan	-0.4223
+-0.3222	dilaporkan </s>	+0.0621
+-0.5935	dilihat sebagai	-0.4636
+-0.4982	dimasukkan ke
+-0.3222	dimiliki perusahaan
+-0.3468	dimulai </s>	+0.0621
+-0.6468	dimulai dari	+0.0043
+-1.3222	dimulai menurut	-0.2025
+-0.6232	dini </s>	+0.0621
+-0.4982	dipelajari di
+-0.4982	diperkirakan akan
+-0.3222	diperluas ke
+-0.5935	dipersilakan </s>	-0.2097
+-0.5935	dipersilakan untuk	-0.0946
+-0.2413	dipimpin oleh	-0.0877
+-0.6232	diri masing-masing
+-0.6232	disampaikan </s>	+0.0621
+-0.7993	disediakan oleh
+-0.7993	disediakan pada	-0.2017
+-0.6232	disesuaikan </s>	+0.0621
+-1.2516	disini apakah	+0.2641
+-1.2516	disini saja
+-0.6232	ditanyakan lagi
+-0.2699	ditempatkan pada	-0.1244
+-0.6232	diterapkan dalam
+-0.3222	ditugaskan untuk	-0.2176
+-1.4233	divisi </s>	-0.4324
+-1.8268	divisi acara
+-2.2086	divisi dan
+-1.8554	divisi hubungan	-0.1086
+-2.2086	divisi humas
+-1.1083	divisi it	+0.0252
+-1.5333	divisi kami
+-2.2086	divisi kekeluargaan
+-1.5073	divisi keuangan	-0.0993
+-1.4233	divisi konsumsi
+-2.2086	divisi lain
+-1.1461	divisi logistik	+0.0929
+-1.5333	divisi masing-masing
+-2.2086	divisi mereka
+-1.8268	divisi pemasaran	-0.2239
+-1.5333	divisi pembelian	-0.1293
+-1.0114	divisi pengadaan	-0.0606
+-1.8554	divisi pengelolaan	+0.1039
+-1.8554	divisi pengembangan	-0.3073
+-1.4233	divisi penjualan	+0.0638
+-2.2086	divisi penulis	+0.0621
+-2.2086	divisi pubdok
+-1.8554	divisi riset	+0.1039
+-1.8554	divisi sponsor	-0.0264
+-1.8554	divisi sumber	-0.2613
+-1.2844	divisi teknis	-0.0140
+-2.2086	divisi tempat	-0.1964
+-1.5333	divisi yang	-0.0611
+-0.4982	divisi-divisi yang
+-0.6160	doa </s>	-0.4324
+-1.4013	doa dimulai	+0.0409
+-1.4013	doa juga	-0.1904
+-1.4013	doa marilah	+0.1515
+-1.4013	doa selesai	+0.0173
+-1.0195	doa sesuai	+0.0892
+-1.4013	doa terlebih	+0.0621
+-0.5424	dokumentasi </s>	-0.2097
+-1.7113	dua </s>	+0.0621
+-1.7113	dua belas
+-1.7113	dua juta
+-1.3295	dua minggu
+-0.9260	dua poin
+-0.7871	dua produk	-0.1991
+-1.3580	dua puluh
+-1.0100	dua ribu	-0.1108
+-0.8983	dulu </s>	-0.1622
+-1.2516	dulu rapat
+-0.8697	dulu ya
+-0.7201	dunia </s>	+0.0621
+-0.3222	eceng gondok
+-0.7993	efektif karena
+-0.3222	elektronik </s>	+0.0621
+-0.4982	elisa sebagai	-0.1467
+-0.4982	emas ini
+-1.2252	empat belas
+-0.5239	empat bulan	-0.4728
+-0.4844	enggak </s>	-0.2097
+-0.3222	ensof </s>	+0.0621
+-0.9242	fatma apakah
+-0.9242	fatma dari	-0.1897
+-0.8140	finlandia </s>	-0.1622
+-1.1673	finlandia tidak
+-1.1673	fitur fitur
+-1.1673	fitur pemesanan	-0.1702
+-1.1673	fitur utama	-0.0528
+-0.7854	fitur yang	-0.0881
+-0.3222	fix </s>	+0.0621
+-0.6232	flyer </s>	+0.0621
+-0.6807	fokus ke
+-1.0625	fokus kita
+-0.7092	fokus pada
+-0.3382	foto massa
+-0.5709	futsal </s>	-0.1622
+-1.0625	gak ada
+-1.0625	gak usah
+-0.6393	gimana </s>	-0.2097
+-0.6232	git </s>	+0.0621
+-0.7993	github </s>	+0.0621
+-0.7993	github itu
+-0.6393	gitu </s>	-0.2097
+-0.6232	goreng tepung
+-0.4982	grafik yang
+-0.9615	gudang </s>	-0.2097
+-0.6420	gudang nomer	-0.0762
+-0.3222	gunakan untuk	-0.2133
+-1.1673	hadir di
+-0.3819	hadir pada	-0.1613
+-0.4150	hal ini	-0.0614
+-0.9369	hal itu
+-1.6122	hal lain
+-1.2303	hal tersebut
+-0.6368	hal yang	-0.0166
+-0.6232	hal-hal yang
+-1.0211	halaman masuk
+-0.4982	haluluntur </s>	+0.0621
+-1.2764	hanya ada
+-1.2764	hanya akan
+-1.2764	hanya bisa
+-1.2764	hanya itu	-0.1874
+-0.1450	harap tenang
+-0.4982	harapan kami	-0.2100
+-1.0625	harga barang
+-1.0625	harga yang
+-1.4966	hari </s>	-0.2097
+-1.8785	hari besar
+-0.2041	hari ini	-0.2755
+-1.8785	hari kemerdekaan
+-1.8785	hari libur	+0.0621
+-1.5252	hari rabu
+-0.4982	harinya </s>	+0.0621
+-1.0828	harus kita
+-1.0542	harus melakukan	-0.0687
+-1.2999	hasil analisis
+-0.9466	hasil perhitungan	-0.0695
+-1.2999	hasil survei
+-0.1450	hati haluluntur	+0.0329
+-0.7993	hijau </s>	+0.0621
+-0.7993	hingga lima
+-0.2699	hubungan masyarakat	+0.0962
+-0.7818	ibu elisa	+0.0329
+-0.7818	ibu sekalian
+-0.7532	ibu susan	+0.0621
+-0.3222	ibu-ibu sekalian
+-0.7201	ikut meramaikan
+-0.2413	implementasi desain	-0.0040
+-0.2413	indonesia </s>	-0.2097
+-0.6232	informasi yang
+-0.7969	ingin bertanya	+0.1845
+-1.4982	ingin disampaikan
+-1.4982	ingin ditanyakan
+-1.1450	ingin menyampaikan
+-0.4821	ini </s>	+0.0621
+-2.1858	ini ada
+-1.7823	ini adalah
+-1.3705	ini akan	-0.0301
+-2.5677	ini apa
+-2.2144	ini apakah	+0.3499
+-2.5677	ini atau
+-2.5677	ini berhubungan	+0.0621
+-2.1858	ini bisa
+-2.5677	ini cukup
+-2.2144	ini dan
+-1.8663	ini dapat
+-1.8663	ini dengan	-0.4372
+-2.5677	ini diharapkan
+-2.2144	ini dilakukan
+-2.2144	ini itu
+-2.5677	ini jadi
+-2.5677	ini juga
+-2.1858	ini kan
+-2.5677	ini ke
+-2.1858	ini kira-kira	-0.4268
+-1.5465	ini kita	-0.1495
+-2.2144	ini lebih
+-2.2144	ini masih
+-2.5677	ini memang
+-2.2144	ini mengenai
+-2.5677	ini mengingat
+-2.1858	ini mungkin
+-2.1858	ini sangat
+-2.5677	ini satu
+-1.5923	ini saya	-0.0902
+-2.2144	ini sebenarnya
+-2.5677	ini sedang
+-2.2144	ini selesai
+-2.5677	ini sepertinya	-0.1937
+-1.5923	ini sudah	-0.0324
+-2.2144	ini telah	-0.1241
+-2.1858	ini tentunya
+-2.5677	ini terima	+1.4802
+-2.2144	ini terjadi
+-1.7823	ini tidak	+0.1471
+-2.5677	ini udah
+-2.1858	ini untuk	-0.0861
+-2.1858	ini yaitu
+-0.9242	internal perusahaan	-0.1031
+-0.4982	internasional yang
+-0.6232	inventarisasi </s>	+0.0621
+-0.7470	it </s>	-0.1622
+-0.7470	it kami
+-1.7285	itu </s>	-0.1622
+-1.1576	itu ada	-0.0836
+-1.7285	itu adalah
+-1.7285	itu akan	-0.1292
+-2.0818	itu apa
+-1.7000	itu bisa	-0.0820
+-1.7285	itu dari	-0.1195
+-2.0818	itu jadi
+-2.0818	itu juga
+-2.0818	itu kan
+-2.0818	itu masih
+-2.0818	itu mereka	-0.1419
+-1.1576	itu saja	-0.0380
+-1.4065	itu saya	-0.0599
+-1.7285	itu tidak
+-1.7285	itu untuk
+-2.0818	itu wajib
+-2.0818	itu ya	-0.0053
+-1.1003	iya </s>	+0.0621
+-1.1003	iya terima	+1.4802
+-1.5312	jadi <euh>
+-1.8844	jadi ada
+-1.8844	jadi dari
+-1.8844	jadi kalo
+-1.8844	jadi kita
+-1.5026	jadi mungkin
+-1.8844	jadi saya
+-1.5312	jadi seksi
+-1.8844	jadi tidak
+-1.8844	jadi untuk
+-0.4982	jakarta </s>	+0.0621
+-0.6232	jalan jalan
+-0.3198	jam kerja	+0.0000
+-0.1909	jangan lupa	+0.0002
+-1.0625	jawab secara
+-1.0625	jawab untuk
+-0.7993	jelas </s>	+0.0621
+-0.5935	jenis tes	-0.0405
+-1.3635	jika kita
+-1.3635	jika memang	-0.1903
+-0.4393	jika tidak	-0.0617
+-0.4174	jualan di	-0.0893
+-1.1996	juga </s>	-0.4324
+-1.9849	juga agak
+-1.6031	juga akan
+-1.9849	juga berencana
+-1.3096	juga bu	+0.6151
+-1.9849	juga di
+-1.9849	juga diadakan
+-1.9849	juga mas
+-1.6316	juga setuju
+-1.1996	juga sudah
+-1.1996	juga untuk
+-0.3222	jumat </s>	+0.0621
+-1.0211	juta rupiah	+0.3283
+-0.6393	juta untuk	-0.0932
+-0.2699	kaderisasi </s>	-0.1622
+-0.3222	kak seti
+-0.7634	kalau begitu	+0.0065
+-1.7846	kalau bu
+-0.8092	kalau dari	-0.1487
+-1.7846	kalau memang
+-0.6842	kalau tidak	-0.8706
+-1.7846	kalau udah
+-1.4982	kali </s>	+0.0621
+-1.1164	kali dan	-0.0940
+-0.1347	kali ini	-0.1950
+-0.2285	kalo dari	-0.1621
+-1.3635	kalo gitu	-0.1055
+-0.7092	kamera yang
+-1.7024	kami </s>	+0.0621
+-1.7024	kami berdua
+-1.7024	kami berhasil
+-1.3205	kami dari	-0.2045
+-1.0270	kami juga	-0.0703
+-1.7024	kami memiliki	-0.1857
+-1.7024	kami mereka
+-1.7024	kami selama	-0.1558
+-1.3491	kami sudah
+-0.2699	kampus kita
+-0.6882	kan </s>	-0.3062
+-1.0103	kan ada
+-1.3635	kan ya	-0.0053
+-0.8662	kapan ya	-0.0053
+-1.8273	karena dibuka	+0.3283
+-1.0419	karena itu	-0.0441
+-1.8273	karena kemarin
+-1.8273	karena masih
+-1.8273	karena perusahaan
+-1.1351	kartu ini
+-1.1351	kartu lagi	-0.1822
+-1.1351	kartu pertama
+-1.1351	kartu selanjutnya
+-1.1351	kartu yang
+-1.1450	karyawan </s>	-0.1622
+-0.8229	karyawan baru	-0.1183
+-1.4982	karyawan tahun	-0.1038
+-0.7969	karyawan yang	-0.0957
+-0.3222	kas </s>	+0.0621
+-0.7782	kasih </s>	+0.0621
+-0.6107	kasih atas	-0.0029
+-1.6479	kasih buat	-0.0665
+-2.0297	kasih dan
+-1.6764	kasih juga	-0.1047
+-2.0297	kasih kali
+-1.3544	kasih kepada
+-2.0297	kasih laporannya	+0.1515
+-1.6764	kasih moderator	+0.1501
+-2.0297	kasih pak
+-2.0297	kasih pinjam
+-1.6479	kasih semuanya
+-1.6764	kasih sudah	-0.1249
+-0.8947	kasih untuk	-0.0495
+-0.6232	katanya mereka
+-1.6605	ke aplikasi	-0.0455
+-1.6605	ke bagian
+-1.6890	ke basis	+0.5659
+-1.6890	ke dalam
+-2.0423	ke depannya
+-1.6890	ke departemen
+-1.3670	ke divisi
+-2.0423	ke drive
+-1.3670	ke lokasi	+0.0179
+-1.6890	ke masalah
+-2.0423	ke mereka
+-1.6890	ke minggu	-0.2670
+-1.6890	ke moderator	-0.1601
+-2.0423	ke poin
+-2.0423	ke proyektor	+0.0621
+-2.0423	ke puma
+-1.6605	ke rumah	-0.3774
+-2.0423	ke sekolah
+-1.6890	ke seksi
+-2.0423	ke sesi
+-2.0423	ke tempat
+-2.0423	ke unpad
+-0.3222	keberatan </s>	+0.0621
+-0.4982	keberhasilan telah	-0.2099
+-0.9754	kebutuhan lombanya
+-0.3222	kecil </s>	+0.0621
+-1.0211	kedua adalah
+-0.8720	kegiatan ini
+-1.2252	kegiatan yang
+-0.7993	kehijauan </s>	+0.0621
+-0.7993	kehijauan ini
+-0.7993	kelas aja
+-0.4460	kelas kita
+-0.3222	kelemahannya </s>	+0.0621
+-0.6232	kelereng estavet
+-0.6232	keluar dan
+-0.6232	kemampuan akademis
+-0.8697	kemarin </s>	-0.2097
+-1.2516	kemarin kita
+-1.1003	kembali di
+-1.1003	kembali ke
+-1.1003	kembali pada
+-0.3222	kembalikan ke	-0.2098
+-1.2764	kemudian dari	-0.1396
+-1.2764	kemudian dilanjutkan
+-1.2764	kemudian hari	-0.2047
+-1.2764	kemudian saya
+-1.2764	kemudian untuk
+-0.2699	kemungkinan besar
+-0.5219	kenaikan harga
+-1.1972	kenaikan permintaan
+-1.1972	kenaikan upah
+-0.5129	kendala yang	-0.1322
+-0.6245	kepada divisi	-0.0581
+-1.2999	kepada mahasiswa
+-1.2999	kepada penanggung	+0.7903
+-1.2999	kepada saudara
+-0.4982	kepala departemen	-0.2113
+-0.1450	kepengurusan sebelumnya
+-0.3668	kepercayaan dan	-0.4392
+-0.7201	kepercayaan masing-masing	+0.1712
+-0.4982	keperluan ini
+-0.8662	keputusan yang
+-0.3668	keripik kehijauan	-0.0579
+-0.9466	kerja </s>	-0.1622
+-1.2999	kerja di
+-0.9466	kerja ini
+-0.2699	kerupuk lomba	-0.1092
+-0.4982	kesiapan dari
+-0.9754	ketika pengguna
+-0.8434	ketua dari	-0.4114
+-0.3010	ketua divisi
+-0.7177	keuangan </s>	+0.0446
+-1.4191	keuangan ada
+-1.4191	keuangan apakah
+-1.0658	keuangan dan	-0.0990
+-0.7437	keuangan perusahaan	-0.0946
+-1.4191	keuangan sendiri	-0.1921
+-1.0625	keuntungan perusahaan
+-0.7092	keuntungan yang
+-0.1450	keyakinan masing-masing	-0.0532
+-0.8662	khusus nanti
+-0.9754	khususnya pada
+-0.9754	khususnya untuk
+-0.9754	khususnya yang
+-1.0211	kinerja departemen
+-1.5396	kira-kira <euh>	-0.2052
+-1.5396	kira-kira apakah	+0.2641
+-0.8643	kira-kira butuh	-0.4434
+-1.5396	kira-kira hanya
+-0.7201	kirim data
+-1.2820	kita </s>	+0.0621
+-2.4493	kita ada
+-0.9510	kita akan	-0.2386
+-1.5250	kita bahas
+-2.4493	kita belum
+-2.4493	kita berdoa
+-1.6639	kita bisa
+-2.0960	kita buka	-0.0412
+-2.4493	kita butuh
+-1.5250	kita dapat
+-2.4493	kita di
+-2.4493	kita gunakan	+0.0621
+-2.4493	kita hari	+0.2072
+-1.6639	kita harus	-0.0213
+-2.4493	kita itu
+-1.7739	kita juga
+-2.4493	kita kembangkan
+-2.4493	kita ketahui
+-2.0674	kita lakukan	-0.0040
+-2.0960	kita lanjut	-0.0395
+-1.6639	kita lanjutkan	+0.0436
+-1.7739	kita masih
+-2.4493	kita memang
+-2.0674	kita memulai
+-2.4493	kita menutup
+-2.4493	kita modal
+-1.2820	kita mulai	-0.1794
+-2.4493	kita nih
+-2.0960	kita pada
+-2.4493	kita perhatikan
+-1.5250	kita perlu	-0.0916
+-2.4493	kita perlukan
+-2.4493	kita semua
+-2.4493	kita setuju
+-1.6639	kita sudah	-0.0325
+-2.4493	kita sudahi
+-2.0674	kita tidak
+-1.6639	kita tutup	-0.0068
+-2.4493	kita udah
+-2.0674	kita untuk	-0.0861
+-2.4493	kita yaitu
+-2.4493	kita yang
+-0.3222	kolom ktp
+-0.4982	komulatif itu
+-0.7818	kondisi keuangan	-0.3567
+-0.7532	kondisi perusahaan
+-0.7201	konfirmasi ke	-0.2148
+-0.4982	konstruksi mengalami	-0.1702
+-0.4982	konsumen </s>	+0.0621
+-1.2516	konsumsi </s>	+0.0621
+-0.8983	konsumsi dan
+-1.2516	konsumsi yang
+-0.9754	konten soal
+-0.4982	kontrak dengan
+-0.4982	korea dan	-0.2148
+-0.4982	kostum dari
+-0.2699	kotak sumbangan
+-0.7201	ktp itu
+-0.4174	kunjungan ke	-0.0918
+-0.7993	kupon </s>	+0.0621
+-1.3222	kurang baik
+-0.9689	kurang efektif
+-0.9689	kurang jelas
+-0.4844	kusni dan	-0.2497
+-0.6021	lagi </s>	+0.0621
+-1.8785	lagi agar
+-1.8785	lagi akan
+-1.5252	lagi dan
+-1.5252	lagi dari
+-1.8785	lagi nih
+-1.8785	lagi terima	+1.4802
+-1.0931	lagi untuk	-0.0481
+-1.2031	lagi yang	-0.3276
+-0.3933	lain </s>	+0.0621
+-1.6932	lain atau
+-1.6932	lain mengenai
+-1.6932	lain mungkin
+-1.3399	lain untuk
+-1.3399	lain yang
+-0.3010	lainnya </s>	+0.0621
+-0.7201	lakukan </s>	+0.0621
+-0.7304	lalu </s>	+0.0621
+-1.3013	lalu divisi
+-0.9793	lalu kami	-0.0549
+-1.3013	lalu kita
+-1.3013	lalu nanti
+-0.6335	lalu untuk	-0.0711
+-0.2358	lancar </s>	-0.4324
+-0.3222	langkah selanjutnya	-0.1568
+-0.8662	langsung saja
+-0.8229	lanjut </s>	-0.3062
+-0.7129	lanjut ke
+-1.4982	lanjut mengenai
+-1.1450	lanjut oleh
+-1.1450	lanjut untuk
+-1.0211	lanjutkan </s>	+0.0621
+-0.6678	lanjutkan ke
+-0.1450	lantai tiga
+-0.2358	lapangan dan	-0.4093
+-0.7854	laporan dari	-0.2641
+-0.2413	laporannya </s>	-0.2097
+-0.0235	lari mendaki	+0.0583
+-0.3222	latian rutin
+-0.7975	lebih baik	-0.0582
+-1.8600	lebih cocok
+-1.8600	lebih dari
+-1.8600	lebih efektif
+-1.5067	lebih fokus	-0.0386
+-0.5378	lebih lanjut	-0.0632
+-1.8600	lebih setuju
+-1.5067	lebih untuk	-0.1233
+-0.6232	level pendidikan
+-0.7201	lewat pesan
+-0.3222	libur nasional
+-0.4982	liburan </s>	+0.0621
+-0.8720	lima belas	-0.1080
+-1.2252	lima lomba	-0.1949
+-1.2252	lima persen
+-1.2252	lima puluh
+-1.2252	lima ratus
+-0.4771	logistik </s>	+0.0621
+-1.2241	logistik akan
+-1.5774	logistik apakah	+0.2641
+-1.2241	logistik untuk
+-1.5774	logistik yang
+-0.3222	logo aqua
+-0.1239	lokasi baru	-0.0803
+-0.8692	lomba </s>	-0.4324
+-0.8692	lomba futsal	+0.0744
+-1.2727	lomba makan	-0.4063
+-1.2727	lomba memasukkan	-0.1204
+-1.3013	lomba pembuatan	-0.1086
+-1.6546	lomba tiga	-0.1528
+-1.6546	lomba tujuh	+0.0621
+-1.2727	lomba yang
+-1.6546	lomba yel-yel	-0.0528
+-0.6232	lombanya </s>	+0.0621
+-0.7993	lupa buat
+-0.7993	mahasiswa tpb
+-0.7818	maka dari	-0.1316
+-1.1351	maka saya
+-1.1351	makan bersama	-0.1702
+-0.7532	makan kerupuk	+0.0509
+-1.1351	makan siang
+-0.3668	maksimal </s>	-0.1622
+-0.7201	maksud saya
+-0.9754	mana </s>	+0.0621
+-0.9754	mana yang
+-0.4844	manusia </s>	-0.2097
+-0.0212	mari kita	-0.3015
+-0.2413	marilah kita
+-0.3497	mas kusni	+0.0052
+-0.4337	mas yanto	+0.1047
+-1.7615	masalah </s>	+0.0621
+-1.7615	masalah dari
+-1.0862	masalah dengan	-0.0724
+-1.3796	masalah di
+-0.9761	masalah ini	+0.1122
+-1.7615	masalah ketiga
+-1.4082	masalah pada
+-1.7615	masalah tempat
+-0.7404	masalah yang
+-1.0358	masih ada
+-1.0358	masih belum
+-1.7371	masih berkembang
+-1.7371	masih dalam
+-1.7371	masih harus
+-1.7371	masih kuliah
+-1.3838	masih sangat	-0.1161
+-1.7371	masih terdapat
+-0.2272	masing-masing </s>	+0.0621
+-1.4525	masing-masing dari
+-0.5935	massa yang
+-1.4361	masuk </s>	+0.0621
+-1.4361	masuk dalam
+-1.4361	masuk itb
+-0.4607	masuk ke	-0.0549
+-0.3222	masukannya </s>	+0.0621
+-0.6232	masukin aja
+-0.3872	masyarakat </s>	-0.3062
+-1.0625	masyarakat setempat	+0.0621
+-0.2413	mata pelajaran	-0.0040
+-0.4982	matematika ipa
+-1.2303	mau bertanya	+0.0213
+-1.6122	mau ditanyakan
+-1.6122	mau jualan
+-1.2589	mau memberi
+-1.2303	mau tanya	-0.0207
+-0.6221	maupun sbmptn
+-0.3222	media sosial
+-0.5424	medis </s>	-0.2097
+-1.6009	melakukan eksplorasi
+-1.6009	melakukan pertemuan
+-1.6009	melakukan publikasi
+-1.6009	melakukan research	+0.0621
+-1.2191	melakukan sesuatu
+-0.8662	melalui permainan
+-0.2699	melanjutkan ke
+-1.0211	melaporkan adalah	-0.1955
+-1.0211	melaporkan hasil
+-1.0211	melaporkan perkembangan	-0.1753
+-0.3222	melebihi dana	-0.1751
+-1.1972	memang membutuhkan	-0.1552
+-0.2413	memasukkan kelereng	+0.0224
+-0.3382	membaca doa	-0.3702
+-1.1863	membahas apa	-0.0315
+-1.5396	membahas kesiapan
+-0.8643	membahas masalah
+-0.7543	membahas mengenai
+-1.1863	membahas perkembangan	-0.0198
+-1.5396	membahas tentang
+-0.3222	membebani keuangan	-0.1323
+-1.0625	memberikan peningkatan
+-0.8662	membutuhkan dana	-0.2012
+-0.3222	memikirkannya lagi
+-0.8662	memilih menu
+-1.1351	memiliki masalah
+-0.7818	memiliki rasa	-0.2581
+-1.1351	memiliki rencana	-0.1828
+-0.6232	meminta pendapat	+0.0575
+-0.7993	memperkenalkan diri
+-0.5709	memulai rapat
+-0.3222	menambah efektivitas
+-0.7993	mencapai sembilan	-0.1344
+-0.9231	mendaki </s>	-0.1622
+-0.6011	mendaki ini
+-1.2764	mendaki itu
+-1.2764	mendaki pada
+-0.9242	menentukan langkah	+0.0621
+-0.9242	menentukan pilihan
+-0.8662	mengadakan lari	+1.0600
+-0.8662	mengadakan lomba
+-0.9754	mengalami keterlambatan
+-1.2589	mengenai hal
+-1.2589	mengenai kenaikan
+-1.6122	mengenai kondisi	-0.1344
+-1.6122	mengenai masalah
+-1.6122	mengenai peningkatan
+-0.6678	mengerjakan tes
+-0.3222	menguasai pasar
+-0.9242	meningkatkan penjualan
+-0.5709	meningkatkan produktivitas
+-1.4013	menjadi kurang
+-1.4013	menjadi lebih
+-1.4013	menjadi relawan
+-1.4013	menjadi tim
+-0.3222	menjadwalkan meeting
+-0.5129	menjelaskan detil	-0.1992
+-1.4361	menurut kepercayaan
+-1.4361	menurut mereka	-0.2131
+-0.2688	menurut saya	-0.1046
+-1.4361	menurut yang	-0.2059
+-0.7201	menyebabkan kerugian
+-0.7201	menyediakan kotak	+0.1158
+-0.8692	mereka </s>	+0.0621
+-0.7901	mereka akan	-0.0861
+-1.5085	mereka bisa
+-1.8904	mereka cuma	-0.1270
+-1.8904	mereka dapat
+-1.8904	mereka mau
+-1.8904	mereka minta
+-1.2150	mereka sudah
+-1.8904	mereka tempat	-0.1964
+-1.8904	mereka tidak
+-1.8904	mereka untuk
+-1.8904	mereka yang
+-0.4982	minat dan	-0.2170
+-1.2925	minggu </s>	-0.2097
+-0.8890	minggu depan	+0.2150
+-0.4771	minggu ini	+0.0872
+-0.6532	minggu lalu	+0.0120
+-1.6743	minggu yang	-0.2169
+-0.3198	moderator </s>	+0.0446
+-0.8590	mulai </s>	-0.4324
+-1.6444	mulai aktif
+-1.6444	mulai bergabung
+-0.8590	mulai dari	+0.0178
+-1.6444	mulai mari	+1.1035
+-1.6444	mulai masuk	-0.0342
+-1.2911	mulai pertemuan	-0.0361
+-0.9690	mulai rapat	+0.0006
+-1.4174	mungkin bisa	-0.2066
+-1.1239	mungkin dapat
+-1.4460	mungkin dari
+-1.7993	mungkin kita
+-1.7993	mungkin nanti
+-1.4460	mungkin saya	-0.3779
+-1.4460	mungkin sekian
+-1.7993	mungkin tidak
+-1.7993	mungkin yang
+-1.4361	nah ini
+-1.4361	nah itu
+-1.4361	nah mungkin
+-0.6507	nah untuk	-0.0589
+-1.1673	namun apabila
+-1.1673	namun terdapat
+-1.2925	nanti </s>	-0.2097
+-0.6532	nanti akan	-0.1675
+-1.3210	nanti kami
+-1.6743	nanti mereka
+-0.3668	nasi tumpeng
+-0.7201	nasional maupun	-0.1003
+-0.8662	negara </s>	+0.0621
+-0.8662	negara finlandia
+-0.8662	negara lain
+-0.9754	nih </s>	+0.0621
+-1.1003	nilai pengguna
+-0.7470	nilai yang
+-1.0625	nomer empat
+-0.6807	nomer satu	-0.0778
+-0.7092	nomer tiga	-0.1007
+-0.8140	oh gitu
+-1.1673	oh iya
+-1.1673	oh yang	-0.2179
+-0.9892	oke </s>	-0.3062
+-0.9892	oke aku
+-1.6646	oke berarti
+-1.2827	oke jadi
+-1.6646	oke jika	-0.0225
+-1.3113	oke kalau
+-0.9892	oke terima	+1.1118
+-0.4982	oktober kemarin
+-1.7371	oleh anggota
+-1.7371	oleh beberapa
+-1.7371	oleh departemen	-0.1333
+-1.0358	oleh divisi
+-1.0358	oleh karena	-0.2861
+-1.7371	oleh mahasiswa
+-1.3838	oleh mas	+0.0665
+-1.7371	oleh saudara
+-0.8129	oleh seksi	-0.1177
+-1.7371	oleh teman-teman
+-1.0103	orang tua
+-0.6622	orang yang	-0.0753
+-0.2413	orang-orang yang	-0.0688
+-1.7360	pada acara	-0.0916
+-2.0893	pada akhir	+0.0688
+-2.0893	pada bidang
+-1.3879	pada bulan	+0.1775
+-1.7075	pada divisi	-0.0828
+-1.7360	pada empat	-0.2887
+-1.4140	pada gudang	-0.0978
+-0.9221	pada hari	-0.7202
+-1.7360	pada kesempatan
+-2.0893	pada kondisi
+-1.7075	pada level	+0.0224
+-2.0893	pada peningkatan	-0.1466
+-1.7075	pada pertemuan	-0.0701
+-1.0682	pada rapat	-0.0095
+-1.7360	pada saat
+-2.0893	pada siang	-0.1813
+-2.0893	pada tahun	-0.0766
+-0.5935	pagi </s>	-0.2097
+-0.3497	pak </s>	-0.4324
+-0.6221	paket emas	+0.0329
+-0.9754	paket perak
+-0.9754	panitia </s>	+0.0621
+-0.1450	parameter keberhasilan	+0.0329
+-0.6678	pasar malam
+-0.6393	pasar yang
+-0.3222	pasifik </s>	+0.0621
+-0.7201	pegawai magang
+-0.6232	pekerja yang
+-0.7470	pekerjaan </s>	-0.1622
+-1.1003	pekerjaan ruma
+-1.1003	pekerjaan yang
+-0.7201	pelajaran yang
+-0.2229	pelaksanaan acara
+-0.9754	pelatihan bagi
+-0.9754	pelatihan ini
+-0.9754	pelatihan mengenai
+-0.3382	pemasaran </s>	-0.2097
+-0.6232	pembagian divisi
+-0.6232	pembagian tugas
+-0.9180	pembahasan dari	-0.0761
+-0.9466	pembahasan ini	-0.2695
+-0.6245	pembahasan yang	-0.3105
+-0.4174	pembelian </s>	-0.2097
+-0.0139	pembentukan aplikasi	-0.0112
+-0.3222	pemberitahuan dari	-0.2022
+-1.1972	pembicara </s>	+0.0621
+-0.5219	pembicara tamu	+0.0002
+-0.2699	pembuatan kostum	+0.0329
+-0.9754	pemesanan daring
+-0.9754	pemesanan ke	-0.2098
+-0.1450	pemikiran seperti
+-0.0448	penanggung jawab
+-0.4844	pendanaan </s>	-0.2097
+-0.3274	pendapat dari	-0.0085
+-1.2516	pendapat lagi
+-0.8983	pendapat yang
+-0.4982	pendapatan mereka
+-1.5396	pendidikan </s>	+0.0621
+-1.1578	pendidikan anak	-0.1821
+-1.5396	pendidikan dan
+-0.7543	pendidikan dasar	+0.0015
+-1.5396	pendidikan di
+-1.1863	pendidikan finlandia
+-1.1863	pendidikan tingkat	-0.1000
+-0.6160	pengadaan </s>	-0.4324
+-1.4013	pengadaan akan
+-0.7260	pengadaan barang	+0.0927
+-0.1450	pengelolaan sumber	-0.2613
+-0.5709	pengembangan bisnis
+-0.3222	penggalangan dana
+-0.7092	pengguna </s>	-0.1622
+-1.0625	pengguna dapat
+-0.1909	penggunaan gudang	+0.0376
+-0.4982	pengmas </s>	+0.0621
+-0.4982	pengumpulan nilai
+-0.3222	pengurus yang
+-1.1972	peningkatan gaji
+-1.1972	peningkatan kesejahteraan
+-1.1972	peningkatan keuntungan
+-0.8154	peningkatan penjualan
+-0.8439	peningkatan permintaan
+-0.7201	penjelasan saya
+-0.5424	penjual baru	-0.0197
+-0.6011	penjualan </s>	-0.3062
+-0.9231	penjualan tahun	+0.0091
+-1.2764	penjualan untuk
+-0.3222	penulis konten
+-0.4174	penyedia alat
+-0.6232	penyelesaian halaman
+-0.6232	penyelesaian tampilan
+-0.6232	peran kita
+-0.6232	peran mereka
+-0.4174	peraturan baru	-0.0593
+-0.1450	perdana hari	-0.0172
+-0.3222	pergi ke
+-0.3222	perhatian semuanya
+-0.8662	perhitungan ini	-0.0451
+-0.6807	periode bulan	-0.2095
+-1.0625	periode ini
+-0.7092	periode saat	+0.0176
+-1.0211	perkembangan divisi
+-0.6393	perkembangan perusahaan	+0.0199
+-0.2699	perkenalkan saya
+-1.5652	perlu diisi	-0.1270
+-1.5652	perlu diperhatikan
+-0.7798	perlu kita	-0.3653
+-1.2119	perlu melakukan
+-1.1351	permasalahan dari
+-0.7818	permasalahan yang
+-1.0211	permintaan </s>	+0.0621
+-1.0211	permintaan ini
+-0.4982	pernah selesai	+0.0173
+-0.7092	persen </s>	-0.1622
+-0.2772	persen dari	-0.1282
+-0.8662	persiapan </s>	+0.0621
+-0.4982	persilahkan kepada
+-1.1863	pertama </s>	-0.1622
+-1.1578	pertama adalah	-0.0740
+-1.1863	pertama kita	-0.3916
+-1.5396	pertama pertemuan	-0.0146
+-1.5396	pertama saya	-0.1535
+-1.1863	pertama yaitu
+-1.5396	pertama yang
+-0.2888	pertanyaan </s>	+0.0621
+-1.2119	pertanyaan dari	-0.4364
+-1.2119	pertanyaan lagi	-0.0081
+-1.1833	pertanyaan lain	-0.0588
+-0.0809	pertanyaannya </s>	-0.4324
+-1.2413	pertemuan hari	-0.0647
+-0.4260	pertemuan ini	+0.0069
+-1.6232	pertemuan kali	+0.3553
+-0.6990	pertemuan pada	-0.2993
+-1.2413	pertemuan selanjutnya	-0.2217
+-1.6232	pertemuan untuk
+-0.4982	pertolongan pertamanya
+-0.8662	perubahan waktu
+-0.6312	perusahaan </s>	+0.0621
+-1.5258	perusahaan dan
+-1.5258	perusahaan di
+-1.1223	perusahaan ini	+0.0063
+-0.6077	perusahaan kita	-0.1254
+-1.9076	perusahaan untuk
+-1.2323	perusahaan yang
+-0.4982	perwakilan dari
+-0.7993	pesanan baru
+-0.7993	pesanan dan
+-0.8662	peserta lomba
+-0.8662	pihak puma	-0.1637
+-0.7470	pilihan a	-0.0412
+-1.1003	pilihan yang
+-0.2413	pindah ke	-0.4716
+-0.7969	poin </s>	+0.0446
+-1.1450	poin berikutnya
+-1.4982	poin juga
+-1.1164	poin pengerjaan
+-1.4982	poin ya	-0.0053
+-1.4982	poin yang
+-0.4982	presentasinya </s>	+0.0621
+-0.3222	printer yang
+-1.5263	produk </s>	+0.0621
+-1.1730	produk baru
+-0.4260	produk ini	+0.1440
+-1.5263	produk tersebut
+-0.8509	produk yang
+-0.3668	produk-produk tersebut
+-0.5129	produksi </s>	-0.1622
+-0.8662	produktivitas </s>	+0.0621
+-0.8662	produktivitas karyawan
+-0.7470	program ini
+-0.7470	program studi
+-0.4982	programmer yang
+-0.4982	proposal </s>	+0.0621
+-0.9754	proses bisnis	-0.1794
+-0.9754	proses pengerjaan
+-0.5985	proyek ini
+-1.2999	proyek kita
+-1.2999	proyek tersebut
+-0.9180	proyek yang
+-0.3222	proyektor </s>	+0.0621
+-1.0211	publikasi </s>	+0.0621
+-0.6393	publikasi dan	-0.2798
+-1.2252	puluh delapan	-0.1976
+-0.5499	puluh persen	+0.2193
+-0.5709	puma </s>	-0.1622
+-0.9242	puma terkait
+-0.5935	punya usulan	-0.0405
+-1.0746	rapat berikutnya	-0.0769
+-0.7975	rapat hari	+0.2072
+-1.0746	rapat ini	+0.0495
+-0.7597	rapat kali	+0.3553
+-1.4781	rapat khusus	-0.0322
+-1.4781	rapat kita	-0.0942
+-1.5067	rapat mingguan
+-1.5067	rapat perdana	+0.1039
+-1.8600	rapat sebelumnya	+0.0201
+-1.5067	rapat untuk
+-1.8600	rapat yang
+-1.1351	rasa hasil
+-0.4597	rasa teh	+0.4220
+-0.8662	ratus ribu
+-0.8662	ratus ribuan
+-0.7201	registrasi </s>	+0.0621
+-0.3668	registrasi penjual	+0.0138
+-0.6232	rekan sponsor
+-0.3222	relasi karyawan	-0.1865
+-0.7201	relawan yang
+-1.1003	rencana ke	-0.2148
+-1.1003	rencana pengadaan	-0.1283
+-1.1003	rencana untuk
+-1.0211	rencananya bakal
+-0.6232	repository </s>	+0.0621
+-0.3222	research lebih	-0.0701
+-0.1450	revolusi mental
+-0.6807	ribu sembilan	-0.2052
+-0.2699	rifo </s>	-0.1622
+-0.6232	rincian biaya	-0.1937
+-0.1450	riset produk	-0.1199
+-0.6232	ruang rapat	-0.2127
+-0.6393	rumah rumah
+-0.1450	rupiah </s>	-0.1622
+-0.1845	saat ini	-0.1408
+-0.3222	saham kita
+-1.0358	saja </s>	+0.0446
+-1.3553	saja dari	-0.0943
+-1.7371	saja dengan
+-1.7371	saja rapat
+-1.7371	saja untuk
+-0.6021	saja yang	-0.0271
+-0.2229	salah satu
+-0.2413	salam sejahtera	+0.0224
+-1.3635	sama </s>	+0.0621
+-1.3635	sama buat
+-1.3635	sama sekali
+-0.5580	sampai disini	-0.0364
+-1.3433	sampai jumpa
+-1.3433	sampai pukul
+-1.3433	sampai saat	+0.2420
+-1.3433	sampai sini
+-1.4191	sangat banyak
+-1.4191	sangat kecil	+0.0621
+-1.4191	sangat sering	-0.0528
+-1.1673	saran anda
+-1.1673	saran dari
+-1.1673	saran saya
+-1.1673	saran untuk
+-0.4982	sarana jaya
+-1.7454	satu bulan
+-1.7454	satu departemen
+-1.3921	satu hal	-0.1067
+-1.3635	satu hari
+-1.3921	satu kartu	-0.1000
+-1.7454	satu lagi
+-1.7454	satu minggu
+-1.3635	satu poin
+-1.3921	satu sampai
+-1.3921	satu sponsor	-0.1138
+-0.8662	saudara ensof	+0.0621
+-0.8662	saudara rifo
+-1.5553	saya </s>	+0.0446
+-0.8553	saya akan	-0.0676
+-1.4713	saya berharap
+-2.2567	saya berikan
+-2.2567	saya cukupkan
+-1.5813	saya dari	-0.2595
+-1.3324	saya ingin	-0.1947
+-1.4713	saya juga	-0.1571
+-2.2567	saya kembalikan	+0.0621
+-1.9034	saya kita
+-1.9034	saya lanjutkan
+-2.2567	saya lebih	-0.2127
+-1.8748	saya mau
+-2.2567	saya memiliki
+-2.2567	saya meminta
+-2.2567	saya menyarankan
+-1.9034	saya persilahkan	+0.0329
+-2.2567	saya pribadi
+-2.2567	saya punya
+-1.4713	saya rasa	-0.0284
+-2.2567	saya sampaikan
+-1.9034	saya selaku	-0.0149
+-2.2567	saya sendiri
+-1.2813	saya setuju	+0.0548
+-2.2567	saya tidak
+-2.2567	saya ucapkan
+-2.2567	saya untuk
+-0.6232	sbmptn </s>	+0.0621
+-0.3222	science fair
+-1.2191	sebagai berikut	-0.1204
+-1.6009	sebagai kepala	-0.0528
+-0.8155	sebagai ketua	+0.1869
+-1.2476	sebagai wakil	+0.2016
+-0.2699	sebagian besar
+-0.4982	sebanyak dua
+-1.3222	sebelum bulan
+-0.3979	sebelum kita	-0.3477
+-0.3736	sebelumnya </s>	+0.0621
+-0.7201	sebesar tiga	-0.1528
+-0.3222	sebisa mungkin
+-0.6882	secara daring
+-1.3635	secara signifikan
+-0.9817	secara umum	-0.0040
+-0.3668	sedangkan untuk
+-0.6232	segera ya
+-0.6232	segi logistik	-0.0427
+-0.3382	segmen ini	+0.0779
+-1.5396	sehingga adik-adik
+-1.1578	sehingga dapat	-0.2730
+-1.1863	sehingga kita
+-1.5396	sehingga mungkin
+-1.1863	sehingga perlu
+-1.5396	sehingga saya	-0.2038
+-0.6232	sejahtera </s>	+0.0621
+-0.3382	sejauh ini	+0.0779
+-0.6393	sekali </s>	-0.2097
+-0.6678	sekali lagi	-0.1272
+-0.9242	sekalian mengenai
+-1.1164	sekarang </s>	-0.2097
+-0.7129	sekarang kita	-0.1158
+-1.4982	sekarang mari	+1.1035
+-0.8229	sekarang saya	-0.0096
+-1.4982	sekarang untuk
+-0.3274	sekian dari	-0.1017
+-1.1993	sekian dulu
+-1.1708	sekian saja	-0.0877
+-1.1993	sekian untuk	-0.4406
+-0.9231	sekitar dua
+-1.2764	sekitar tujuh	-0.1719
+-1.0211	sekolah dasar
+-0.6678	sekolah di	-0.1194
+-0.6342	seksi acara	-0.0639
+-1.0680	seksi konsumsi
+-0.8451	seksi lapangan	-0.0254
+-1.0680	seksi logistik	+0.1240
+-1.7693	seksi medis
+-1.0940	seksi pendanaan	+0.0977
+-1.0940	seksi pubdok
+-1.0940	seksi sponsor	+0.0318
+-1.7693	seksi yang
+-0.0580	selain itu	+0.0060
+-0.6232	selaku pimpinan
+-1.2516	selama acara	-0.0804
+-0.8697	selama empat	-0.3362
+-1.2516	selama ini
+-1.2516	selama seminggu
+-1.5125	selamat bekerja
+-0.7271	selamat pagi	-0.0395
+-0.2361	selamat siang	-0.0522
+-1.5125	selamat sore	-0.1006
+-0.8761	selanjutnya </s>	+0.0446
+-1.5774	selanjutnya dari
+-1.5774	selanjutnya divisi
+-1.5774	selanjutnya kirim	-0.1270
+-1.2241	selanjutnya kita	-0.0814
+-1.5774	selanjutnya saya
+-1.5774	selanjutnya seksi
+-1.5774	selanjutnya yaitu
+-0.3222	selera konsumen	-0.0528
+-0.3774	selesai </s>	+0.0621
+-1.5125	selesai dan
+-1.5125	selesai kan
+-1.5125	selesai kita
+-1.5125	selesai mengerjakan
+-1.5125	selesai minggu	-0.0427
+-1.2999	seluruh anggota
+-1.2999	seluruh departemen
+-0.9466	seluruh karyawan
+-1.2999	seluruh tim	-0.0228
+-0.7201	semangat </s>	+0.0621
+-0.7818	sembilan belas
+-0.7532	sembilan puluh
+-1.1351	sembilan tahun	-0.2090
+-0.7993	sementara kita
+-0.9242	seminggu sekali
+-0.8372	semua </s>	-0.3062
+-1.5125	semua departemen
+-1.5125	semua disini
+-1.5125	semua divisi
+-1.5125	semua orang
+-1.5125	semua untuk
+-1.5125	semua yang
+-0.5119	semuanya </s>	+0.0621
+-1.4361	semuanya dapat
+-1.4361	semuanya setuju
+-1.4361	semuanya sudah
+-1.2252	sendiri akan
+-1.2252	sendiri apakah
+-1.2252	sendiri itu
+-1.7454	seperti biasa
+-1.3921	seperti biasanya
+-0.7700	seperti ini	+0.0182
+-0.8212	seperti itu	-0.1678
+-1.7454	seperti pada
+-1.7454	seperti traveloka
+-0.9600	seperti yang	-0.1042
+-1.2516	sepertinya bagus	-0.0829
+-1.2516	sepertinya dua
+-0.8983	sepertinya tidak
+-0.8662	sepuluh poin
+-0.4982	sering digunakan
+-1.0211	sesi bincang-bincang
+-1.0211	sesi rapat
+-1.0211	sesi tampilan
+-1.0211	sesi tanya	-0.1437
+-0.1326	sesuai dengan	-0.0855
+-0.7993	sesuatu </s>	+0.0621
+-0.9466	setelah ini	-0.1141
+-0.5145	setelah itu	-0.3448
+-1.2999	setelah lomba	-0.1557
+-0.3222	setempat </s>	+0.0621
+-1.4191	setiap bulan
+-1.4191	setiap divisi
+-1.4191	setiap hari
+-1.4191	setiap karyawan
+-1.4191	setiap kegiatan
+-1.4191	setiap rapat
+-0.8509	setuju </s>	-0.3062
+-0.3912	setuju dengan	-0.0803
+-0.8249	setuju untuk
+-0.2489	si </s>	-0.3062
+-1.0828	siang hari	-0.0172
+-0.6507	siang saya	-0.2491
+-0.7347	siang semuanya	-0.0527
+-0.6232	siap </s>	+0.0621
+-1.0296	sih </s>	-0.1622
+-1.3829	sih karena
+-1.3829	sih kira-kira
+-1.3829	sih rencananya
+-1.3829	sih untuk
+-1.3829	sih yang
+-0.7993	silahkan </s>	+0.0621
+-0.7000	silakan </s>	+0.0446
+-1.0480	silakan dilanjutkan
+-1.4013	silakan dimulai
+-0.5239	sistem pendidikan	-0.1099
+-1.2252	sistem pengumpulan	-0.0528
+-1.2252	sistem perhitungan
+-1.2252	sistem yang
+-0.5709	siti </s>	-0.1622
+-0.5709	siti dari	-0.1040
+-0.3819	sma delapan	-0.0402
+-1.1673	sma sudah
+-1.1351	soal </s>	+0.0621
+-0.6221	software </s>	-0.1622
+-0.6221	software engineer
+-0.3668	solusi yang
+-0.6232	sore semuanya	-0.0590
+-0.6232	sosial </s>	+0.0621
+-0.6622	sponsor </s>	+0.0446
+-1.3635	sponsor dan
+-1.3635	sponsor yaitu
+-0.6232	sprint </s>	+0.0621
+-0.7993	standar yang
+-0.7993	suatu kegiatan
+-1.1903	sudah ada	-0.0435
+-2.1145	sudah aku
+-2.1145	sudah berjalan
+-1.7327	sudah bersedia	-0.0322
+-2.1145	sudah bisa
+-1.4132	sudah cukup	-0.0405
+-1.7613	sudah dapat
+-1.7327	sudah datang
+-2.1145	sudah dibahas	-0.1403
+-1.7327	sudah dilakukan
+-2.1145	sudah lulus
+-2.1145	sudah masuk
+-2.1145	sudah membuat
+-2.1145	sudah sangat
+-1.7327	sudah selesai
+-1.7613	sudah sesuai	+0.1366
+-1.7327	sudah tidak	-0.0751
+-1.1673	sumber dana	-0.2012
+-0.4659	sumber daya	+0.2642
+-0.8662	survei lebih
+-0.6232	susan </s>	+0.0621
+-0.6232	susan sebagai	-0.1467
+-0.7185	tadi </s>	-0.2097
+-1.1003	tadi sudah
+-1.1003	tadi yang
+-1.6546	tahun ajaran	+0.0621
+-0.6335	tahun depan	+0.0858
+-0.5543	tahun ini	+0.0348
+-1.6546	tahun lalu	-0.1293
+-1.2727	tahun sebelumnya	+0.1431
+-1.6546	tahun selama
+-0.2699	tahun-tahun sebelumnya
+-0.9754	tambahan ini
+-0.9754	tambahan yang
+-0.8697	tampilan </s>	-0.2097
+-0.7993	tamu </s>	+0.0621
+-0.3222	tanda tangan
+-0.7532	tanggal berapa
+-1.1351	tanggal pastinya
+-0.5129	tanggapan </s>	-0.1622
+-0.3222	tanggung jawab
+-0.8662	tanpa alasan
+-0.7993	tanya dong
+-0.7993	tanya jawab
+-1.4013	tapi bagaimana
+-1.4013	tapi belum
+-1.4013	tapi masih
+-1.4013	tapi untuk
+-0.0448	teh hijau	+0.0002
+-0.6678	teknis </s>	-0.1622
+-0.6678	teknologi </s>	-0.1622
+-1.0211	teknologi dari	-0.2120
+-1.0211	teknologi di	-0.1943
+-1.6932	telah berhasil	-0.1637
+-1.6932	telah berjalan
+-1.6932	telah bersedia
+-1.3399	telah dibahas
+-1.3114	telah diberikan	-0.1284
+-1.6932	telah disediakan	-0.1437
+-1.6932	telah diterapkan
+-1.3114	telah hadir	-0.0508
+-1.3399	telah melakukan
+-1.6932	telah tercapai
+-0.4662	teman-teman semua	-0.0488
+-1.2516	teman-teman untuk
+-0.8697	teman-teman yang	-0.0759
+-1.2999	tempat acara
+-1.2999	tempat itu
+-1.2999	tempat kerja	-0.1666
+-1.2999	tempat mereka
+-0.9466	tempat yang
+-0.3222	tenda dan	-0.2170
+-0.8662	tentu akan
+-0.1909	tentu saja
+-1.1673	tentunya ini	-0.2159
+-0.6232	tepat waktu
+-0.9615	terakhir </s>	-0.2097
+-1.3433	terakhir ada
+-1.3433	terakhir adalah
+-0.9900	terakhir yaitu
+-0.7993	terbaik dalam
+-0.5580	terdapat beberapa	-0.0368
+-1.3433	terdapat juga
+-0.9900	terdapat kenaikan
+-0.3222	terdiri dari
+-0.4982	terhambat </s>	+0.0621
+-0.0088	terima kasih	-0.0282
+-1.1972	terjadi di
+-1.1972	terjadi karena
+-0.8439	terjadi pada
+-1.1972	terjadi peningkatan
+-1.0211	terkait </s>	+0.0621
+-0.3458	terkait dengan
+-0.7818	terlalu banyak
+-1.1351	terlalu terbuka
+-0.3222	terlebih dahulu	-0.0768
+-0.4638	tersebut </s>	+0.0621
+-1.5263	tersebut adalah
+-1.5263	tersebut antara	-0.0719
+-1.1730	tersebut dapat
+-0.7201	tersedia hanya	-0.1951
+-0.3668	tertentu </s>	-0.1622
+-1.1972	terus bekerja
+-1.1972	terus juga	-0.1904
+-0.9231	tes ini
+-0.6011	tes penuh
+-0.6011	tes persiapan	-0.0113
+-1.2516	tetapi orang
+-1.2516	tetapi untuk
+-0.7993	tiap kelas
+-1.7397	tidak </s>	-0.1622
+-0.4187	tidak ada	-0.0104
+-1.1688	tidak akan
+-2.0930	tidak banyak	-0.2047
+-2.0930	tidak bisa
+-1.7397	tidak dapat
+-2.0930	tidak melakukan
+-2.0930	tidak melebihi	+0.0621
+-2.0930	tidak mengganggu
+-2.0930	tidak pernah	-0.0528
+-2.0930	tidak saya
+-1.3916	tidak setuju	-0.0635
+-1.7397	tidak ya
+-1.1730	tiga bulan
+-1.1444	tiga dan	-0.0940
+-0.8509	tiga juta	-0.0970
+-1.1444	tiga minggu
+-1.5263	tiga orang
+-1.5263	tiga tahun
+-0.4399	tim pembentukan	+0.7880
+-1.1351	tingkat dasar
+-0.7532	tingkat tiga
+-0.4982	tipe barang
+-0.8662	topik ketiga
+-0.8662	topik pertama	-0.2060
+-0.7993	total dari
+-0.7201	tryout daring
+-0.7201	tryout secara	-0.1191
+-0.6680	tujuh belas	-0.1515
+-0.3222	tujuh belasan	+0.0240
+-0.9900	tujuh ratus	-0.0695
+-0.4982	turun </s>	+0.0621
+-0.8662	tutup pertemuan	-0.1218
+-0.5129	tutup rapat	-0.0576
+-0.8082	udah ada
+-1.4835	udah aku
+-1.4835	udah bisa
+-1.4835	udah dibuat
+-1.1302	udah selesai
+-0.5129	ujian nasional	-0.0412
+-0.1450	umpan balik
+-0.7201	umum divisi
+-0.4982	unggah ke	-0.2148
+-0.7201	universitas lain
+-1.6568	untuk acara	-0.0777
+-2.5810	untuk anak-anak
+-2.5810	untuk anggota
+-1.5185	untuk bagian	+0.1035
+-2.5810	untuk banyak
+-2.5810	untuk beberapa
+-2.5810	untuk bekerja
+-2.5810	untuk berdoa	-0.1865
+-2.2277	untuk bujet
+-2.1992	untuk bulan	-0.0813
+-2.5810	untuk detil
+-1.7957	untuk divisi	-0.1442
+-2.5810	untuk hadiah
+-2.2277	untuk hadir
+-2.5810	untuk hari
+-2.5810	untuk ibu
+-2.5810	untuk jenis
+-2.5810	untuk kartu
+-2.5810	untuk karyawan
+-2.2277	untuk kebutuhan
+-2.5810	untuk keperluan
+-2.5810	untuk kita
+-2.5810	untuk konsumsi
+-2.5810	untuk lebih
+-2.5810	untuk makan
+-1.8797	untuk masalah	-0.0445
+-2.5810	untuk materinya
+-1.6568	untuk melakukan	-0.0342
+-2.5810	untuk melaporkan
+-1.6568	untuk membahas	-0.0352
+-2.2277	untuk membuat
+-2.5810	untuk memikirkan
+-2.5810	untuk memilih
+-2.5810	untuk memperkenalkan
+-2.5810	untuk menambahkan
+-2.5810	untuk mencari
+-2.5810	untuk menentukan
+-2.5810	untuk mengenalkan
+-2.5810	untuk mengikuti
+-2.5810	untuk meningkatkan
+-1.9057	untuk menjadi
+-2.5810	untuk menyelesaikan
+-1.6568	untuk minggu	-0.2272
+-2.2277	untuk para
+-2.2277	untuk pejantan
+-2.5810	untuk pekerja
+-2.5810	untuk pembahasan
+-2.2277	untuk pengadaan
+-1.9057	untuk periode	-0.1953
+-2.5810	untuk permasalahan
+-2.1992	untuk perusahaan	-0.0826
+-2.5810	untuk poin	-0.1865
+-1.7957	untuk rapat	-0.0033
+-2.2277	untuk rencana	-0.0971
+-2.1992	untuk satu
+-2.5810	untuk segmen	+0.0480
+-2.2277	untuk sekarang
+-1.8797	untuk seksi	-0.2252
+-2.5810	untuk sementara
+-1.9057	untuk setiap
+-2.1992	untuk tahun	+0.0192
+-2.1992	untuk teman-teman	+0.0626
+-2.5810	untuk tidak
+-2.2277	untuk topik
+-1.6057	untuk yang	-0.0713
+-0.6232	upah karyawan	-0.2047
+-0.6232	user </s>	+0.0621
+-0.4844	usia dini	+0.0224
+-1.2764	usulan atau	-0.2100
+-0.9231	usulan lain	+0.0919
+-1.2764	usulan produk
+-0.9231	usulan yang	-0.1311
+-0.4982	utama yang
+-0.3222	validasi dan	-0.2170
+-0.2699	vendor yang
+-0.2699	wakil dari	-0.0538
+-1.3013	waktu </s>	-0.1622
+-1.3013	waktu dan	-0.1291
+-1.6546	waktu jam	+0.0643
+-1.6546	waktu pengerjaan
+-1.3013	waktu untuk
+-0.9532	waktu yang	-0.0287
+-0.5709	waktunya </s>	-0.1622
+-0.7201	web </s>	+0.0621
+-0.4109	ya </s>	+0.0621
+-1.9505	ya berarti
+-1.9505	ya jadi
+-1.9505	ya kita
+-1.1652	ya saya	-0.0939
+-1.2492	ya silakan	-0.1397
+-1.9505	ya terima	+1.4802
+-1.9505	ya yang
+-1.6122	yaitu hanya
+-1.6122	yaitu mengenai
+-1.6122	yaitu penyelesaian
+-1.6122	yaitu untuk
+-1.5077	yang ada	-0.3186
+-1.2204	yang akan	-0.1231
+-2.7329	yang anda
+-2.3796	yang bagian	-0.0428
+-2.3796	yang bagus
+-2.0316	yang bakal	-0.0922
+-1.7118	yang baru
+-2.3796	yang bekerja	-0.0827
+-1.9476	yang belum	-0.0504
+-2.3796	yang berhubungan	-0.1622
+-2.7329	yang berkaitan	+0.0621
+-2.7329	yang bertanggung	+0.0621
+-2.0576	yang bisa	-0.0601
+-2.3511	yang cukup	-0.1951
+-1.7118	yang dapat
+-2.7329	yang di
+-2.3511	yang dialokasikan	-0.1245
+-2.7329	yang dibawa
+-1.9476	yang diberikan	+0.2664
+-2.7329	yang dibutuhkan
+-2.7329	yang digunakan
+-2.7329	yang dihadapi
+-2.7329	yang diinginkan
+-2.7329	yang dikerjakan
+-2.7329	yang dimiliki	+0.0621
+-2.7329	yang disajikan
+-2.7329	yang disediakan
+-2.7329	yang gak
+-2.7329	yang hadir
+-2.0316	yang harus	-0.0146
+-2.7329	yang hilang
+-2.7329	yang ikut
+-1.8087	yang ingin	-0.0433
+-1.7118	yang ini	-0.0346
+-2.7329	yang itu
+-2.7329	yang juga
+-2.7329	yang kami
+-2.7329	yang kartu
+-2.7329	yang keberatan	+0.0621
+-2.7329	yang kedua
+-1.7118	yang kita	-0.0343
+-2.3796	yang kurang
+-1.5357	yang lain	-0.1730
+-2.3796	yang lalu
+-2.7329	yang lama
+-1.7576	yang lebih
+-1.7576	yang masih	-0.0319
+-1.5979	yang mau	-0.0984
+-2.3511	yang menarik
+-2.3796	yang mereka
+-2.3796	yang mungkin
+-2.7329	yang namanya
+-2.7329	yang pakai
+-1.6704	yang perlu	-0.0730
+-2.0316	yang pertama
+-2.3511	yang punya	-0.1559
+-2.3511	yang sama	-0.0765
+-1.7576	yang sangat	-0.0231
+-2.3511	yang sedang
+-2.7329	yang selama	-0.1937
+-2.7329	yang seperti
+-1.3501	yang sudah	-0.0463
+-1.2804	yang telah	-0.0601
+-1.8087	yang terakhir	-0.0598
+-2.0316	yang terjadi	-0.0720
+-2.3511	yang terlalu	-0.0173
+-2.0576	yang tersedia	+0.0170
+-1.6704	yang tidak	-0.2851
+-2.3796	yang udah
+-0.9754	yanto </s>	+0.0621
+-0.3000	yanto dan	-0.3009
+-0.4982	yel-yel </s>	+0.0621
+-0.3222	yeyen gimana
+
+\3-grams:
+-2.8619	</s> <s> <euh>
+-3.2465	</s> <s> <eum>
+-2.8619	</s> <s> <hem>
+-2.6769	</s> <s> <oh>
+-1.7469	</s> <s> ada
+-2.7123	</s> <s> agenda
+-2.6769	</s> <s> akan
+-2.0309	</s> <s> aku
+-3.2465	</s> <s> alasannya
+-2.7123	</s> <s> apa
+-2.5760	</s> <s> apabila
+-1.5651	</s> <s> apakah
+-3.2465	</s> <s> atau
+-2.7123	</s> <s> bagaimana
+-2.8619	</s> <s> bagi
+-3.2465	</s> <s> bagian
+-1.4289	</s> <s> baik
+-2.0657	</s> <s> baiklah
+-2.6769	</s> <s> bapak
+-3.2465	</s> <s> barang
+-3.2465	</s> <s> beberapa
+-2.7123	</s> <s> belum
+-2.7123	</s> <s> berarti
+-2.8619	</s> <s> berdasarkan
+-1.7469	</s> <s> berdoa
+-3.2465	</s> <s> betul
+-2.8619	</s> <s> biar
+-2.8619	</s> <s> bila
+-3.2465	</s> <s> biskuit
+-2.7123	</s> <s> boleh
+-2.5760	</s> <s> bu
+-2.4601	</s> <s> buat
+-3.2465	</s> <s> bukannya
+-3.2465	</s> <s> bulan
+-3.2465	</s> <s> coba
+-2.4601	</s> <s> cukup
+-2.0657	</s> <s> dan
+-3.2465	</s> <s> dapat
+-1.7469	</s> <s> dari
+-2.2418	</s> <s> dengan
+-2.4601	</s> <s> departemen
+-2.8619	</s> <s> di
+-3.2465	</s> <s> dimohon
+-3.2465	</s> <s> dipersilakan
+-3.2465	</s> <s> disini
+-3.2465	</s> <s> divisi
+-2.6769	</s> <s> doa
+-2.8619	</s> <s> dua
+-3.2465	</s> <s> finlandia
+-3.2465	</s> <s> fitur
+-2.0309	</s> <s> hal
+-3.2465	</s> <s> hanya
+-3.2465	</s> <s> harapan
+-2.7123	</s> <s> hari
+-3.2465	</s> <s> hasil
+-2.7123	</s> <s> ibu
+-2.6769	</s> <s> itu
+-2.1906	</s> <s> iya
+-1.4917	</s> <s> jadi
+-3.2465	</s> <s> jangan
+-2.1449	</s> <s> jika
+-3.2465	</s> <s> jumlah
+-1.6264	</s> <s> kalau
+-2.5760	</s> <s> kalo
+-2.4601	</s> <s> kami
+-1.8661	</s> <s> karena
+-3.2465	</s> <s> kartu
+-3.2465	</s> <s> karyawan
+-3.2465	</s> <s> katanya
+-2.1035	</s> <s> kemudian
+-2.5760	</s> <s> kenapa
+-3.2465	</s> <s> keputusan
+-3.2465	</s> <s> ketika
+-3.2465	</s> <s> khususnya
+-2.5760	</s> <s> kira-kira
+-1.9688	</s> <s> kita
+-1.9144	</s> <s> lalu
+-3.2465	</s> <s> lebih
+-2.7123	</s> <s> lomba
+-3.2465	</s> <s> lomba-lomba
+-2.6769	</s> <s> maka
+-3.2465	</s> <s> makan
+-2.8619	</s> <s> maksud
+-2.1906	</s> <s> mari
+-2.1906	</s> <s> masalah
+-2.7123	</s> <s> masih
+-2.8619	</s> <s> mau
+-3.2465	</s> <s> memang
+-1.9688	</s> <s> menurut
+-2.7123	</s> <s> menurutku
+-2.6769	</s> <s> mereka
+-3.2465	</s> <s> meskipun
+-2.8619	</s> <s> misalnya
+-1.9988	</s> <s> mungkin
+-1.7647	</s> <s> nah
+-2.0657	</s> <s> namun
+-2.7123	</s> <s> nanti
+-1.9988	</s> <s> oh
+-2.2418	</s> <s> ok
+-1.5538	</s> <s> oke
+-2.6769	</s> <s> oleh
+-2.1906	</s> <s> pada
+-3.2465	</s> <s> paket
+-2.8619	</s> <s> panitia
+-2.8619	</s> <s> pendapat
+-3.2465	</s> <s> pendidikan
+-2.8619	</s> <s> peningkatan
+-3.2465	</s> <s> peraturan
+-2.0657	</s> <s> pertama
+-3.2465	</s> <s> perusahaan
+-2.8619	</s> <s> produk-produk
+-3.2465	</s> <s> program
+-2.5760	</s> <s> rapat
+-2.7123	</s> <s> rencananya
+-2.8619	</s> <s> saat
+-3.2465	</s> <s> saatnya
+-3.2465	</s> <s> salam
+-2.5760	</s> <s> sama
+-3.2465	</s> <s> sampai
+-2.8619	</s> <s> saran
+-1.6397	</s> <s> saya
+-2.8619	</s> <s> sebagai
+-2.1906	</s> <s> sebelum
+-3.2465	</s> <s> sebelumnya
+-3.2465	</s> <s> sebenarnya
+-3.2465	</s> <s> secara
+-2.7123	</s> <s> sedangkan
+-3.2465	</s> <s> seharusnya
+-2.1035	</s> <s> sehingga
+-3.2465	</s> <s> sejauh
+-2.1035	</s> <s> sekarang
+-1.9688	</s> <s> sekian
+-3.2465	</s> <s> seksi
+-1.9988	</s> <s> selain
+-1.9688	</s> <s> selamat
+-2.0309	</s> <s> selanjutnya
+-3.2465	</s> <s> selesai
+-2.8619	</s> <s> semoga
+-2.4601	</s> <s> seperti
+-2.1906	</s> <s> sepertinya
+-2.1906	</s> <s> setelah
+-3.2465	</s> <s> silahkan
+-2.2418	</s> <s> silakan
+-2.8619	</s> <s> sistem
+-3.2465	</s> <s> soalnya
+-2.7123	</s> <s> sudah
+-3.2465	</s> <s> supaya
+-3.2465	</s> <s> tanggal
+-1.9688	</s> <s> tapi
+-2.8619	</s> <s> tentu
+-2.8619	</s> <s> tentunya
+-2.8619	</s> <s> terdapat
+-1.4045	</s> <s> terima
+-2.1906	</s> <s> terus
+-2.7123	</s> <s> tetapi
+-2.1906	</s> <s> tidak
+-3.2465	</s> <s> tolong
+-3.2465	</s> <s> topik
+-2.7123	</s> <s> tunggu
+-3.2465	</s> <s> udah
+-1.5216	</s> <s> untuk
+-3.2465	</s> <s> usulan
+-1.7299	</s> <s> ya
+-3.2465	</s> <s> yaitu
+-2.0657	</s> <s> yang
+-0.4026	<euh> tanggal berapa
+-0.4026	<oh> oke </s>
+-0.9467	<s> <oh> berarti
+-0.9467	<s> <oh> oke
+-0.8290	<s> ada lagi
+-0.4437	<s> ada pertanyaan
+-0.8290	<s> ada yang
+-0.7037	<s> agenda kita
+-0.7037	<s> agenda rapat
+-0.2762	<s> akan tetapi
+-1.2156	<s> aku belum
+-1.2156	<s> aku lihat
+-1.2156	<s> aku mau
+-1.2156	<s> aku sudah
+-0.7037	<s> apa saja
+-0.1648	<s> apakah ada
+-1.6814	<s> apakah sampai
+-0.7618	<s> baik </s>
+-1.8176	<s> baik aku
+-1.8176	<s> baik apakah
+-1.8176	<s> baik baik
+-1.4330	<s> baik pak
+-1.8176	<s> baik sekian
+-0.7160	<s> baik terima
+-0.6466	<s> baiklah kalau
+-1.1808	<s> baiklah mari
+-1.1808	<s> baiklah terima
+-0.5621	<s> bapak aji
+-0.9467	<s> bapak sam
+-0.7037	<s> belum ada
+-0.8290	<s> berdoa dicukupkan
+-0.9299	<s> berdoa dimulai
+-0.7132	<s> berdoa mulai
+-0.8290	<s> berdoa selesai
+-1.4995	<s> berdoa tidak
+-0.1941	<s> bila tidak
+-0.4026	<s> biskuit kehijauan
+-0.4160	<s> bu fatma
+-0.8006	<s> bu siti
+-0.4026	<s> bukannya minggu
+-0.2092	<s> cukup sekian
+-0.7962	<s> dan saya
+-1.1808	<s> dan yang
+-1.1150	<s> dari bagian
+-0.9654	<s> dari departemen
+-0.9654	<s> dari divisi
+-1.1150	<s> dari seksi
+-1.4995	<s> dari sini
+-1.0047	<s> dengan demikian
+-1.0047	<s> dengan pemikiran
+-0.8798	<s> departemen telekomunikasi
+-0.9467	<s> doa dimulai
+-0.9467	<s> doa selesai
+-0.9467	<s> doa sesuai
+-0.1941	<s> dua produk
+-0.0726	<s> hal ini
+-0.4026	<s> harapan kami
+-0.1695	<s> hari ini
+-0.7037	<s> ibu elisa
+-0.7037	<s> ibu susan
+-0.4125	<s> itu saja
+-1.0559	<s> iya </s>
+-1.0559	<s> iya terima
+-1.7548	<s> jadi <euh>
+-1.7548	<s> jadi ada
+-1.7548	<s> jadi dari
+-1.3702	<s> jadi mungkin
+-1.3702	<s> jadi seksi
+-0.4026	<s> jangan lupa
+-0.4311	<s> jika tidak
+-1.0859	<s> kalau begitu
+-1.6201	<s> kalau bu
+-0.5643	<s> kalau dari
+-0.5643	<s> kalau tidak
+-0.2664	<s> kalo dari
+-0.8798	<s> kami dari
+-1.3804	<s> karena dibuka
+-1.3804	<s> karena perusahaan
+-0.4026	<s> kartu selanjutnya
+-1.1430	<s> kemudian untuk
+-0.8006	<s> kira-kira apakah
+-0.6072	<s> kita akan
+-1.2777	<s> kita harus
+-1.2777	<s> kita juga
+-1.2777	<s> kita perlu
+-0.9475	<s> lalu kami
+-0.2762	<s> lalu untuk
+-0.5621	<s> maka dari
+-0.4026	<s> mari kita
+-1.0559	<s> masalah di
+-0.1941	<s> mau tanya
+-0.2218	<s> menurut saya
+-0.9467	<s> mereka cuma
+-1.2477	<s> mungkin bisa
+-1.2477	<s> mungkin sekian
+-1.4818	<s> nah ini
+-1.4818	<s> nah itu
+-1.4818	<s> nah mungkin
+-0.8113	<s> nah untuk
+-1.1808	<s> namun terdapat
+-0.7037	<s> nanti kami
+-0.8631	<s> oh gitu
+-1.2477	<s> oh iya
+-1.2477	<s> oh yang
+-1.3081	<s> oke </s>
+-1.0221	<s> oke aku
+-1.6927	<s> oke berarti
+-1.1585	<s> oke jadi
+-1.6927	<s> oke jika
+-1.3081	<s> oke kalau
+-1.0221	<s> oke terima
+-0.3771	<s> oleh karena
+-1.0559	<s> pada kesempatan
+-1.0559	<s> pada tahun
+-0.4026	<s> peraturan baru
+-1.1808	<s> pertama adalah
+-0.7962	<s> pertama kita
+-0.5787	<s> produk-produk tersebut
+-0.4026	<s> program ini
+-0.1941	<s> saat ini
+-0.4026	<s> salam sejahtera
+-0.8006	<s> sama buat
+-0.4026	<s> sampai disini
+-1.6068	<s> saya akan
+-0.8204	<s> saya ingin
+-1.6068	<s> saya mau
+-1.2222	<s> saya rasa
+-0.9362	<s> saya setuju
+-1.6068	<s> saya tidak
+-0.3853	<s> sebelum kita
+-0.4026	<s> secara umum
+-0.3191	<s> sedangkan untuk
+-1.1430	<s> sehingga dapat
+-1.1430	<s> sehingga mungkin
+-1.1430	<s> sehingga saya
+-0.4026	<s> sejauh ini
+-0.6088	<s> sekarang kita
+-1.1430	<s> sekarang mari
+-0.1347	<s> sekian dari
+-1.2777	<s> sekian saja
+-0.4026	<s> selain itu
+-0.8931	<s> selamat pagi
+-0.2218	<s> selamat siang
+-1.2777	<s> selamat sore
+-1.2156	<s> selanjutnya divisi
+-1.2156	<s> selanjutnya kirim
+-0.8310	<s> selanjutnya kita
+-1.2156	<s> selanjutnya seksi
+-0.4026	<s> selesai </s>
+-0.8798	<s> seperti biasanya
+-0.6713	<s> sepertinya tidak
+-0.2695	<s> setelah itu
+-1.0047	<s> silakan dimulai
+-1.2777	<s> tapi bagaimana
+-1.2777	<s> tapi untuk
+-0.5787	<s> tentu saja
+-0.4026	<s> terima kasih
+-0.0512	<s> tidak ada
+-1.3403	<s> untuk bagian
+-1.7249	<s> untuk jenis
+-1.7249	<s> untuk lebih
+-1.7249	<s> untuk masalah
+-1.7249	<s> untuk rapat
+-1.3403	<s> untuk seksi
+-1.7249	<s> untuk yang
+-1.5166	<s> ya jadi
+-0.7302	<s> ya saya
+-0.9470	<s> ya silakan
+-1.5166	<s> ya terima
+-0.6466	<s> yang ini
+-0.4026	a untuk periode
+-0.4026	acara </s> <s>
+-0.4026	acara lari mendaki
+-0.7037	acara nanti </s>
+-0.4026	acara revolusi mental
+-0.6201	acara tujuh belas
+-0.3342	acara tujuh belasan
+-0.4026	ada </s> <s>
+-0.4026	ada benarnya </s>
+-1.2477	ada di drive
+-1.2477	ada di korea
+-1.2477	ada di perusahaan
+-0.5787	ada dua poin
+-0.5787	ada hal yang
+-1.0047	ada lagi </s>
+-0.4705	ada lagi yang
+-0.5787	ada lima lomba
+-1.0047	ada masalah </s>
+-0.6201	ada masalah dengan
+-1.0047	ada masalah yang
+-0.5787	ada pendapat dari
+-0.2609	ada pertanyaan </s>
+-1.2084	ada pertanyaan dari
+-1.2084	ada pertanyaan lagi
+-1.0588	ada pertanyaan lain
+-0.4026	ada saat ini
+-0.5787	ada sesi tampilan
+-0.5621	ada tanggapan </s>
+-0.4026	ada terima kasih
+-1.4995	ada yang bisa
+-1.4995	ada yang ingin
+-1.4995	ada yang keberatan
+-0.8290	ada yang mau
+-1.4995	ada yang namanya
+-1.4995	ada yang perlu
+-1.1150	ada yang punya
+-0.8290	ada yang tidak
+-0.4026	adik-adik kelas kita
+-0.1695	agama masing-masing </s>
+-0.4026	agenda kita pada
+-0.4026	agenda rapat kita
+-0.4026	aja </s> <s>
+-0.5787	akan berjaga di
+-0.4026	akan berlanjut ke
+-0.5787	akan datang </s>
+-0.5787	akan digunakan untuk
+-0.8006	akan dilaksanakan sekitar
+-0.1695	akan dipimpin oleh
+-0.5787	akan ditempatkan pada
+-0.4026	akan ditugaskan untuk
+-0.7170	akan kita bahas
+-0.4026	akan melanjutkan ke
+-0.8798	akan melaporkan adalah
+-0.8798	akan melaporkan perkembangan
+-0.7321	akan membahas masalah
+-0.7321	akan membahas mengenai
+-1.4026	akan membahas tentang
+-0.4026	akan membebani keuangan
+-0.4026	akan memikirkannya lagi
+-0.4026	akan menambah efektivitas
+-0.4026	akan menjadwalkan meeting
+-0.3191	akan menjelaskan detil
+-0.7037	akan mulai masuk
+-1.0559	akan saya berikan
+-0.4026	akan terus bekerja
+-0.4952	akhir bulan depan
+-0.8798	akhir bulan ini
+-0.4026	aktif di pasaran
+-0.4026	aku enggak </s>
+-0.5787	aku mulai dari
+-0.4026	aku unggah ke
+-0.7037	alat bantu yang
+-0.1695	anak usia dini
+-0.4026	anggaran </s> <s>
+-0.1941	apa </s> <s>
+-0.3191	apa ada pertanyaan
+-0.9467	apa aja </s>
+-0.9467	apa aja yang
+-0.0458	apa saja yang
+-0.4026	apa tidak ya
+-0.7584	apa yang telah
+-1.8092	apakah ada lagi
+-1.4246	apakah ada masalah
+-1.8092	apakah ada masukan
+-1.8092	apakah ada pendapat
+-1.4246	apakah ada permasalahan
+-0.6284	apakah ada pertanyaan
+-1.4246	apakah ada saran
+-1.8092	apakah ada tanggapan
+-0.6662	apakah ada yang
+-0.4026	apakah sampai disini
+-0.1695	aplikasi </s> <s>
+-0.4026	aplikasi untuk perusahaan
+-0.4026	aqua </s> <s>
+-0.4026	atas laporannya </s>
+-0.1695	atas pembahasan yang
+-0.0934	atas pertanyaannya </s>
+-0.1941	atas waktu yang
+-0.7037	atas waktunya </s>
+-0.4026	atau pendapat lagi
+-0.1695	bagaimana </s> <s>
+-0.4026	bagi </s> <s>
+-0.7037	bagi perusahaan </s>
+-0.5787	bagi yang tidak
+-0.4026	bagian relasi karyawan
+-0.6713	bagian tampilan </s>
+-0.4026	bagus </s> <s>
+-0.5787	bagus untuk acara
+-0.4952	bahan baku </s>
+-0.4026	baik </s> <s>
+-0.4026	baik apakah ada
+-0.4026	baik baik usulan
+-0.4026	baik lagi </s>
+-0.4026	baik sekian untuk
+-0.1941	baik selamat siang
+-0.4026	baik terima kasih
+-0.3191	baiklah kalau begitu
+-0.4026	baiklah mari kita
+-0.4026	baiklah terima kasih
+-0.5787	bakal dipelajari di
+-0.5787	bakat mereka </s>
+-0.1941	baku </s> <s>
+-0.4026	bapak dan ibu
+-0.4026	bapak-bapak dan ibu-ibu
+-0.4026	barang </s> <s>
+-1.0047	barang yang sama
+-0.4026	baru </s> <s>
+-0.4026	baru bulan depan
+-0.4160	baru ini kira-kira
+-0.5621	baru yang akan
+-0.5787	beberapa hal yang
+-0.5787	beberapa orang yang
+-0.1941	begitu </s> <s>
+-0.7037	begitu kita setuju
+-0.4026	bekas </s> <s>
+-0.1300	bekerja </s> <s>
+-0.5787	bekerja dengan lebih
+-0.7037	bekerja di bagian
+-0.4026	belajar melalui permainan
+-0.4026	belas </s> <s>
+-0.1941	belasan </s> <s>
+-0.4026	benarnya </s> <s>
+-0.3456	berapa poin </s>
+-0.1300	berdoa dicukupkan </s>
+-0.2762	berdoa dimulai </s>
+-0.9467	berdoa dimulai menurut
+-0.0934	berdoa mulai </s>
+-0.2664	berdoa selesai </s>
+-0.5787	berdoa sesuai dengan
+-0.4026	berdoa tidak pernah
+-0.4026	berhasil dilakukan </s>
+-0.1695	berikut </s> <s>
+-0.4026	berikutnya </s> <s>
+-0.4026	berikutnya saya akan
+-0.7037	berjaga di acara
+-0.4026	berjalan </s> <s>
+-0.2762	berjalan dengan lancar
+-0.4026	bersama pembicara tamu
+-0.4026	bersama setelah lomba
+-0.4026	bersedia hadir pada
+-0.4026	bersedia untuk menjadi
+-0.4026	bertanya </s> <s>
+-0.1300	besar </s> <s>
+-0.4026	biaya lombanya </s>
+-0.9467	biaya yang cukup
+-0.9467	biaya yang harus
+-0.5787	bidang teknologi </s>
+-0.1941	bila tidak ada
+-0.1941	bisa digunakan untuk
+-0.4026	bisa dimulai dari
+-0.4026	bisa selesai minggu
+-0.4026	bisnis </s> <s>
+-1.0047	bu fatma apakah
+-1.0047	bu fatma dari
+-0.6201	bu siti </s>
+-0.6201	bu siti dari
+-0.1941	buat massa yang
+-0.4026	bujet yang diberikan
+-0.4026	buka terlebih dahulu
+-0.4026	bulan </s> <s>
+-0.4026	bulan dari sekarang
+-0.2478	bulan depan </s>
+-1.4633	bulan depan akan
+-0.7037	bulan desember </s>
+-0.1383	bulan ini </s>
+-0.5787	bulan lalu </s>
+-0.3456	bulan terakhir </s>
+-0.1603	butuh berapa poin
+-0.1300	cukup </s> <s>
+-0.4952	cukup sekian dari
+-0.4026	cumi goreng tepung
+-0.3771	dahulu </s> <s>
+-0.4026	dahulu dengan doa
+-0.5787	dalam bentuk apa
+-0.5787	dalam bidang teknologi
+-0.8006	dalam pendidikan dasar
+-0.1941	dan agama masing-masing
+-0.4026	dan bakat mereka
+-0.5787	dan bu fatma
+-0.5787	dan di jepang
+-0.1941	dan dokumentasi </s>
+-0.4026	dan ibu-ibu sekalian
+-0.6863	dan juga bu
+-1.3569	dan juga mas
+-0.4160	dan medis </s>
+-0.4026	dan salam sejahtera
+-0.4026	dan sesi bincang-bincang
+-0.4026	dan terima kasih
+-0.5787	dan tidak ada
+-0.1603	dan yang terakhir
+-0.4026	dana dan jadwal
+-0.4026	dana lebih untuk
+-0.5787	dana tambahan yang
+-0.3191	dana yang dialokasikan
+-0.4026	dapat bekerja dengan
+-0.5787	dapat berjalan dengan
+-0.7037	dapat digunakan untuk
+-0.7037	dapat dikatakan bahwa
+-0.2664	dapat dilihat sebagai
+-0.4026	dapat disesuaikan </s>
+-0.4026	dapat pindah ke
+-0.4026	dapat satu sponsor
+-0.4952	dari acara </s>
+-0.8006	dari aku enggak
+-0.6088	dari bagian pemrosesan
+-1.1430	dari bagian proses
+-1.1430	dari bagian tampilan
+-0.5787	dari bidang internal
+-1.3804	dari departemen internal
+-0.3245	dari departemen keuangan
+-0.5940	dari departemen logistik
+-1.7918	dari divisi acara
+-1.1213	dari divisi it
+-1.7918	dari divisi kekeluargaan
+-1.2576	dari divisi keuangan
+-1.7918	dari divisi lain
+-1.4072	dari divisi logistik
+-1.7918	dari divisi pemasaran
+-1.4072	dari divisi pembelian
+-1.2222	dari divisi pengadaan
+-1.7918	dari divisi pengelolaan
+-1.2576	dari divisi penjualan
+-1.7918	dari divisi riset
+-0.1941	dari pembahasan ini
+-0.1941	dari pertemuan ini
+-0.8006	dari perusahaan </s>
+-0.4026	dari rapat sebelumnya
+-0.6713	dari saya </s>
+-0.7037	dari segi logistik
+-0.1941	dari sekarang </s>
+-1.2156	dari seksi acara
+-0.8310	dari seksi logistik
+-0.6814	dari seksi pendanaan
+-0.8310	dari seksi sponsor
+-0.7037	dari seluruh karyawan
+-0.4026	dari sponsor </s>
+-0.3191	dari tahun sebelumnya
+-0.8006	dari teman-teman semua
+-0.7037	dari tim pembentukan
+-0.4026	dari yeyen gimana
+-0.4026	daring </s> <s>
+-0.1695	dasar </s> <s>
+-0.1941	datang </s> <s>
+-0.4125	daya manusia </s>
+-0.5787	delapan puluh persen
+-0.4311	dengan baik </s>
+-1.1016	dengan baik dan
+-1.1016	dengan doa </s>
+-1.1016	dengan doa juga
+-1.1016	dengan doa marilah
+-0.4026	dengan harga yang
+-0.4026	dengan hasil perhitungan
+-0.1941	dengan keyakinan masing-masing
+-0.1603	dengan lancar </s>
+-0.5787	dengan lebih baik
+-0.1695	dengan membaca doa
+-0.4026	dengan pemikiran seperti
+-0.4026	dengan pilihan a
+-0.4026	dengan selera konsumen
+-0.4026	depan </s> <s>
+-0.4026	departemen </s> <s>
+-0.4026	departemen kaderisasi </s>
+-0.7170	departemen keuangan </s>
+-1.1016	departemen keuangan dan
+-1.1016	departemen keuangan sendiri
+-0.5674	departemen logistik </s>
+-1.1016	departemen logistik akan
+-1.1016	departemen logistik apakah
+-0.5787	departemen software </s>
+-0.1695	departemen yang lain
+-0.4026	desember </s> <s>
+-0.1941	detil dari pembahasan
+-0.4026	developer </s> <s>
+-1.0559	di acara </s>
+-1.0559	di acara nanti
+-1.0559	di acara tujuh
+-0.5621	di akhir bulan
+-0.7037	di bagian produksi
+-0.4160	di divisi pengadaan
+-0.5787	di dunia </s>
+-0.4026	di jakarta </s>
+-0.5787	di korea dan
+-0.4026	di lantai tiga
+-0.1941	di pasar malam
+-1.0047	di perusahaan ini
+-0.6201	di perusahaan kita
+-0.5787	di tahun ajaran
+-0.1941	dialokasikan </s> <s>
+-0.1941	dibahas </s> <s>
+-0.4026	dibahas lebih lanjut
+-0.4026	dibanding yang lain
+-0.5787	dibawa ke minggu
+-0.1300	diberikan </s> <s>
+-0.8006	diberikan oleh departemen
+-0.8006	diberikan oleh seksi
+-0.5787	dibuka dengan doa
+-0.0934	dicukupkan </s> <s>
+-0.4026	dikasih logo aqua
+-0.1941	dilakukan </s> <s>
+-0.4026	dilanjut ke departemen
+-0.1941	dilanjutkan dengan divisi
+-0.4026	dilaporkan </s> <s>
+-0.1695	dilihat sebagai berikut
+-0.4026	dimulai </s> <s>
+-0.8006	dimulai dari divisi
+-0.4026	dimulai menurut kepercayaan
+-0.4026	dini </s> <s>
+-0.1695	dipersilakan </s> <s>
+-0.7037	dipersilakan untuk berdoa
+-0.7037	dipimpin oleh saudara
+-0.4026	disampaikan </s> <s>
+-0.4026	disediakan pada gudang
+-0.4026	disesuaikan </s> <s>
+-0.4026	disini apakah ada
+-0.5787	ditempatkan pada divisi
+-0.4026	ditugaskan untuk mencari
+-0.0934	divisi </s> <s>
+-0.1941	divisi hubungan masyarakat
+-0.7962	divisi it </s>
+-0.7962	divisi it kami
+-0.5621	divisi keuangan </s>
+-0.9467	divisi keuangan ada
+-0.7584	divisi logistik </s>
+-0.1695	divisi pemasaran </s>
+-0.2664	divisi pembelian </s>
+-0.4913	divisi pengadaan </s>
+-1.2777	divisi pengadaan akan
+-0.1941	divisi pengelolaan sumber
+-0.1941	divisi pengembangan bisnis
+-0.8798	divisi penjualan </s>
+-0.4026	divisi penulis konten
+-0.1941	divisi riset produk
+-0.5787	divisi sponsor </s>
+-0.1941	divisi sumber daya
+-0.6201	divisi teknis </s>
+-0.4026	divisi tempat mereka
+-0.8006	divisi yang ada
+-0.0934	doa </s> <s>
+-0.4026	doa dimulai </s>
+-0.4026	doa juga </s>
+-0.4026	doa marilah kita
+-0.4026	doa selesai </s>
+-0.1695	doa sesuai dengan
+-0.4026	doa terlebih dahulu
+-0.1695	dokumentasi </s> <s>
+-0.4026	dua </s> <s>
+-0.2183	dua produk ini
+-0.4125	dua ribu sembilan
+-0.1941	dulu </s> <s>
+-0.4026	dunia </s> <s>
+-0.4026	elektronik </s> <s>
+-0.4026	elisa sebagai ketua
+-0.1603	empat bulan terakhir
+-0.1695	enggak </s> <s>
+-0.4026	ensof </s> <s>
+-0.4026	fatma dari departemen
+-0.1941	finlandia </s> <s>
+-0.4026	fitur pemesanan daring
+-0.4026	fitur utama yang
+-0.7037	fitur yang sangat
+-0.4026	fix </s> <s>
+-0.4026	flyer </s> <s>
+-0.1941	futsal </s> <s>
+-0.1695	gimana </s> <s>
+-0.4026	git </s> <s>
+-0.4026	github </s> <s>
+-0.1695	gitu </s> <s>
+-0.1695	gudang </s> <s>
+-0.4125	gudang nomer satu
+-0.9467	gudang nomer tiga
+-0.4026	gunakan untuk periode
+-0.8798	hadir pada hari
+-0.4952	hadir pada rapat
+-1.2777	hal ini akan
+-0.8931	hal ini dapat
+-1.0559	hal yang telah
+-0.4026	haluluntur </s> <s>
+-0.4026	hanya itu saja
+-0.4026	harapan kami mereka
+-0.1695	hari </s> <s>
+-0.3522	hari ini </s>
+-1.7548	hari ini apakah
+-1.0843	hari ini dengan
+-1.0843	hari ini kita
+-1.3702	hari ini saya
+-1.7548	hari ini yaitu
+-0.4026	hari libur nasional
+-0.4026	harinya </s> <s>
+-0.7037	harus melakukan sesuatu
+-0.5787	hasil perhitungan ini
+-0.5787	hati haluluntur </s>
+-0.4026	hijau </s> <s>
+-0.5787	hubungan masyarakat </s>
+-0.5787	ibu elisa sebagai
+-0.7037	ibu susan </s>
+-0.7037	ibu susan sebagai
+-0.7037	implementasi desain dasarnya
+-0.1695	indonesia </s> <s>
+-0.2762	ingin bertanya </s>
+-0.4026	ini </s> <s>
+-1.2777	ini akan kita
+-0.8931	ini akan membahas
+-0.5787	ini apakah ada
+-0.4026	ini berhubungan dengan
+-0.5621	ini dengan doa
+-0.4125	ini dengan membaca
+-0.1695	ini kira-kira butuh
+-0.4311	ini kita akan
+-0.5217	ini saya akan
+-0.4026	ini sepertinya dua
+-1.0559	ini sudah sesuai
+-0.5787	ini telah diterapkan
+-0.4026	ini terima kasih
+-0.8798	ini tidak ada
+-0.7037	ini untuk membahas
+-0.4026	internal perusahaan </s>
+-0.4026	inventarisasi </s> <s>
+-0.1941	it </s> <s>
+-0.1941	itu </s> <s>
+-1.0047	itu ada beberapa
+-1.0047	itu ada sesi
+-0.5787	itu akan dipertimbangkan
+-0.7037	itu bisa digunakan
+-0.5787	itu dari saya
+-0.4026	itu mereka akan
+-1.0047	itu saja </s>
+-0.6201	itu saja dari
+-1.0047	itu saja yang
+-0.8006	itu saya juga
+-0.4026	itu ya </s>
+-0.4026	iya </s> <s>
+-0.4026	iya terima kasih
+-0.4026	jakarta </s> <s>
+-0.9467	jam kerja ini
+-0.8006	jangan lupa buat
+-0.4026	jelas </s> <s>
+-0.7037	jenis tes ini
+-0.4026	jika memang membutuhkan
+-0.3342	jika tidak ada
+-0.7037	jualan di pasar
+-0.0934	juga </s> <s>
+-0.8006	juga bu fatma
+-0.4160	juga bu siti
+-0.4026	jumat </s> <s>
+-0.4026	juta rupiah </s>
+-0.7037	juta untuk kebutuhan
+-0.1941	kaderisasi </s> <s>
+-1.1016	kalau begitu </s>
+-0.7170	kalau begitu kita
+-0.7170	kalau begitu saya
+-0.5217	kalau dari aku
+-0.0378	kalau tidak ada
+-0.4026	kali </s> <s>
+-0.7037	kali dan bagi
+-0.2632	kali ini </s>
+-1.4440	kali ini akan
+-1.4440	kali ini kita
+-0.6814	kalo dari eben
+-1.2156	kalo dari perizinan
+-1.2156	kalo dari yeyen
+-0.4026	kalo gitu </s>
+-0.4026	kami </s> <s>
+-0.3191	kami dari divisi
+-0.8006	kami juga berencana
+-0.4026	kami memiliki rencana
+-0.4026	kami selama empat
+-0.1300	kan </s> <s>
+-0.4026	kan ya </s>
+-0.4026	kapan ya </s>
+-0.4026	karena dibuka dengan
+-0.8798	karena itu saya
+-0.4026	kartu lagi untuk
+-0.1941	karyawan </s> <s>
+-0.8006	karyawan baru akan
+-0.8006	karyawan baru yang
+-0.4026	karyawan tahun depan
+-0.9467	karyawan yang ada
+-0.9467	karyawan yang bekerja
+-0.4026	kas </s> <s>
+-0.4026	kasih </s> <s>
+-1.4995	kasih atas laporan
+-1.4995	kasih atas laporannya
+-1.1150	kasih atas pembahasan
+-0.8290	kasih atas pertanyaannya
+-1.1150	kasih atas waktu
+-1.1150	kasih atas waktunya
+-0.7037	kasih buat massa
+-0.5787	kasih juga untuk
+-0.4026	kasih laporannya </s>
+-0.5787	kasih moderator </s>
+-0.5787	kasih sudah datang
+-1.2156	kasih untuk ibu
+-1.2156	kasih untuk seksi
+-0.7037	ke aplikasi </s>
+-0.1941	ke basis data
+-0.1300	ke lokasi baru
+-0.1941	ke minggu ini
+-0.1941	ke moderator </s>
+-0.4026	ke proyektor </s>
+-0.1695	ke rumah rumah
+-0.4026	keberatan </s> <s>
+-0.4026	keberhasilan telah tercapai
+-0.4026	kecil </s> <s>
+-0.4026	kehijauan </s> <s>
+-0.4026	kelemahannya </s> <s>
+-0.1695	kemarin </s> <s>
+-0.4026	kembalikan ke moderator
+-0.4026	kemudian dari divisi
+-0.4026	kemudian hari </s>
+-0.5787	kendala yang dihadapi
+-0.8006	kepada divisi konsumsi
+-0.4026	kepada penanggung jawab
+-0.4026	kepala departemen tersebut
+-0.1941	kepercayaan dan agama
+-0.4026	kepercayaan masing-masing </s>
+-0.5787	keripik kehijauan </s>
+-0.1941	kerja </s> <s>
+-0.5787	kerupuk lomba memasukkan
+-0.1695	ketua dari divisi
+-0.3771	keuangan </s> <s>
+-0.5787	keuangan dan juga
+-0.4160	keuangan perusahaan </s>
+-0.4026	keuangan sendiri apakah
+-0.1941	keyakinan masing-masing </s>
+-0.4026	kira-kira <euh> tanggal
+-0.4026	kira-kira apakah ada
+-0.1300	kira-kira butuh berapa
+-0.4026	kita </s> <s>
+-1.5787	kita akan berlanjut
+-1.5787	kita akan melakukan
+-0.3979	kita akan membahas
+-1.5787	kita akan menggunakan
+-0.5787	kita buka dengan
+-0.4026	kita gunakan untuk
+-0.4026	kita hari ini
+-0.8798	kita harus melakukan
+-0.7037	kita lakukan </s>
+-0.5787	kita lanjut ke
+-0.8798	kita lanjutkan ke
+-1.2477	kita mulai mari
+-0.8631	kita mulai pertemuan
+-0.5772	kita mulai rapat
+-0.6201	kita perlu melakukan
+-0.8798	kita sudah ada
+-0.8798	kita tutup pertemuan
+-0.4952	kita tutup rapat
+-0.7037	kita untuk minggu
+-0.1941	kondisi keuangan perusahaan
+-0.4026	konfirmasi ke puma
+-0.4026	konstruksi mengalami keterlambatan
+-0.4026	konsumen </s> <s>
+-0.4026	konsumsi </s> <s>
+-0.4026	korea dan di
+-0.7037	kunjungan ke unpad
+-0.4026	kupon </s> <s>
+-0.3191	kusni dan juga
+-0.4026	lagi </s> <s>
+-0.4026	lagi terima kasih
+-0.8798	lagi untuk bagian
+-0.2664	lagi yang mau
+-0.4026	lain </s> <s>
+-0.4026	lainnya </s> <s>
+-0.4026	lakukan </s> <s>
+-0.4026	lalu </s> <s>
+-0.8006	lalu kami sudah
+-1.1016	lalu untuk poin
+-1.1016	lalu untuk rencana
+-0.0934	lancar </s> <s>
+-0.4026	langkah selanjutnya </s>
+-0.1300	lanjut </s> <s>
+-0.4026	lanjutkan </s> <s>
+-0.2092	lapangan dan medis
+-0.3191	laporan dari seksi
+-0.1695	laporannya </s> <s>
+-0.9723	lari mendaki </s>
+-0.6863	lari mendaki ini
+-1.3569	lari mendaki itu
+-1.3569	lari mendaki pada
+-1.1430	lebih baik daripada
+-1.1430	lebih baik lagi
+-0.5787	lebih fokus pada
+-0.7321	lebih lanjut </s>
+-1.4026	lebih lanjut mengenai
+-1.0180	lebih lanjut oleh
+-1.0180	lebih lanjut untuk
+-0.5787	lebih untuk melakukan
+-0.4026	liburan </s> <s>
+-0.5787	lima belas november
+-0.4026	lima lomba yang
+-0.4026	logistik </s> <s>
+-0.4026	logistik apakah ada
+-0.8006	lokasi baru </s>
+-0.8006	lokasi baru bulan
+-0.0934	lomba </s> <s>
+-0.8798	lomba futsal </s>
+-0.1695	lomba makan kerupuk
+-0.1695	lomba memasukkan kelereng
+-0.1941	lomba pembuatan kostum
+-0.4026	lomba tiga juta
+-0.4026	lomba tujuh belasan
+-0.4026	lomba yel-yel </s>
+-0.4026	lombanya </s> <s>
+-0.5787	maka dari itu
+-0.4026	makan bersama setelah
+-0.3191	makan kerupuk lomba
+-0.1941	maksimal </s> <s>
+-0.4026	mana </s> <s>
+-0.1695	manusia </s> <s>
+-1.4026	mari kita buka
+-0.8685	mari kita lanjutkan
+-0.6163	mari kita mulai
+-0.8685	mari kita tutup
+-0.4952	mas kusni dan
+-0.9467	mas yanto </s>
+-0.4125	mas yanto dan
+-0.4026	masalah </s> <s>
+-0.8006	masalah dengan hasil
+-0.8798	masalah ini </s>
+-0.5787	masih sangat kecil
+-0.4026	masing-masing </s> <s>
+-0.4026	masuk </s> <s>
+-1.0559	masuk ke aplikasi
+-1.0559	masuk ke divisi
+-0.4026	masukannya </s> <s>
+-0.1300	masyarakat </s> <s>
+-0.4026	masyarakat setempat </s>
+-0.7037	mata pelajaran yang
+-0.1695	mau bertanya </s>
+-0.7037	mau tanya dong
+-0.1695	medis </s> <s>
+-0.4026	melakukan research lebih
+-0.4026	melaporkan adalah divisi
+-0.4026	melaporkan perkembangan divisi
+-0.4026	melebihi dana yang
+-0.4026	memang membutuhkan dana
+-0.7037	memasukkan kelereng estavet
+-0.1695	membaca doa </s>
+-0.5787	membahas apa saja
+-0.5787	membahas perkembangan perusahaan
+-0.4026	membebani keuangan perusahaan
+-0.4026	membutuhkan dana lebih
+-0.1941	memiliki rasa teh
+-0.4026	memiliki rencana untuk
+-0.4026	meminta pendapat dari
+-0.4026	mencapai sembilan puluh
+-0.1941	mendaki </s> <s>
+-0.4026	menentukan langkah selanjutnya
+-0.4026	mengadakan lari mendaki
+-0.4026	mengenai kondisi perusahaan
+-0.1941	menjelaskan detil dari
+-0.4026	menurut mereka tempat
+-1.2477	menurut saya </s>
+-0.8631	menurut saya kita
+-1.2477	menurut saya pribadi
+-0.4026	menurut yang lain
+-0.4026	menyediakan kotak sumbangan
+-0.4026	mereka </s> <s>
+-1.1808	mereka akan bergabung
+-1.1808	mereka akan ditempatkan
+-1.1808	mereka akan mulai
+-0.4026	mereka cuma minta
+-0.4026	mereka tempat itu
+-0.4026	minat dan bakat
+-0.1695	minggu </s> <s>
+-0.4952	minggu depan </s>
+-0.7435	minggu ini </s>
+-0.7170	minggu lalu </s>
+-1.1016	minggu lalu kami
+-0.4026	minggu yang lalu
+-0.3771	moderator </s> <s>
+-0.0934	mulai </s> <s>
+-0.8798	mulai dari divisi
+-0.4026	mulai mari kita
+-0.4026	mulai masuk ke
+-0.5787	mulai pertemuan pada
+-0.8006	mulai rapat hari
+-0.7037	mungkin bisa dikomunikasikan
+-0.7037	mungkin bisa dimulai
+-0.1941	mungkin saya akan
+-0.8798	nah untuk sekarang
+-0.1695	nanti </s> <s>
+-1.1016	nanti akan dibicarakan
+-1.1016	nanti akan ditugaskan
+-0.7170	nanti akan saya
+-0.4026	nasional maupun sbmptn
+-0.4026	negara </s> <s>
+-0.4026	nih </s> <s>
+-0.7037	nomer satu sampai
+-0.5787	nomer tiga dan
+-0.4026	oh yang itu
+-0.1300	oke </s> <s>
+-0.4026	oke jika tidak
+-0.1300	oke terima kasih
+-0.4026	oleh departemen logistik
+-0.2762	oleh karena itu
+-0.5787	oleh mas yanto
+-0.6201	oleh seksi acara
+-0.6201	oleh seksi konsumsi
+-0.9467	orang yang akan
+-0.9467	orang yang dapat
+-0.7037	orang-orang yang akan
+-0.5787	pada acara tujuh
+-0.4026	pada akhir bulan
+-0.9467	pada bulan depan
+-0.9467	pada bulan ini
+-0.7037	pada divisi masing-masing
+-0.1941	pada empat bulan
+-0.4160	pada gudang nomer
+-0.0322	pada hari ini
+-0.7037	pada level pendidikan
+-0.4026	pada peningkatan penjualan
+-0.7037	pada pertemuan selanjutnya
+-0.7170	pada rapat kali
+-0.4026	pada siang hari
+-0.4026	pada tahun ini
+-0.1695	pagi </s> <s>
+-0.0934	pak </s> <s>
+-0.5787	paket emas ini
+-0.4026	panitia </s> <s>
+-0.5787	parameter keberhasilan telah
+-0.4026	pasifik </s> <s>
+-0.1941	pekerjaan </s> <s>
+-0.1695	pemasaran </s> <s>
+-0.7037	pembahasan dari seksi
+-0.1941	pembahasan ini </s>
+-0.8006	pembahasan yang diberikan
+-0.4160	pembahasan yang telah
+-0.1695	pembelian </s> <s>
+-0.8798	pembentukan aplikasi </s>
+-0.4026	pemberitahuan dari bagian
+-0.4026	pembicara </s> <s>
+-0.8006	pembicara tamu </s>
+-0.5787	pembuatan kostum dari
+-0.4026	pemesanan ke basis
+-0.1695	pendanaan </s> <s>
+-1.0047	pendapat dari divisi
+-1.0047	pendapat dari teman-teman
+-0.4026	pendidikan </s> <s>
+-0.3191	pendidikan anak usia
+-0.8798	pendidikan dasar </s>
+-0.5787	pendidikan tingkat dasar
+-0.0934	pengadaan </s> <s>
+-0.8006	pengadaan barang yang
+-0.1941	pengelolaan sumber daya
+-0.1941	pengguna </s> <s>
+-0.8006	penggunaan gudang nomer
+-0.4026	pengmas </s> <s>
+-0.7037	penjual baru </s>
+-0.1300	penjualan </s> <s>
+-0.5787	penjualan tahun ini
+-0.7037	peraturan baru ini
+-0.1941	perdana hari ini
+-0.4026	perhitungan ini </s>
+-0.3191	periode bulan ini
+-0.1941	periode saat ini
+-0.7037	perkembangan perusahaan </s>
+-0.4026	perlu diisi dan
+-0.3456	perlu kita bahas
+-0.8798	perlu kita perhatikan
+-0.4026	permintaan </s> <s>
+-0.4026	pernah selesai </s>
+-0.1941	persen </s> <s>
+-0.8798	persen dari seluruh
+-0.8798	persen dari total
+-0.4026	persiapan </s> <s>
+-0.1941	pertama </s> <s>
+-0.7037	pertama adalah mengenai
+-0.1941	pertama kita akan
+-0.4026	pertama pertemuan ini
+-0.4026	pertama saya akan
+-0.4026	pertanyaan </s> <s>
+-0.1941	pertanyaan dari teman-teman
+-0.5787	pertanyaan lagi </s>
+-0.3191	pertanyaan lain </s>
+-0.0934	pertanyaannya </s> <s>
+-0.1695	pertemuan hari ini
+-0.7081	pertemuan ini </s>
+-1.2777	pertemuan ini berhubungan
+-1.2777	pertemuan ini sudah
+-1.2777	pertemuan ini untuk
+-0.4026	pertemuan kali ini
+-1.0047	pertemuan pada akhir
+-0.3342	pertemuan pada hari
+-0.3191	pertemuan selanjutnya </s>
+-0.4026	perusahaan </s> <s>
+-0.4952	perusahaan ini </s>
+-0.5940	perusahaan kita </s>
+-1.3804	perusahaan kita tidak
+-0.4026	pihak puma terkait
+-0.5787	pilihan a untuk
+-0.1695	pindah ke lokasi
+-0.3771	poin </s> <s>
+-0.4026	poin ya </s>
+-0.4026	presentasinya </s> <s>
+-0.4026	produk </s> <s>
+-1.1808	produk ini </s>
+-0.1941	produksi </s> <s>
+-0.4026	produktivitas </s> <s>
+-0.4026	proposal </s> <s>
+-0.4026	proses bisnis perusahaan
+-0.4026	proyektor </s> <s>
+-0.4026	publikasi </s> <s>
+-0.3191	publikasi dan dokumentasi
+-0.4026	puluh delapan persen
+-0.8006	puluh persen </s>
+-0.4160	puluh persen dari
+-0.1941	puma </s> <s>
+-0.7037	punya usulan lain
+-0.4952	rapat berikutnya akan
+-0.4026	rapat hari ini
+-0.8798	rapat ini </s>
+-0.8798	rapat ini dengan
+-0.4026	rapat kali ini
+-0.7037	rapat khusus nanti
+-0.7037	rapat kita hari
+-0.1941	rapat perdana hari
+-0.4026	rapat sebelumnya </s>
+-0.1300	rasa teh hijau
+-0.4026	registrasi </s> <s>
+-0.5787	registrasi penjual baru
+-0.4026	relasi karyawan </s>
+-0.4026	rencana ke depannya
+-0.4026	rencana pengadaan barang
+-0.4026	repository </s> <s>
+-0.4026	research lebih lanjut
+-0.3191	ribu sembilan belas
+-0.1941	rifo </s> <s>
+-0.4026	rincian biaya lombanya
+-0.5787	riset produk </s>
+-0.4026	ruang rapat yang
+-0.1941	rupiah </s> <s>
+-0.3274	saat ini </s>
+-1.3321	saat ini sedang
+-0.3771	saja </s> <s>
+-0.7037	saja dari kami
+-1.2156	saja yang akan
+-1.2156	saja yang mau
+-1.2156	saja yang sudah
+-0.7037	salam sejahtera </s>
+-0.4026	sama </s> <s>
+-0.8798	sampai disini saja
+-0.4026	sampai saat ini
+-0.4026	sangat kecil </s>
+-0.4026	sangat sering digunakan
+-0.5787	satu hal tersebut
+-0.5787	satu kartu lagi
+-0.5787	satu sponsor yaitu
+-0.4026	saudara ensof </s>
+-0.3771	saya </s> <s>
+-0.8113	saya akan membahas
+-1.4818	saya akan memikirkannya
+-1.4818	saya akan memperkenalkan
+-0.2664	saya dari divisi
+-0.3342	saya ingin bertanya
+-0.4952	saya juga setuju
+-0.4026	saya kembalikan ke
+-0.4026	saya lebih setuju
+-0.5787	saya persilahkan kepada
+-0.8798	saya rasa hasil
+-0.5787	saya selaku pimpinan
+-0.4862	saya setuju dengan
+-0.4026	sbmptn </s> <s>
+-0.1695	sebagai berikut </s>
+-0.4026	sebagai kepala departemen
+-0.8798	sebagai ketua dari
+-0.4952	sebagai ketua divisi
+-0.5787	sebagai wakil dari
+-0.6201	sebelum kita memulai
+-0.4705	sebelum kita mulai
+-0.4026	sebelumnya </s> <s>
+-0.4026	sebesar tiga juta
+-0.7037	secara umum divisi
+-0.4026	segi logistik </s>
+-0.7037	segmen ini </s>
+-0.3191	sehingga dapat dikatakan
+-0.4026	sehingga saya berharap
+-0.4026	sejahtera </s> <s>
+-0.7037	sejauh ini </s>
+-0.1695	sekali </s> <s>
+-0.5787	sekali lagi terima
+-0.1695	sekarang </s> <s>
+-0.4952	sekarang kita akan
+-0.4026	sekarang mari kita
+-0.8006	sekarang saya akan
+-0.7361	sekian dari divisi
+-0.9211	sekian dari saya
+-1.3057	sekian dari seksi
+-1.3057	sekian dari sponsor
+-0.7037	sekian saja rapat
+-0.1941	sekian untuk topik
+-0.4026	sekitar tujuh ratus
+-0.5787	sekolah di finlandia
+-0.4292	seksi acara </s>
+-0.2183	seksi lapangan dan
+-0.9467	seksi logistik </s>
+-0.8006	seksi pendanaan </s>
+-0.8006	seksi sponsor </s>
+-1.2477	selain itu ada
+-0.4026	selama acara </s>
+-0.1695	selama empat bulan
+-0.4952	selamat pagi </s>
+-0.5705	selamat siang saya
+-0.6863	selamat siang semuanya
+-0.4026	selamat sore semuanya
+-0.3771	selanjutnya </s> <s>
+-0.4026	selanjutnya kirim data
+-0.5787	selanjutnya kita akan
+-0.4026	selera konsumen </s>
+-0.4026	selesai </s> <s>
+-0.4026	selesai minggu ini
+-0.4026	seluruh tim pembentukan
+-0.4026	semangat </s> <s>
+-0.4026	sembilan tahun selama
+-0.1300	semua </s> <s>
+-0.4026	semuanya </s> <s>
+-0.5217	seperti ini </s>
+-0.6201	seperti itu </s>
+-1.0047	seperti itu ya
+-0.8798	seperti yang kita
+-0.8798	seperti yang sudah
+-0.4026	sepertinya bagus untuk
+-0.4026	sesi tanya jawab
+-1.2477	sesuai dengan kepercayaan
+-0.8631	sesuai dengan keyakinan
+-0.4026	sesuatu </s> <s>
+-0.5787	setelah ini akan
+-0.3456	setelah itu ada
+-0.8798	setelah itu mereka
+-0.4026	setelah lomba </s>
+-0.4026	setempat </s> <s>
+-0.1300	setuju </s> <s>
+-1.2156	setuju dengan lomba
+-1.2156	setuju dengan pendapat
+-1.2156	setuju dengan usulan
+-0.1300	si </s> <s>
+-0.1941	siang hari ini
+-0.3456	siang saya dari
+-0.4125	siang semuanya </s>
+-0.4026	siap </s> <s>
+-0.1941	sih </s> <s>
+-0.4026	silahkan </s> <s>
+-0.3771	silakan </s> <s>
+-0.5621	sistem pendidikan finlandia
+-0.4026	sistem pengumpulan nilai
+-0.1941	siti </s> <s>
+-0.5787	siti dari departemen
+-0.8798	sma delapan yaitu
+-0.4026	soal </s> <s>
+-0.1941	software </s> <s>
+-0.4026	sore semuanya </s>
+-0.4026	sosial </s> <s>
+-0.3771	sponsor </s> <s>
+-0.4026	sprint </s> <s>
+-1.0047	sudah ada rincian
+-0.7037	sudah bersedia hadir
+-0.9467	sudah cukup jelas
+-0.4026	sudah dibahas </s>
+-0.1941	sudah sesuai dengan
+-0.3191	sudah tidak ada
+-0.4026	sumber dana itu
+-0.3771	sumber daya manusia
+-0.4026	susan </s> <s>
+-0.4026	susan sebagai ketua
+-0.1695	tadi </s> <s>
+-0.4026	tahun ajaran baru
+-0.3152	tahun depan </s>
+-1.1016	tahun depan akan
+-0.6466	tahun ini </s>
+-1.1808	tahun ini tidak
+-0.4026	tahun lalu </s>
+-0.7037	tahun sebelumnya </s>
+-0.1695	tampilan </s> <s>
+-0.4026	tamu </s> <s>
+-0.1941	tanggapan </s> <s>
+-0.8006	teh hijau </s>
+-0.1941	teknis </s> <s>
+-0.1941	teknologi </s> <s>
+-0.4026	teknologi dari perusahaan
+-0.4026	teknologi di perusahaan
+-0.4026	telah berhasil dilakukan
+-0.3191	telah diberikan </s>
+-0.4026	telah disediakan oleh
+-0.3191	telah hadir pada
+-0.8798	teman-teman semua </s>
+-0.8798	teman-teman semua yang
+-0.7037	teman-teman yang sudah
+-0.4026	tempat kerja </s>
+-0.4026	tenda dan kursi
+-0.4026	tentunya ini sangat
+-0.1695	terakhir </s> <s>
+-0.8798	terdapat beberapa hal
+-0.4026	terhambat </s> <s>
+-0.7608	terima kasih </s>
+-0.5933	terima kasih atas
+-1.5587	terima kasih buat
+-1.7082	terima kasih juga
+-2.0928	terima kasih kali
+-1.4223	terima kasih kepada
+-2.0928	terima kasih laporannya
+-1.7082	terima kasih moderator
+-2.0928	terima kasih pak
+-1.5587	terima kasih semuanya
+-1.7082	terima kasih sudah
+-0.8773	terima kasih untuk
+-0.4026	terkait </s> <s>
+-0.3152	terlebih dahulu </s>
+-1.1016	terlebih dahulu dengan
+-0.4026	tersebut </s> <s>
+-0.4026	tersebut antara lain
+-0.4026	tersedia hanya ada
+-0.1941	tertentu </s> <s>
+-0.4026	terus juga untuk
+-0.8006	tes persiapan </s>
+-0.1941	tidak </s> <s>
+-0.9685	tidak ada </s>
+-1.7548	tidak ada kendala
+-1.7548	tidak ada kita
+-1.2206	tidak ada masalah
+-1.2206	tidak ada pertanyaan
+-1.2206	tidak ada sekian
+-1.7548	tidak ada tanggapan
+-1.7548	tidak ada terima
+-1.7548	tidak ada yang
+-0.4026	tidak banyak berkembang
+-0.4026	tidak melebihi dana
+-0.4026	tidak pernah selesai
+-0.5621	tidak setuju </s>
+-0.9467	tidak setuju untuk
+-0.7037	tiga dan gudang
+-0.4160	tiga juta untuk
+-0.0934	tim pembentukan aplikasi
+-0.4026	topik pertama pertemuan
+-0.4026	tryout secara daring
+-0.4160	tujuh belas agustus
+-0.7170	tujuh belasan </s>
+-1.1016	tujuh belasan yang
+-0.5787	tujuh ratus ribuan
+-0.4026	turun </s> <s>
+-0.4026	tutup pertemuan pada
+-0.5787	tutup rapat hari
+-0.5787	ujian nasional maupun
+-0.4026	unggah ke drive
+-0.6201	untuk acara tujuh
+-0.5734	untuk bagian pemrosesan
+-1.1430	untuk bagian tampilan
+-0.4026	untuk berdoa sesuai
+-0.7037	untuk bulan desember
+-0.4952	untuk divisi teknis
+-0.9467	untuk masalah tempat
+-1.0047	untuk melakukan publikasi
+-1.0047	untuk membahas apa
+-1.0047	untuk membahas perkembangan
+-0.2183	untuk minggu ini
+-0.8006	untuk periode ini
+-0.4160	untuk periode saat
+-0.7037	untuk perusahaan di
+-0.4026	untuk poin berikutnya
+-0.8798	untuk rapat berikutnya
+-0.8798	untuk rapat kali
+-0.5787	untuk rencana ke
+-0.4026	untuk segmen ini
+-0.4125	untuk seksi lapangan
+-0.9467	untuk seksi medis
+-0.7037	untuk tahun depan
+-0.7037	untuk teman-teman semua
+-0.7037	untuk teman-teman yang
+-1.0559	untuk yang ini
+-1.0559	untuk yang pertama
+-0.4026	upah karyawan tahun
+-0.4026	user </s> <s>
+-0.7037	usia dini </s>
+-0.4026	usulan atau pendapat
+-0.5787	usulan lain </s>
+-0.5787	usulan yang menarik
+-0.4026	validasi dan tes
+-0.5787	wakil dari divisi
+-0.1941	waktu </s> <s>
+-0.5787	waktu dan tempat
+-0.4026	waktu jam kerja
+-0.9467	waktu yang telah
+-0.1941	waktunya </s> <s>
+-0.4026	web </s> <s>
+-0.4026	ya </s> <s>
+-0.8798	ya saya juga
+-0.8798	ya saya setuju
+-0.3771	ya silakan </s>
+-0.4026	ya terima kasih
+-0.3010	yang ada di
+-1.3057	yang ada saat
+-1.2084	yang akan berjaga
+-1.2084	yang akan datang
+-1.5930	yang akan dibahas
+-1.2084	yang akan digunakan
+-1.5930	yang akan dilaksanakan
+-1.5930	yang akan dilakukan
+-1.2084	yang akan kita
+-1.5930	yang akan melaporkan
+-0.5787	yang bagian tampilan
+-0.5621	yang bakal dipelajari
+-0.5787	yang bekerja di
+-0.8798	yang belum dibahas
+-0.1941	yang berhubungan dengan
+-0.4026	yang berkaitan dengan
+-0.4026	yang bertanggung jawab
+-0.8006	yang bisa kita
+-0.7037	yang cukup besar
+-0.7037	yang cukup mahal
+-0.3191	yang dialokasikan </s>
+-0.8798	yang diberikan </s>
+-0.8798	yang diberikan oleh
+-0.4026	yang dimiliki perusahaan
+-0.9467	yang harus kita
+-1.0047	yang ingin bertanya
+-1.0047	yang ingin disampaikan
+-1.0047	yang ingin ditanyakan
+-1.1016	yang ini sepertinya
+-0.4026	yang keberatan </s>
+-1.1016	yang kita ketahui
+-0.2218	yang lain </s>
+-1.0559	yang masih kuliah
+-0.6814	yang mau bertanya
+-1.2156	yang mau ditanyakan
+-1.1430	yang perlu diisi
+-0.6088	yang perlu kita
+-0.3191	yang punya usulan
+-0.7037	yang sama </s>
+-1.0559	yang sangat sering
+-0.4026	yang selama ini
+-0.9292	yang sudah bersedia
+-1.1484	yang telah dibahas
+-0.9988	yang telah diberikan
+-1.5330	yang telah disediakan
+-1.1484	yang telah hadir
+-1.0047	yang terakhir ada
+-1.0047	yang terakhir adalah
+-1.0047	yang terakhir yaitu
+-0.5621	yang terjadi pada
+-0.7037	yang terlalu banyak
+-0.8006	yang tersedia hanya
+-1.1430	yang tidak dapat
+-0.3566	yang tidak setuju
+-0.4026	yanto </s> <s>
+-0.8006	yanto dan bu
+-0.4160	yanto dan juga
+-0.4026	yel-yel </s> <s>
+
+\end\

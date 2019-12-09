@@ -1,0 +1,15 @@
+HVite -A -D -T -l 1 * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 1000.0 1000.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+

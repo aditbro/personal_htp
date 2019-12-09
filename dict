@@ -88,7 +88,7 @@ anonim a n o n i m
 antar a n t a r
 antara a n t a r a
 apa a p a
-apa-apa a p a \' a p a
+apa-apa a p a q a p a
 apabila a p a b i l a
 apakah a p a k a h
 aplikasi a p l i k a s i
@@ -176,7 +176,7 @@ basis b a s i s
 batas b a t a s
 bawa b a w a
 bayam b a y a m
-bbm b e b e \' e m
+bbm b e b e q e m
 beban b @ b a n
 bebas b @ b a s
 bebas b e b a s
@@ -226,7 +226,7 @@ berdampak b @ r d a m p a k
 berdasarkan b @ r d a s a r k a n
 berdekatan b @ r d @ k a t a n
 berdiri b @ r d i r i
-berdoa b @ r d o \' a
+berdoa b @ r d o q a
 berdoa b @ r d o a
 berdua b @ r d u a
 berefek b @ r e f e k
@@ -264,7 +264,7 @@ berlangsung b @ r l a ng s u ng
 berlanjut b @ r l a n j u t
 berlebih b @ r l @ b i h
 berlomba b @ r l o m b a
-bermanfaat b @ r m a n f a \' a t
+bermanfaat b @ r m a n f a q a t
 bernama b @ r n a m a
 berpartisipasi b @ r p a r t i s i p a s i
 berpengaruh b @ r p @ ng a r u h
@@ -320,7 +320,7 @@ boleh b o l e h
 bonus b o n u s
 brokoli b r o k o l i
 browser b r o w s @ r
-brt b e \' e r t e
+brt b e q e r t e
 bu b u
 buah b u a h
 buat b u a t
@@ -350,7 +350,7 @@ catatan c a t a t a n
 catet c a t @ t
 cek c e k
 cenderung c e n d e r u ng
-ceo s i \' i \' o
+ceo s i q i q o
 cepat c @ p a t
 cepat c e p a t
 cerita c @ r i t a
@@ -367,9 +367,9 @@ cukup c u k u p
 cukupkan c u k u p k a n
 cuma c u m a
 cumi c u m i
-daerah d a \' e r a h
+daerah d a q e r a h
 daerah d a e r a h
-daerah-daerah d a \' e r a h d a \' e r a h
+daerah-daerah d a q e r a h d a q e r a h
 daftar d a f t a r
 dahulu d a h u l u
 dalam d a l a m
@@ -407,7 +407,7 @@ depannya d @ p a n ny a
 departemen d @ p a r t @ m @ n
 departemen d @ p a r t @ m e n
 departemennya d @ p a r t @ m e n ny a
-deployment d e p l o y m e n t
+deployment d e p l oy m e n t
 desain d i s a i n
 desember d @ s e m b e r
 desember d e s e m b @ r
@@ -478,14 +478,14 @@ diharuskan d i h a r u s k a n
 dihentikan d i h @ n t i k a n
 dihilangkan d i h i l a ng k a n
 dihitung d i h i t u ng
-diikuti d i \' i k u t i
-diimplementasikan d i \' i m p l @ m @ n t a s i k a n
-diinfokan d i \' i n f o k a n
-diingat d i \' i ng a t
-diingatkan d i \' i ng a t k a n
-diinginkan d i \' i ng i n k a n
-diinisiasikan d i \' i n i s i a s i k a n
-diisi d i \' i s i
+diikuti d i q i k u t i
+diimplementasikan d i q i m p l @ m @ n t a s i k a n
+diinfokan d i q i n f o k a n
+diingat d i q i ng a t
+diingatkan d i q i ng a t k a n
+diinginkan d i q i ng i n k a n
+diinisiasikan d i q i n i s i a s i k a n
+diisi d i q i s i
 dijabarkan d i j a b a r k a n
 dijadikan d i j a d i k a n
 dijelaskan d i j @ l a s k a n
@@ -520,7 +520,7 @@ diluncurkan d i l u n c u r k a n
 dimana d i m a n a
 dimasuki d i m a s u k i
 dimasukin d i m a s u k i n
-dimasukkan d i m a s u k \' k a n
+dimasukkan d i m a s u k q k a n
 dimasukkan d i m a s u k k a n
 dimiliki d i m i l i k i
 diminati d i m i n a t i
@@ -621,21 +621,21 @@ ditunda d i t u n d a
 ditunggu d i t u ng g u
 ditunjukkan d i t u n j u k k a n
 ditutup d i t u t u p
-diubah d i \' u b a h
+diubah d i q u b a h
 diubah d i u b a h
 diundang d i u n d a ng
 diunduh d i u n d u h
 diunggah d i u ng g a h
 diurus d i u r u s
 diusahakan d i u s a h a k a n
-diusulkan d i \' u s u l k a n
+diusulkan d i q u s u l k a n
 divalidasi d i f a l i d a s i
 divisi d i f i s i
 divisi-divisi d i f i s i d i f i s i
 divisinya d i f i s i ny a
 diwakili d i w a k i l i
 dlapan d l a p a n
-doa d o \' a
+doa d o q a
 doa d o a
 doang d o a ng
 dokumentasi d o k u m @ n t a s i
@@ -676,7 +676,7 @@ estavet e s t a f e t
 estimasi e s t i m a s i
 etis e t i s
 evaluasi e f a l u a s i
-expo e k s \' p o
+expo e k s q p o
 exponya e k s p o ny a
 facto f a k t o
 fair f e r
@@ -910,17 +910,17 @@ kata k a t a
 katakan k a t a k a n
 katanya k a t a ny a
 kaya k a y a
-kayak k a y a \'
+kayak k a y a q
 kayak k a y a k
-kayaknya k a y a \' ny a
+kayaknya k a y a q ny a
 kayaknya k a y a k ny a
 ke k @
 ke k e
-keadaan k @ \' a d a \' a n
-keadaan k e a d a \' a n
+keadaan k @ q a d a q a n
+keadaan k e a d a q a n
 keamanan k @ a m a n a n
 keamanan k e a m a n a n
-keanggotaan k @ a ng g o t a \' a n
+keanggotaan k @ a ng g o t a q a n
 kebebasan k @ b e b a s a n
 keberatan k @ b @ r a t a n
 keberhasilan k @ b @ r h a s i l a n
@@ -928,10 +928,10 @@ keberjalanan k @ b @ r j a l a n a n
 keberjalanannya k @ b @ r j a l a n a n ny a
 keberlangsungan k @ b @ r l a ng s u ng a n
 kebijakan k @ b i j a k a n
-kebudayaan k @ b u d a y a \' a n
+kebudayaan k @ b u d a y a q a n
 kebutuhan k @ b u t u h a n
 kebutuhannya k @ b u t u h a n ny a
-kecelakaan k @ c @ l a k a \' a n
+kecelakaan k @ c @ l a k a q a n
 kecil k @ c i l
 kedatangan k @ d a t a ng a n
 kedepannya k @ d @ p a n ny a
@@ -948,10 +948,10 @@ kehadirannya k @ h a d i r a n ny a
 kehidupan k @ h i d u p a n
 kehijauan k @ h i j aw a n
 keisi k @ i s i
-keistimewaan k @ \' i s t i m e w a \' a n
+keistimewaan k @ q i s t i m e w a q a n
 kejadian k @ j a d i a n
 kejar k @ j a r
-kekeluargaan k @ k @ l u a r g a \' a n
+kekeluargaan k @ k @ l u a r g a q a n
 kekurangan k @ k u r a ng a n
 kekurangannya k @ k u r a ng a n ny a
 kelancaran k @ l a n c a r a n
@@ -971,7 +971,7 @@ kemajuan k @ m a j u a n
 kemajuannya k @ m a j u a n ny a
 kemampuan k @ m a m p u a n
 kemampuan k @ m a m p u w a n
-kemanusiaan k @ m a n u s i a \' a n
+kemanusiaan k @ m a n u s i a q a n
 kemaren k @ m a r e n
 kemarin k @ m a r i n
 kemarin k e m a r i n
@@ -980,7 +980,7 @@ kembali k @ m b a l i
 kembalikan k @ m b a l i k a n
 kembangkan k @ m b a ng k a n
 kemeja k @ m e j a
-kemerdekaan k @ m @ r d e k a \' a n
+kemerdekaan k @ m @ r d e k a q a n
 kemudahan k @ m u d a h a n
 kemudian k @ m u d i a n
 kemudian k e m u d i a n
@@ -990,11 +990,11 @@ kenal k @ n a l
 kenapa k @ n a p a
 kendala k @ n d a l a
 kendalanya k @ n d a l a ny a
-kendaraan k @ n d a r a \' a n
+kendaraan k @ n d a r a q a n
 kepada k @ p a d a
 kepala k @ p a l a
 kepengurusan k @ p @ ng u r u s a n
-kepercayaan k @ p @ r c a y a \' a n
+kepercayaan k @ p @ r c a y a q a n
 keperluan k @ p @ r l u a n
 kepopulerannya k @ p o p u l e r a n ny a
 keputusan k @ p u t u s a n
@@ -1010,23 +1010,23 @@ kerupuk k @ r u p u k
 kesaktian k @ s a k t i a n
 kesalahan k @ s a l a h a n
 kesatuan k @ s a t u a n
-kesediaan k @ s @ d i a \' a n
-kesejahteraan k @ s @ j a h t @ r a \' a n
+kesediaan k @ s @ d i a q a n
+kesejahteraan k @ s @ j a h t @ r a q a n
 kesempatan k @ s @ m p a t a n
 kesepakatan k @ s @ p a k a t a n
 kesepakatannya k @ s @ p a k a t a n ny a
-kesetiaan k @ s @ t i a \' a n
+kesetiaan k @ s @ t i a q a n
 kesiapan k @ s i a p a n
 kesiapannya k @ s i a p a n ny a
 kesimpulan k @ s i m p u l a n
-kesukaan k @ s u k a \' a n
+kesukaan k @ s u k a q a n
 kesulitan k @ s u l i t a n
 ketahui k @ t a h u i
 ketemu k @ t @ m u
 keterampilan k @ t @ r a m p i l a n
 keterbatasan k @ t @ r b a t a s a n
 keterlambatan k @ t @ r l a m b a t a n
-ketersediaannya k @ t @ r s @ d i a \' a n ny a
+ketersediaannya k @ t @ r s @ d i a q a n ny a
 ketertarikan k @ t @ r t a r i k a n
 ketidakpuasan k @ t i d a k p u a s a n
 ketiga k @ t i g a
@@ -1035,11 +1035,11 @@ ketinggalan k @ t i ng g a l a n
 ketua k @ t u a
 ketua k @ t u w a
 ketujuh k @ t u j u h
-keuangan k @ \' u a ng a n
-keuangan k @ \' u w a ng a n
+keuangan k @ q u a ng a n
+keuangan k @ q u w a ng a n
 keuangan k @ u a ng a n
 keunikan k @ u n i k a n
-keuntungan k @ \' u n t u ng a n
+keuntungan k @ q u n t u ng a n
 keuntungan k @ u n t u ng a n
 keuntungan k e u n t u ng a n
 keyakinan k @ y a k i n a n
@@ -1077,8 +1077,8 @@ konten k o n t e n
 kontinu k o n t i ny u
 kontrak k o n t r a k
 kontraktor k o n t r a k t o r
-koordinasi k o \' o r d i n a s i
-koordinasikan k o \' o r d i n a s i k a n
+koordinasi k o q o r d i n a s i
+koordinasikan k o q o r d i n a s i k a n
 korea k o r e a
 korupsi k o r u p s i
 kosong k o s o ng
@@ -1174,7 +1174,7 @@ lulusan l u l u s a n
 lulusan-lulusannya l u l u s a n l u l u s a n ny a
 lulusannya l u l u s a n ny a
 lupa l u p a
-maaf m a \' a f
+maaf m a q a f
 macam m a c a m
 magang m a g a ng
 mahal m a h a l
@@ -1211,7 +1211,7 @@ masih m a s i h
 masing m a s i ng
 masing-masing m a s i ng m a s i ng
 massa m a s s a
-mastiin m a s t i \' i n
+mastiin m a s t i q i n
 masuk m a s u k
 masukan m a s u k a n
 masukannya m a s u k a n ny a
@@ -1600,18 +1600,18 @@ pasifik p a s i f i k
 pasti p a s t i
 pastinya p a s t i ny a
 patut p a t u t
-pdfnya p e d e \' e f ny a
+pdfnya p e d e q e f ny a
 pecahkan p @ c a h k a n
 pegawai p @ g a w a i
 pejantan p @ j a n t a n
 pekerja p @ k @ r j a
-pekerjaan p @ k @ r j a \' a n
-pekerjaan p @ k e r j a \' a n
-pekerjaannya p @ k @ r j a \' a n ny a
-pekerjaannya p @ k @ r j a \' a ny a
+pekerjaan p @ k @ r j a q a n
+pekerjaan p @ k e r j a q a n
+pekerjaannya p @ k @ r j a q a n ny a
+pekerjaannya p @ k @ r j a q a ny a
 pelajaran p @ l a j a r a n
-pelaksanaan p @ l a k s a n a \' a n
-pelaksanaannya p @ l a k s a n a \' a n ny a
+pelaksanaan p @ l a k s a n a q a n
+pelaksanaannya p @ l a k s a n a q a n ny a
 pelantikan p @ l a n t i k a n
 pelaporan p @ l a p o r a n
 pelatihan p @ l a t i h a n
@@ -1623,7 +1623,7 @@ pemateri p @ m a t @ r i
 pemateri p @ m a t e r i
 pematerinya p @ m a t @ r i ny a
 pematerinya p @ m a t e r i ny a
-pembacaan p @ m b a c a \' a n
+pembacaan p @ m b a c a q a n
 pembagian p @ m b a g i a n
 pembaharuan p @ m b a h a r u w a n
 pembahasan p @ m b a h a s a n
@@ -1644,10 +1644,10 @@ pembicarasehingga p @ m b i c a r a s @ h i ng g a
 pembuatan p @ m b u a t a n
 pembuka p @ m b u k a
 pemenangnya p @ m @ n a ng ny a
-pemeriksaan p @ m @ r i k s a \' a n
+pemeriksaan p @ m @ r i k s a q a n
 pemerintah p @ m @ r i n t a h
 pemesanan p @ m @ s a n a n
-pemetaan p @ m e t a \' a n
+pemetaan p @ m e t a q a n
 pemikiran p @ m i k i r a n
 pemilik p @ m i l i k
 pemilik p e m i l i k
@@ -1662,32 +1662,32 @@ penanya p @ n a ny a
 pencapaian p @ n c a p ay a n
 pencarian p @ n c a r i a n
 pendaftaran p @ n d a f t a r a n
-pendanaan p @ n d a n a \' a n
-pendanaannya p @ n d a n a \' a n ny a
+pendanaan p @ n d a n a q a n
+pendanaannya p @ n d a n a q a n ny a
 pendapat p @ n d a p a t
 pendapatan p @ n d a p a t a n
 pendapatnya p @ n d a p a t ny a
 pendek p e n d e k
 pendidikan p @ n d i d i k a n
 penempatan p @ n @ m p a t a n
-pengadaan p @ ng a d a \' a n
+pengadaan p @ ng a d a q a n
 pengajuan p @ ng a j u a n
 pengalaman p @ ng a l a m a n
 pengaruh p @ ng a r u h
 pengecekan p @ ng @ c e k a n
 pengeditan p @ ng @ d i t a n
-pengelolaan p @ ng @ l o l a \' a n
+pengelolaan p @ ng @ l o l a q a n
 pengeluaran p @ ng @ l u a r a n
 pengeluaran p @ ng @ l u w a r a n
 pengembangan p @ ng @ m b a ng a n
-pengerjaan p @ ng @ r j a \' a n
-pengerjaannya p @ ng @ r j a \' a n ny a
+pengerjaan p @ ng @ r j a q a n
+pengerjaannya p @ ng @ r j a q a n ny a
 pengetahuan p @ ng e t a h u a n
 penggalangan p @ ng g a l a ng a n
 pengguna p @ ng g u n a
-penggunaan p @ ng g u n a \' a n
-penggunaannya p @ ng g u n a \' a n ny a
-penghargaan p @ ng h a r g a \' a n
+penggunaan p @ ng g u n a q a n
+penggunaannya p @ ng g u n a q a n ny a
+penghargaan p @ ng h a r g a q a n
 pengiriman p @ ng i r i m a n
 pengirimannya p @ ng i r i m a n ny a
 pengisian p @ ng i s i a n
@@ -1732,10 +1732,10 @@ perbaikan p @ r b a i k a n
 perbandingan p @ r b a n d i ng a n
 perbankan p @ r b a n k a n
 percaya p @ r c a y a
-percobaan p @ r c o b a \' a n
+percobaan p @ r c o b a q a n
 perdana p @ r d a n a
 perekrutan p @ r @ k r u t a n
-perencanaan p @ r @ c a n a \' a n
+perencanaan p @ r @ c a n a q a n
 performa p @ r f o r m a
 performanya p @ r f o r m a ny a
 pergi p @ r g i
@@ -1750,7 +1750,7 @@ perkelas p @ r k @ l a s
 perkembangan p @ r k @ m b a ng a n
 perkembangannya p @ r k @ m b a ng a n ny a
 perkenalkan p @ r k @ n a l k a n
-perkiraan p @ r k i r a \' a n
+perkiraan p @ r k i r a q a n
 perkuliahan p @ r k u l i a h a n
 perlahan p @ r l a h a n
 perlengkapan p @ r l @ ng k a p a n
@@ -1759,8 +1759,8 @@ perluasan p @ r l u w a s a n
 perlukan p @ r l u k a n
 permainan p @ r m a i n a n
 permasalahan p @ r m a s a l a h a n
-permintaan p @ r m i n t a \' a n
-permintaannya p @ r m i n t a \' a n ny a
+permintaan p @ r m i n t a q a n
+permintaannya p @ r m i n t a q a n ny a
 permohonan p @ r m o h o n a n
 pernah p @ r n a h
 persen p @ r s @ n
@@ -1772,8 +1772,8 @@ pertama p @ r t a m a
 pertama-tama p @ r t a m a t a m a
 pertamanya p @ r t a m a ny a
 pertandingan p @ r t a n d i ng a n
-pertanyaan p @ r t a ny a \' a n
-pertanyaannya p @ r t a ny a \' a n ny a
+pertanyaan p @ r t a ny a q a n
+pertanyaannya p @ r t a ny a q a n ny a
 pertemuan p @ r t @ m u a n
 pertemuan p @ r t @ m u w a n
 pertengahan p @ r t @ ng a h a n
@@ -1782,10 +1782,10 @@ pertimbangkan p @ r t i m b a ng k a n
 pertolongan p @ r t o l o ng a n
 pertumbuhan p @ r t u m b u h a n
 perubahan p @ r u b a h a n
-perusahaan p @ r u s a h a \' a n
-perusahaan p e r u s a h a \' a n
-perusahaan-perusahaan p @ r u s a h a \' a n p @ r u s a h a \' a n
-perusahaannya p @ r u s a h a \' a n ny a
+perusahaan p @ r u s a h a q a n
+perusahaan p e r u s a h a q a n
+perusahaan-perusahaan p @ r u s a h a q a n p @ r u s a h a q a n
+perusahaannya p @ r u s a h a q a n ny a
 perwakilan p @ r w a k i l a n
 perwakilannya p @ r w a k i l a n ny a
 pesaing p @ s a i ng
@@ -1828,7 +1828,7 @@ postingan p o s t i ng a n
 potensi p o t @ n s i
 potensi p o t e n s i
 potong p o t o ng
-pr p e \' e r
+pr p e q e r
 pra p r a
 prasarana p r a s a r a n a
 presentasi p r e s e n t a s i
@@ -1922,8 +1922,8 @@ rumit r u m i t
 rupiah r u p i a h
 rusak r u s a k
 rutin r u t i n
-saat s a \' a t
-saatnya s a \' a t ny a
+saat s a q a t
+saatnya s a q a t ny a
 saham s a h a m
 saingan s a i ng a n
 sains s a i n s
@@ -1960,10 +1960,10 @@ sayur s a y u r
 sayuran s a y u r a n
 sbmptn s b m p t n
 science s ay @ n s
-scm e s c e \' e m
+scm e s c e q e m
 scrum s k r a m
-sd e s \' d e
-sdm-sdm e s \' d e \' e m \' e s \' d e \' e m
+sd e s q d e
+sdm-sdm e s q d e q e m q e s q d e q e m
 se-asia s @ a s i a
 seadil-adilnya s @ a d i l a d i l ny a
 sebagai s @ b a g a i
@@ -2007,7 +2007,7 @@ sehabis s @ h a b i s
 sehari s @ h a r i
 seharusnya s @ h a r u s ny a
 sehingga s @ h i ng g a
-seihlasnya s @ \' i h l a s ny a
+seihlasnya s @ q i h l a s ny a
 seimbang s @ i m b a ng
 seingetku s @ i ng @ t k u
 sejahtera s @ j a h t @ r a
@@ -2061,6 +2061,8 @@ sendiri s @ n d i r i
 sendok s e n d o k
 seni s @ n i
 senin s @ n i n
+SENT-END sil
+SENT-START sil
 seorang s @ o r a ng
 sepakati s @ p a k a t i
 sepanjang s @ p a n j a ng
@@ -2137,14 +2139,14 @@ skala s k a l a
 skema s k @ m a
 skor s k o r
 slain s l a i n
-sma e s \' e m \' a
+sma e s q e m q a
 sma s m a
-smp e s \' e m \' p e
-snmptn e s \' e n \' e m \' p e \' t e \' e n
-soal s o \' a l
+smp e s q e m q p e
+snmptn e s q e n q e m q p e q t e q e n
+soal s o q a l
 soal s o a l
 soal-soal s o a l s o a l
-soalnya s o \' a l ny a
+soalnya s o q a l ny a
 soalnya s o a l ny a
 software s o f t w e r
 software s o ft w e r
@@ -2327,12 +2329,12 @@ tool t u l
 topik t o p i k
 topik-topik t o p i k t o p i k
 total t o t a l
-tpb t e \' p e \' b e
+tpb t e q p e q b e
 training t r e i n i ng
 traveloka t e r a f e l o k a
 trisemester t r i s @ m e s t @ r
 tryout t r y o u t
-tu t e \' u
+tu t e q u
 tugas t u g a s
 tugasnya t u g a s ny a
 tuh t u h
@@ -2349,11 +2351,11 @@ turut t u r u t
 tutup t u t u p
 uang u a ng
 uang u w a ng
-uas u \' a \' e s
+uas u q a q e s
 ucapkan u c a p k a n
 udah u d a h
 ujian u j i a n
-ukm u k a \' e m
+ukm u k a q e m
 ukur u k u r
 ukuran u k u r a n
 ulang u l a ng
